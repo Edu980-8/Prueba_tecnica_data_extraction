@@ -1,0 +1,1657 @@
+ADRIA               Diesel                 Galicia                     0001
+ALFAROMEO           Diesel                 Andaluc�a                   0047
+ALFAROMEO           Diesel                 Arag�n                      0041
+ALFAROMEO           Diesel                 Asturias (Principado de)    0010
+ALFAROMEO           Diesel                 Balears (Illes)             0006
+ALFAROMEO           Diesel                 Canarias                    0019
+ALFAROMEO           Diesel                 Castilla y Le�n             0026
+ALFAROMEO           Diesel                 Castilla-La Mancha          0009
+ALFAROMEO           Diesel                 Catalu�a                    0112
+ALFAROMEO           Diesel                 Ceuta                       0001
+ALFAROMEO           Diesel                 Comunitat Valenciana        0192
+ALFAROMEO           Diesel                 Extremadura                 0005
+ALFAROMEO           Diesel                 Galicia                     0023
+ALFAROMEO           Diesel                 Madrid (Comunidad de)       0162
+ALFAROMEO           Diesel                 Murcia (Regi�n de)          0010
+ALFAROMEO           Diesel                 Navarra (Comunidad Foral de)0003
+ALFAROMEO           Diesel                 Pa�s Vasco                  0007
+ALFAROMEO           Gasolina               Andaluc�a                   0014
+ALFAROMEO           Gasolina                                           0003
+ALFAROMEO           Gasolina               Asturias (Principado de)    0001
+ALFAROMEO           Gasolina               Balears (Illes)             0005
+ALFAROMEO           Gasolina               Canarias                    0025
+ALFAROMEO           Gasolina               Cantabria                   0001
+ALFAROMEO           Gasolina               Castilla y Le�n             0002
+ALFAROMEO           Gasolina               Castilla-La Mancha          0001
+                    Gasolina               Catalu�a                    0013
+ALFAROMEO           Gasolina               Comunitat Valenciana        0010
+ALFAROMEO           Gasolina               Extremadura                 0001
+ALFAROMEO           Gasolina               Galicia                     0011
+ALFAROMEO           Gasolina               Madrid (Comunidad de)       0014
+ALFAROMEO           Gasolina               Pa�s Vasco                  0002
+ALLARD              Gasolina               Madrid (Comunidad de)       0001
+AMGENERALCORP       Gasolina               Andaluc�a                   0001
+APICZ               Diesel                 Catalu�a                    0001
+APICZ               Diesel                 Comunitat Valenciana        0001
+APICZ               Gasolina               Murcia (Regi�n de)          0001
+ASTONMARTIN         Gasolina               Andaluc�a                   0004
+ASTONMARTIN         Gasolina               Balears (Illes)             0001
+ASTONMARTIN         Gasolina               Castilla y Le�n             0001
+ASTONMARTIN         Gasolina               Castilla-La Mancha          0001
+ASTONMARTIN         Gasolina               Catalu�a                    0004
+ASTONMARTIN         Gasolina               Comunitat Valenciana        0001
+ASTONMARTIN         Gasolina               Madrid (Comunidad de)       0041
+ASTONMARTIN         Gasolina               Murcia (Regi�n de)          0002
+AUDI                Diesel                 Andaluc�a                   1235
+AUDI                Diesel                 Arag�n                      0186
+AUDI                Diesel                 Asturias (Principado de)    0175
+AUDI                Diesel                 Balears (Illes)             0155
+AUDI                Diesel                 Canarias                    0057
+AUDI                Diesel                 Cantabria                   0117
+AUDI                Diesel                 Castilla y Le�n             0405
+AUDI                Diesel                 Castilla-La Mancha          0346
+AUDI                Diesel                 Catalu�a                    1774
+AUDI                Diesel                 Ceuta                       0012
+AUDI                Diesel                 Comunitat Valenciana        0911
+AUDI                Diesel                 Extremadura                 0158
+AUDI                Diesel                 Galicia                     0567
+AUDI                Diesel                 Madrid (Comunidad de)       0162
+AUDI                Diesel                 Melilla                     0006
+AUDI                Diesel                 Murcia (Regi�n de)          0337
+AUDI                Diesel                 Navarra (Comunidad Foral de)0105
+AUDI                Diesel                 Pa�s Vasco                  0420
+AUDI                Diesel                 Rioja (La)                  0058
+AUDI                El�ctrico              Andaluc�a                   0002
+AUDI                El�ctrico              Arag�n                      0002
+AUDI                El�ctrico              Balears (Illes)             0001
+AUDI                El�ctrico              Canarias                    0002
+AUDI                El�ctrico              Catalu�a                    0001
+AUDI                El�ctrico              Comunitat Valenciana        0001
+AUDI                El�ctrico              Madrid (Comunidad de)       0010
+AUDI                Gas Licuado de PetroleoPa�s Vasco                  0001
+AUDI                Gasolina               Andaluc�a                   0217
+AUDI                Gasolina               Arag�n                      0037
+AUDI                Gasolina               Asturias (Principado de)    0028
+AUDI                Gasolina               Balears (Illes)             0221
+AUDI                Gasolina               Canarias                    0155
+AUDI                Gasolina               Cantabria                   0036
+AUDI                Gasolina               Castilla y Le�n             0116
+AUDI                Gasolina               Castilla-La Mancha          0063
+AUDI                Gasolina               Catalu�a                    0589
+AUDI                Gasolina               Ceuta                       0006
+AUDI                                       Comunitat Valenciana        0431
+AUDI                Gasolina               Extremadura                 0026
+AUDI                Gasolina               Galicia                     0118
+AUDI                Gasolina               Madrid (Comunidad de)       0003
+AUDI                Gasolina               Murcia (Regi�n de)          0047
+AUDI                Gasolina               Navarra (Comunidad Foral de)0022
+AUDI                Gasolina               Pa�s Vasco                  0150
+AUDI                Gasolina               Rioja (La)                  0008
+AUSTIN              Gasolina               Catalu�a                    0001
+AUSTIN              Gasolina               Galicia                     0001
+AUSTIN              Gasolina               Madrid (Comunidad de)       0001
+AUSTINROVER         Gasolina               Andaluc�a                   0001
+BENTLEY             Gasolina               Andaluc�a                   0015
+BENTLEY             Gasolina               Balears (Illes)             0001
+BENTLEY             Gasolina               Canarias                    0001
+BENTLEY             Gasolina               Catalu�a                    0004
+BENTLEY             Gasolina               Comunitat Valenciana        0004
+BENTLEY             Gasolina               Madrid (Comunidad de)       0007
+BIERMAN             Diesel                 Extremadura                 0001
+BMW                 Biometano              Navarra (Comunidad Foral de)0001
+BMW                 Diesel                 Andaluc�a                   1199
+BMW                 Diesel                 Arag�n                      0172
+BMW                 Diesel                 Asturias (Principado de)    0147
+BMW                 Diesel                 Balears (Illes)             0213
+BMW                 Diesel                 Canarias                    0201
+BMW                 Diesel                 Cantabria                   0103
+BMW                 Diesel                 Castilla y Le�n             0338
+BMW                 Diesel                 Castilla-La Mancha          0287
+BMW                 Diesel                 Catalu�a                    1328
+BMW                 Diesel                 Ceuta                       0004
+BMW                 Diesel                 Comunitat Valenciana        0982
+BMW                 Diesel                 Extremadura                 0135
+BMW                 Diesel                                             0344
+BMW                 Diesel                 Madrid (Comunidad de)       5990
+BMW                 Diesel                 Melilla                     0006
+BMW                 Diesel                 Murcia (Regi�n de)          0235
+BMW                 Diesel                 Navarra (Comunidad Foral de)0079
+BMW                 Diesel                 Pa�s Vasco                  0275
+BMW                 Diesel                 Rioja (La)                  0039
+BMW                 El�ctrico              Balears (Illes)             0001
+BMW                 El�ctrico              Comunitat Valenciana        0003
+BMW                 El�ctrico              Madrid (Comunidad de)       0017
+BMW                 El�ctrico              Pa�s Vasco                  0002
+BMW                 Gasolina               Andaluc�a                   0088
+BMW                 Gasolina               Arag�n                      0014
+BMW                 Gasolina               Asturias (Principado de)    0007
+BMW                 Gasolina               Balears (Illes)             0031
+BMW                 Gasolina               Canarias                    0045
+BMW                 Gasolina               Cantabria                   0008
+BMW                 Gasolina               Castilla y Le�n             0033
+BMW                 Gasolina               Castilla-La Mancha          0018
+BMW                 Gasolina               Catalu�a                    0153
+BMW                 Gasolina               Comunitat Valenciana        0124
+BMW                 Gasolina               Extremadura                 0006
+BMW                 Gasolina               Galicia                     0040
+BMW                 Gasolina               Madrid (Comunidad de)       0272
+BMW                 Gasolina               Melilla                     0001
+BMW                 Gasolina               Murcia (Regi�n de)          0015
+BMW                 Gasolina               Navarra (Comunidad Foral de)0005
+BMW                 Gasolina               Pa�s Vasco                  0045
+BMW                 Gasolina               Rioja (La)                  0001
+BMWI                Diesel                 Madrid (Comunidad de)       0008
+BMWI                El�ctrico              Andaluc�a                   0001
+                    El�ctrico              Canarias                    0001
+BMWI                El�ctrico              Catalu�a                    0013
+BMWI                El�ctrico              Comunitat Valenciana        0001
+BMWI                El�ctrico              Madrid (Comunidad de)       0048
+BMWI                Gasolina               Balears (Illes)             0001
+BMWI                Gasolina               Castilla-La Mancha          0001
+BMWI                                       Catalu�a                    0002
+BMWI                Gasolina               Madrid (Comunidad de)       0001
+BUGGY               Gasolina               Andaluc�a                   0001
+BUICK               Gasolina               Andaluc�a                   0004
+CADILLAC            Gasolina               Andaluc�a                   0003
+CADILLAC            Gasolina               Madrid (Comunidad de)       0001
+CADILLAC            Sin especificar        Castilla y Le�n             0001
+CARRUXO             Gasolina               Andaluc�a                   0001
+CHAUSSON            Diesel                 Catalu�a                    0001
+CHEVROLET           Diesel                 Andaluc�a                   0002
+CHEVROLET           Diesel                 Balears (Illes)             0002
+CHEVROLET           Diesel                 Castilla y Le�n             0001
+CHEVROLET           Diesel                 Castilla-La Mancha          0001
+CHEVROLET           Diesel                 Comunitat Valenciana        0003
+CHEVROLET           Diesel                 Madrid (Comunidad de)       0003
+CHEVROLET           Diesel                 Murcia (Regi�n de)          0001
+CHEVROLET           Gasolina               Andaluc�a                   0013
+CHEVROLET           Gasolina               Balears (Illes)             0006
+CHEVROLET           Gasolina               Canarias                    0003
+CHEVROLET           Gasolina               Catalu�a                    0001
+CHEVROLET           Gasolina               Comunitat Valenciana        0006
+CHEVROLET           Gasolina               Galicia                     0001
+CHEVROLET           Gasolina               Madrid (Comunidad de)       0005
+CHEVROLET           Gasolina               Murcia (Regi�n de)          0004
+CHEVROLET           Sin especificar        Asturias (Principado de)    0001
+CHRYSLER            Diesel                 Andaluc�a                   0007
+CHRYSLER            Diesel                 Arag�n                      0002
+CHRYSLER            Diesel                 Asturias (Principado de)    0002
+CHRYSLER            Diesel                 Balears (Illes)             0001
+CHRYSLER            Diesel                 Canarias                    0003
+CHRYSLER            Diesel                 Castilla y Le�n             0003
+CHRYSLER            Diesel                 Castilla-La Mancha          0001
+CHRYSLER            Diesel                 Catalu�a                    0004
+CHRYSLER            Diesel                 Comunitat Valenciana        0004
+CHRYSLER            Diesel                 Extremadura                 0001
+CHRYSLER            Diesel                 Galicia                     0001
+CHRYSLER            Diesel                 Madrid (Comunidad de)       0006
+CHRYSLER            Diesel                 Murcia (Regi�n de)          0003
+CHRYSLER            Gasolina               Andaluc�a                   0007
+CHRYSLER            Gasolina               Arag�n                      0001
+CHRYSLER            Gasolina               Balears (Illes)             0003
+CHRYSLER            Gasolina               Catalu�a                    0003
+CHRYSLER            Gasolina               Comunitat Valenciana        0009
+CHRYSLER            Gasolina               Madrid (Comunidad de)       0002
+CHRYSLER            Gasolina               Murcia (Regi�n de)          0005
+CITROEN             Diesel                 Andaluc�a                   2064
+CITROEN             Diesel                 Arag�n                      0229
+CITROEN             Diesel                 Asturias (Principado de)    0181
+CITROEN             Diesel                 Balears (Illes)             0447
+CITROEN             Diesel                 Canarias                    0052
+CITROEN             Diesel                 Cantabria                   0129
+CITROEN             Diesel                 Castilla y Le�n             0415
+CITROEN             Diesel                 Castilla-La Mancha          0975
+CITROEN             Diesel                 Catalu�a                    1570
+CITROEN             Diesel                 Ceuta                       0024
+CITROEN             Diesel                 Comunitat Valenciana        2204
+CITROEN             Diesel                 Extremadura                 0257
+CITROEN             Diesel                 Galicia                     0635
+CITROEN             Diesel                 Madrid (Comunidad de)       3997
+CITROEN             Diesel                 Murcia (Regi�n de)          0446
+CITROEN             Diesel                 Navarra (Comunidad Foral de)0133
+CITROEN             Diesel                 Pa�s Vasco                  0379
+CITROEN             Diesel                 Rioja (La)                  0063
+CITROEN             El�ctrico              Andaluc�a                   0003
+CITROEN             El�ctrico              Castilla-La Mancha          0003
+CITROEN             El�ctrico              Catalu�a                    0007
+CITROEN             El�ctrico              Comunitat Valenciana        0001
+CITROEN             El�ctrico              Madrid (Comunidad de)       0007
+CITROEN             El�ctrico              Navarra (Comunidad Foral de)0001
+CITROEN             Gas Licuado de PetroleoAndaluc�a                   0001
+CITROEN             Gas Licuado de PetroleoCastilla y Le�n             0001
+CITROEN             Gas Licuado de PetroleoCatalu�a                    0032
+CITROEN             Gas Licuado de PetroleoMadrid (Comunidad de)       0009
+CITROEN             Gasolina               Andaluc�a                   0748
+CITROEN             Gasolina               Arag�n                      0141
+CITROEN             Gasolina               Asturias (Principado de)    0084
+CITROEN             Gasolina               Balears (Illes)             0205
+CITROEN             Gasolina               Canarias                    0399
+CITROEN             Gasolina               Cantabria                   0069
+CITROEN             Gasolina               Castilla y Le�n             0213
+CITROEN             Gasolina               Castilla-La Mancha          0282
+CITROEN             Gasolina               Catalu�a                    0943
+CITROEN             Gasolina               Ceuta                       0018
+CITROEN             Gasolina               Comunitat Valenciana        0999
+CITROEN             Gasolina               Extremadura                 0112
+CITROEN             Gasolina               Galicia                     0171
+CITROEN             Gasolina               Madrid (Comunidad de)       1455
+CITROEN             Gasolina               Melilla                     0010
+CITROEN             Gasolina               Murcia (Regi�n de)          0115
+CITROEN             Gasolina               Navarra (Comunidad Foral de)0072
+CITROEN             Gasolina               Pa�s Vasco                  0230
+CITROEN             Gasolina               Rioja (La)                  0038
+CITROEN             Hidr�geno              Comunitat Valenciana        0001
+DACIA               Diesel                 Andaluc�a                   1396
+DACIA               Diesel                 Arag�n                      0165
+DACIA               Diesel                 Asturias (Principado de)    0121
+DACIA               Diesel                 Balears (Illes)             0197
+DACIA               Diesel                 Canarias                    0355
+DACIA               Diesel                 Cantabria                   0070
+DACIA               Diesel                 Castilla y Le�n             0273
+DACIA               Diesel                 Castilla-La Mancha          0280
+DACIA               Diesel                 Catalu�a                    0843
+DACIA               Diesel                 Ceuta                       0004
+DACIA               Diesel                 Comunitat Valenciana        0714
+DACIA               Diesel                 Extremadura                 0209
+DACIA               Diesel                 Galicia                     0303
+DACIA               Diesel                 Madrid (Comunidad de)       0804
+DACIA               Diesel                 Murcia (Regi�n de)          0274
+DACIA               Diesel                 Navarra (Comunidad Foral de)0080
+DACIA               Diesel                 Pa�s Vasco                  0276
+DACIA               Diesel                 Rioja (La)                  0046
+DACIA               Gas Licuado de PetroleoAndaluc�a                   0004
+DACIA               Gas Licuado de PetroleoArag�n                      0001
+DACIA               Gas Licuado de PetroleoCanarias                    0008
+DACIA               Gas Licuado de PetroleoCastilla-La Mancha          0001
+DACIA               Gas Licuado de PetroleoCatalu�a                    0003
+DACIA               Gas Licuado de PetroleoExtremadura                 0001
+DACIA               Gas Licuado de PetroleoMadrid (Comunidad de)       0003
+DACIA               Gasolina               Andaluc�a                   0586
+DACIA               Gasolina               Arag�n                      0096
+DACIA               Gasolina               Asturias (Principado de)    0069
+DACIA               Gasolina               Balears (Illes)             0133
+DACIA               Gasolina               Canarias                    0634
+DACIA               Gasolina               Cantabria                   0039
+DACIA               Gasolina               Castilla y Le�n             0162
+DACIA               Gasolina               Castilla-La Mancha          0102
+DACIA               Gasolina               Catalu�a                    0775
+DACIA               Gasolina               Ceuta                       0007
+DACIA               Gasolina               Comunitat Valenciana        0589
+DACIA               Gasolina               Extremadura                 0052
+DACIA               Gasolina               Galicia                     0160
+DACIA               Gasolina               Madrid (Comunidad de)       0467
+DACIA               Gasolina               Melilla                     0009
+DACIA               Gasolina               Murcia (Regi�n de)          0111
+DACIA               Gasolina               Navarra (Comunidad Foral de)0051
+DACIA               Gasolina               Pa�s Vasco                  0171
+DACIA               Gasolina               Rioja (La)                  0030
+DAEWOO              Diesel                 Andaluc�a                   0001
+DAEWOO              Gasolina               Andaluc�a                   0001
+DAEWOO              Gasolina               Arag�n                      0001
+DAEWOO              Gasolina               Castilla y Le�n             0001
+DAEWOO              Gasolina               Catalu�a                    0001
+DAEWOO              Gasolina               Comunitat Valenciana        0003
+DAF                 Gasolina               Andaluc�a                   0001
+DAIHATSU            Gasolina               Andaluc�a                   0001
+DAIHATSU            Gasolina               Balears (Illes)             0002
+DAIHATSU            Gasolina               Canarias                    0001
+DAIHATSU            Gasolina               Catalu�a                    0001
+DAIHATSU            Gasolina               Comunitat Valenciana        0003
+DAIMLER             Diesel                 Balears (Illes)             0001
+DAIMLER             Diesel                 Catalu�a                    0001
+DAIMLER             Diesel                 Madrid (Comunidad de)       0002
+DAIMLER             Gasolina               Castilla y Le�n             0001
+DAIMLERAG           Gasolina               Comunitat Valenciana        0001
+DAIMLERCHRYSLER     Diesel                 Andaluc�a                   0003
+DAIMLERCHRYSLER     Diesel                 Balears (Illes)             0001
+DAIMLERCHRYSLER     Diesel                 Castilla-La Mancha          0001
+DAIMLERCHRYSLER     Diesel                 Catalu�a                    0002
+DAIMLERCHRYSLER     Diesel                 Comunitat Valenciana        0002
+DAIMLERCHRYSLER     Diesel                 Galicia                     0001
+DAIMLERCHRYSLER     Gasolina               Balears (Illes)             0001
+DESOTO              Gasolina               Madrid (Comunidad de)       0001
+DODGE               Gasolina               Andaluc�a                   0001
+DODGE               Gasolina               Catalu�a                    0001
+DODGE               Gasolina               Comunitat Valenciana        0002
+DS                  Diesel                 Andaluc�a                   0053
+DS                  Diesel                 Arag�n                      0005
+DS                  Diesel                 Asturias (Principado de)    0006
+DS                  Diesel                 Balears (Illes)             0024
+DS                  Diesel                 Canarias                    0003
+DS                  Diesel                 Cantabria                   0013
+DS                  Diesel                 Castilla y Le�n             0023
+DS                  Diesel                 Castilla-La Mancha          0077
+DS                  Diesel                 Catalu�a                    0052
+DS                  Diesel                 Ceuta                       0001
+DS                  Diesel                 Comunitat Valenciana        0029
+DS                  Diesel                 Extremadura                 0008
+DS                  Diesel                 Galicia                     0037
+DS                  Diesel                 Madrid (Comunidad de)       0252
+DS                  Diesel                 Murcia (Regi�n de)          0013
+DS                  Diesel                 Navarra (Comunidad Foral de)0003
+DS                  Diesel                 Pa�s Vasco                  0017
+DS                  Diesel                 Rioja (La)                  0004
+DS                  Gasolina               Andaluc�a                   0025
+DS                  Gasolina               Arag�n                      0005
+DS                  Gasolina               Asturias (Principado de)    0004
+DS                  Gasolina               Balears (Illes)             0025
+DS                  Gasolina               Canarias                    0008
+DS                  Gasolina               Cantabria                   0005
+DS                  Gasolina               Castilla y Le�n             0014
+DS                  Gasolina               Castilla-La Mancha          0035
+DS                  Gasolina               Catalu�a                    0046
+DS                  Gasolina               Comunitat Valenciana        0024
+DS                  Gasolina               Extremadura                 0006
+DS                  Gasolina               Galicia                     0010
+DS                  Gasolina               Madrid (Comunidad de)       0036
+DS                  Gasolina               Murcia (Regi�n de)          0005
+DS                  Gasolina               Navarra (Comunidad Foral de)0006
+DS                  Gasolina               Pa�s Vasco                  0012
+DS                  Gasolina               Rioja (La)                  0002
+EXCALIBUR           Gasolina               Comunitat Valenciana        0001
+FERRARI             Gasolina               Andaluc�a                   0008
+FERRARI             Gasolina               Asturias (Principado de)    0002
+FERRARI             Gasolina               Balears (Illes)             0003
+FERRARI             Gasolina               Canarias                    0001
+FERRARI             Gasolina               Castilla y Le�n             0001
+FERRARI             Gasolina               Catalu�a                    0005
+FERRARI             Gasolina               Comunitat Valenciana        0003
+FERRARI             Gasolina               Extremadura                 0001
+FERRARI             Gasolina               Galicia                     0002
+FERRARI             Gasolina               Madrid (Comunidad de)       0005
+FERRARI             Gasolina               Murcia (Regi�n de)          0001
+FERRARI             Gasolina               Navarra (Comunidad Foral de)0001
+FERRARI             Gasolina               Pa�s Vasco                  0001
+FERROSITE           Gas Licuado de PetroleoMadrid (Comunidad de)       0004
+FIAT                Diesel                 Andaluc�a                   0380
+FIAT                Diesel                 Arag�n                      0226
+FIAT                Diesel                 Asturias (Principado de)    0063
+FIAT                Diesel                 Balears (Illes)             0080
+FIAT                Diesel                 Canarias                    0041
+FIAT                Diesel                 Cantabria                   0022
+FIAT                Diesel                 Castilla y Le�n             0070
+FIAT                Diesel                 Castilla-La Mancha          0069
+FIAT                Diesel                 Catalu�a                    1020
+FIAT                Diesel                 Ceuta                       0004
+FIAT                Diesel                 Comunitat Valenciana        0484
+FIAT                Diesel                 Extremadura                 0022
+FIAT                Diesel                 Galicia                     0098
+FIAT                Diesel                 Madrid (Comunidad de)       1927
+FIAT                Diesel                 Melilla                     0003
+FIAT                Diesel                 Murcia (Regi�n de)          0036
+FIAT                Diesel                 Navarra (Comunidad Foral de)0007
+FIAT                Diesel                 Pa�s Vasco                  0082
+FIAT                Diesel                 Rioja (La)                  0006
+FIAT                Gas Licuado de PetroleoArag�n                      0001
+FIAT                Gas Licuado de PetroleoCanarias                    0004
+FIAT                Gas Licuado de PetroleoCantabria                   0001
+FIAT                Gas Licuado de PetroleoCastilla y Le�n             0002
+FIAT                Gas Licuado de PetroleoGalicia                     0002
+FIAT                Gas Licuado de PetroleoMadrid (Comunidad de)       0006
+FIAT                Gas Licuado de PetroleoNavarra (Comunidad Foral de)0001
+FIAT                Gas Licuado de PetroleoPa�s Vasco                  0002
+FIAT                Gas Natural Comprimido Balears (Illes)             0001
+FIAT                Gas Natural Comprimido Canarias                    0001
+FIAT                Gas Natural Comprimido Madrid (Comunidad de)       0001
+FIAT                Gasolina               Andaluc�a                   0606
+FIAT                Gasolina               Arag�n                      0054
+FIAT                Gasolina               Asturias (Principado de)    0030
+FIAT                Gasolina               Balears (Illes)             0263
+FIAT                Gasolina               Canarias                    0411
+FIAT                Gasolina               Cantabria                   0031
+FIAT                Gasolina               Castilla y Le�n             0092
+FIAT                Gasolina               Castilla-La Mancha          0077
+FIAT                Gasolina               Catalu�a                    0706
+FIAT                Gasolina               Ceuta                       0003
+FIAT                Gasolina               Comunitat Valenciana        1856
+FIAT                Gasolina               Extremadura                 0014
+FIAT                Gasolina               Galicia                     0109
+FIAT                Gasolina               Madrid (Comunidad de)       2963
+FIAT                Gasolina               Melilla                     0011
+FIAT                Gasolina               Murcia (Regi�n de)          0078
+FIAT                Gasolina               Navarra (Comunidad Foral de)0011
+FIAT                Gasolina               Pa�s Vasco                  0081
+FIAT                Gasolina               Rioja (La)                  0007
+FISKERNIELSEN       Gasolina               Murcia (Regi�n de)          0001
+FORD                Diesel                 Andaluc�a                   0883
+FORD                Diesel                 Arag�n                      0188
+FORD                Diesel                 Asturias (Principado de)    0101
+FORD                Diesel                 Balears (Illes)             0158
+FORD                Diesel                 Canarias                    0120
+FORD                Diesel                 Cantabria                   0050
+FORD                Diesel                 Castilla y Le�n             0195
+FORD                Diesel                 Castilla-La Mancha          0136
+FORD                Diesel                 Catalu�a                    1300
+FORD                Diesel                 Ceuta                       0009
+FORD                Diesel                 Comunitat Valenciana        1855
+FORD                Diesel                 Extremadura                 0128
+FORD                Diesel                 Galicia                     0285
+FORD                Diesel                 Madrid (Comunidad de)       2001
+FORD                Diesel                 Murcia (Regi�n de)          0266
+FORD                Diesel                 Navarra (Comunidad Foral de)0116
+FORD                Diesel                 Pa�s Vasco                  0394
+FORD                Diesel                 Rioja (La)                  0035
+FORD                Gas Licuado de PetroleoBalears (Illes)             0001
+FORD                Gas Licuado de PetroleoCanarias                    0001
+FORD                Gas Licuado de PetroleoCastilla-La Mancha          0001
+FORD                Gas Licuado de PetroleoMadrid (Comunidad de)       0003
+FORD                Gasolina               Andaluc�a                   0691
+FORD                Gasolina               Arag�n                      0119
+FORD                Gasolina               Asturias (Principado de)    0070
+FORD                Gasolina               Balears (Illes)             0646
+FORD                Gasolina               Canarias                    0419
+FORD                Gasolina               Cantabria                   0063
+FORD                Gasolina               Castilla y Le�n             0195
+FORD                Gasolina               Castilla-La Mancha          0104
+FORD                Gasolina               Catalu�a                    1179
+FORD                Gasolina               Ceuta                       0006
+FORD                Gasolina               Comunitat Valenciana        2881
+FORD                Gasolina               Extremadura                 0073
+FORD                Gasolina               Galicia                     0190
+FORD                Gasolina               Madrid (Comunidad de)       1044
+FORD                Gasolina               Melilla                     0001
+FORD                Gasolina               Murcia (Regi�n de)          0156
+FORD                Gasolina               Navarra (Comunidad Foral de)0095
+FORD                Gasolina               Pa�s Vasco                  0329
+FORD                Gasolina               Rioja (La)                  0045
+FORD                Sin especificar        Balears (Illes)             0001
+FORDCNGTECHNIK      El�ctrico              Comunitat Valenciana        0001
+FORDCNGTECHNIK      Gasolina               Comunitat Valenciana        0008
+FORDCNGTECHNIK      Gasolina               Madrid (Comunidad de)       0003
+GATSBY              Gasolina               Andaluc�a                   0001
+GLAS                Gasolina               Catalu�a                    0001
+GMC                 Gasolina               Andaluc�a                   0002
+HONDA               Diesel                 Andaluc�a                   0334
+HONDA               Diesel                 Arag�n                      0054
+HONDA               Diesel                 Asturias (Principado de)    0056
+HONDA               Diesel                 Balears (Illes)             0026
+HONDA               Diesel                 Canarias                    0023
+HONDA               Diesel                 Cantabria                   0024
+HONDA               Diesel                 Castilla y Le�n             0074
+HONDA               Diesel                 Castilla-La Mancha          0053
+HONDA               Diesel                 Catalu�a                    0515
+HONDA               Diesel                 Ceuta                       0001
+HONDA               Diesel                 Comunitat Valenciana        0160
+HONDA               Diesel                 Extremadura                 0026
+HONDA               Diesel                 Galicia                     0088
+HONDA               Diesel                 Madrid (Comunidad de)       0407
+HONDA               Diesel                 Murcia (Regi�n de)          0043
+HONDA               Diesel                 Navarra (Comunidad Foral de)0025
+HONDA               Diesel                 Pa�s Vasco                  0126
+HONDA               Diesel                 Rioja (La)                  0020
+HONDA               Gasolina               Andaluc�a                   0056
+HONDA               Gasolina               Arag�n                      0021
+HONDA               Gasolina               Asturias (Principado de)    0015
+HONDA               Gasolina               Balears (Illes)             0025
+HONDA               Gasolina               Canarias                    0082
+HONDA               Gasolina               Cantabria                   0009
+HONDA               Gasolina               Castilla y Le�n             0017
+HONDA               Gasolina               Castilla-La Mancha          0010
+HONDA               Gasolina               Catalu�a                    0139
+HONDA               Gasolina               Ceuta                       0002
+HONDA               Gasolina               Comunitat Valenciana        0065
+HONDA               Gasolina               Extremadura                 0003
+HONDA               Gasolina               Galicia                     0033
+HONDA               Gasolina               Madrid (Comunidad de)       0107
+HONDA               Gasolina               Melilla                     0002
+HONDA               Gasolina               Murcia (Regi�n de)          0012
+HONDA               Gasolina               Navarra (Comunidad Foral de)0007
+HONDA               Gasolina               Pa�s Vasco                  0033
+HONDA               Gasolina               Rioja (La)                  0005
+HONDA               Sin especificar        Ceuta                       0002
+HUMMER              Gasolina               Comunitat Valenciana        0001
+HYUNDAI             Diesel                 Andaluc�a                   0736
+HYUNDAI             Diesel                 Arag�n                      0098
+HYUNDAI             Diesel                 Asturias (Principado de)    0050
+HYUNDAI             Diesel                 Balears (Illes)             0526
+HYUNDAI             Diesel                 Canarias                    0124
+HYUNDAI             Diesel                 Cantabria                   0034
+HYUNDAI             Diesel                 Castilla y Le�n             0162
+HYUNDAI             Diesel                 Castilla-La Mancha          0239
+HYUNDAI             Diesel                 Catalu�a                    0662
+HYUNDAI             Diesel                 Ceuta                       0013
+HYUNDAI             Diesel                 Comunitat Valenciana        0745
+HYUNDAI             Diesel                 Extremadura                 0116
+HYUNDAI             Diesel                 Galicia                     0179
+HYUNDAI             Diesel                 Madrid (Comunidad de)       1524
+HYUNDAI             Diesel                 Melilla                     0006
+HYUNDAI             Diesel                 Murcia (Regi�n de)          0182
+HYUNDAI             Diesel                 Navarra (Comunidad Foral de)0045
+HYUNDAI             Diesel                 Pa�s Vasco                  0209
+HYUNDAI             Diesel                 Rioja (La)                  0026
+HYUNDAI             Gasolina               Andaluc�a                   0621
+HYUNDAI             Gasolina               Arag�n                      0090
+HYUNDAI             Gasolina               Asturias (Principado de)    0049
+HYUNDAI             Gasolina               Balears (Illes)             0440
+HYUNDAI             Gasolina               Canarias                    0488
+HYUNDAI             Gasolina               Cantabria                   0034
+HYUNDAI             Gasolina               Castilla y Le�n             0148
+HYUNDAI             Gasolina               Castilla-La Mancha          0113
+HYUNDAI             Gasolina               Catalu�a                    0849
+HYUNDAI             Gasolina               Ceuta                       0013
+HYUNDAI             Gasolina               Comunitat Valenciana        0780
+HYUNDAI             Gasolina               Extremadura                 0082
+HYUNDAI             Gasolina               Galicia                     0118
+HYUNDAI             Gasolina               Madrid (Comunidad de)       1404
+HYUNDAI             Gasolina               Melilla                     0016
+HYUNDAI             Gasolina               Murcia (Regi�n de)          0105
+HYUNDAI             Gasolina               Navarra (Comunidad Foral de)0047
+HYUNDAI             Gasolina               Pa�s Vasco                  0227
+HYUNDAI             Gasolina               Rioja (La)                  0025
+INFINITI            Diesel                 Andaluc�a                   0009
+INFINITI            Diesel                 Arag�n                      0001
+INFINITI            Diesel                 Asturias (Principado de)    0006
+INFINITI            Diesel                 Balears (Illes)             0002
+INFINITI            Diesel                 Canarias                    0005
+INFINITI            Diesel                 Cantabria                   0003
+INFINITI            Diesel                 Castilla y Le�n             0007
+INFINITI            Diesel                 Castilla-La Mancha          0016
+INFINITI            Diesel                 Catalu�a                    0019
+INFINITI            Diesel                 Comunitat Valenciana        0010
+INFINITI            Diesel                 Galicia                     0005
+INFINITI            Diesel                 Madrid (Comunidad de)       0018
+INFINITI            Diesel                 Murcia (Regi�n de)          0003
+INFINITI            Diesel                 Navarra (Comunidad Foral de)0001
+INFINITI            Diesel                 Pa�s Vasco                  0004
+INFINITI            Diesel                 Rioja (La)                  0001
+INFINITI            Gasolina               Castilla y Le�n             0001
+INFINITI            Gasolina               Castilla-La Mancha          0001
+INFINITI            Gasolina               Catalu�a                    0007
+INFINITI            Gasolina               Madrid (Comunidad de)       0006
+ISO                 Gasolina               Catalu�a                    0001
+JAGUAR              Diesel                 Andaluc�a                   0023
+JAGUAR              Diesel                 Arag�n                      0002
+JAGUAR              Diesel                 Asturias (Principado de)    0002
+JAGUAR              Diesel                 Balears (Illes)             0002
+JAGUAR              Diesel                 Canarias                    0008
+JAGUAR              Diesel                 Castilla y Le�n             0007
+JAGUAR              Diesel                 Castilla-La Mancha          0006
+JAGUAR              Diesel                 Catalu�a                    0066
+JAGUAR              Diesel                 Comunitat Valenciana        0031
+JAGUAR              Diesel                 Extremadura                 0003
+JAGUAR              Diesel                 Galicia                     0005
+JAGUAR              Diesel                 Madrid (Comunidad de)       0089
+JAGUAR              Diesel                 Murcia (Regi�n de)          0016
+JAGUAR              Diesel                 Navarra (Comunidad Foral de)0007
+JAGUAR              Diesel                 Pa�s Vasco                  0010
+JAGUAR              Diesel                 Rioja (La)                  0002
+JAGUAR              Gasolina               Andaluc�a                   0015
+JAGUAR              Gasolina               Asturias (Principado de)    0002
+JAGUAR              Gasolina               Balears (Illes)             0004
+JAGUAR              Gasolina               Canarias                    0004
+JAGUAR              Gasolina               Cantabria                   0002
+JAGUAR              Gasolina               Castilla y Le�n             0002
+JAGUAR              Gasolina               Castilla-La Mancha          0001
+JAGUAR              Gasolina               Catalu�a                    0014
+JAGUAR              Gasolina               Comunitat Valenciana        0012
+JAGUAR              Gasolina               Galicia                     0003
+JAGUAR              Gasolina               Madrid (Comunidad de)       0019
+JAGUAR              Gasolina               Melilla                     0001
+JAGUAR              Gasolina               Murcia (Regi�n de)          0001
+JAGUAR              Gasolina               Navarra (Comunidad Foral de)0002
+JAGUAR              Gasolina               Pa�s Vasco                  0002
+JAGUARLANDROVERLIMITDiesel                 Andaluc�a                   0036
+JAGUARLANDROVERLIMITDiesel                 Arag�n                      0005
+JAGUARLANDROVERLIMITDiesel                 Asturias (Principado de)    0005
+JAGUARLANDROVERLIMITDiesel                 Balears (Illes)             0001
+JAGUARLANDROVERLIMITDiesel                 Canarias                    0010
+JAGUARLANDROVERLIMITDiesel                 Cantabria                   0001
+JAGUARLANDROVERLIMITDiesel                 Castilla y Le�n             0006
+JAGUARLANDROVERLIMITDiesel                 Castilla-La Mancha          0005
+JAGUARLANDROVERLIMITDiesel                 Catalu�a                    0039
+JAGUARLANDROVERLIMITDiesel                 Comunitat Valenciana        0017
+JAGUARLANDROVERLIMITDiesel                 Extremadura                 0006
+JAGUARLANDROVERLIMITDiesel                 Galicia                     0010
+JAGUARLANDROVERLIMITDiesel                 Madrid (Comunidad de)       0050
+JAGUARLANDROVERLIMITDiesel                 Murcia (Regi�n de)          0012
+JAGUARLANDROVERLIMITDiesel                 Navarra (Comunidad Foral de)0007
+JAGUARLANDROVERLIMITDiesel                 Pa�s Vasco                  0006
+JAGUARLANDROVERLIMITDiesel                 Rioja (La)                  0001
+JAGUARLANDROVERLIMITGasolina               Andaluc�a                   0004
+JAGUARLANDROVERLIMITGasolina               Canarias                    0003
+JAGUARLANDROVERLIMITGasolina               Catalu�a                    0003
+JAGUARLANDROVERLIMITGasolina               Comunitat Valenciana        0002
+JAGUARLANDROVERLIMITGasolina               Galicia                     0001
+JAGUARLANDROVERLIMITGasolina               Madrid (Comunidad de)       0002
+JEEP                Diesel                 Andaluc�a                   0084
+JEEP                Diesel                 Arag�n                      0080
+JEEP                Diesel                 Asturias (Principado de)    0022
+JEEP                Diesel                 Balears (Illes)             0040
+JEEP                Diesel                 Canarias                    0045
+JEEP                Diesel                 Cantabria                   0005
+JEEP                Diesel                 Castilla y Le�n             0031
+JEEP                Diesel                 Castilla-La Mancha          0016
+JEEP                Diesel                 Catalu�a                    0259
+JEEP                Diesel                 Ceuta                       0001
+JEEP                Diesel                 Comunitat Valenciana        0074
+JEEP                Diesel                 Extremadura                 0001
+JEEP                Diesel                 Galicia                     0018
+JEEP                Diesel                 Madrid (Comunidad de)       0520
+JEEP                Diesel                 Melilla                     0001
+JEEP                Diesel                 Murcia (Regi�n de)          0022
+JEEP                Diesel                 Pa�s Vasco                  0014
+JEEP                Diesel                 Rioja (La)                  0001
+JEEP                Gasolina               Andaluc�a                   0013
+JEEP                Gasolina               Arag�n                      0001
+JEEP                Gasolina               Asturias (Principado de)    0001
+JEEP                Gasolina               Balears (Illes)             0005
+JEEP                Gasolina               Canarias                    0010
+JEEP                Gasolina               Cantabria                   0001
+JEEP                Gasolina               Castilla-La Mancha          0002
+JEEP                Gasolina               Catalu�a                    0019
+JEEP                Gasolina               Comunitat Valenciana        0009
+JEEP                Gasolina               Galicia                     0004
+JEEP                Gasolina               Madrid (Comunidad de)       0072
+JEEP                Gasolina               Murcia (Regi�n de)          0001
+JEEP                Gasolina               Pa�s Vasco                  0004
+KIA                 Diesel                 Andaluc�a                   0999
+KIA                 Diesel                 Arag�n                      0164
+KIA                 Diesel                 Asturias (Principado de)    0131
+KIA                 Diesel                 Balears (Illes)             0102
+KIA                 Diesel                 Canarias                    0073
+KIA                 Diesel                 Cantabria                   0121
+KIA                 Diesel                 Castilla y Le�n             0302
+KIA                 Diesel                 Castilla-La Mancha          0264
+KIA                 Diesel                 Catalu�a                    0919
+KIA                 Diesel                 Ceuta                       0001
+KIA                 Diesel                 Comunitat Valenciana        1385
+KIA                 Diesel                 Extremadura                 0135
+KIA                 Diesel                 Galicia                     0400
+KIA                 Diesel                 Madrid (Comunidad de)       1990
+KIA                 Diesel                 Melilla                     0001
+KIA                 Diesel                 Murcia (Regi�n de)          0243
+KIA                 Diesel                 Navarra (Comunidad Foral de)0080
+KIA                 Diesel                 Pa�s Vasco                  0213
+KIA                 Diesel                 Rioja (La)                  0041
+KIA                 El�ctrico              Andaluc�a                   0001
+KIA                 El�ctrico              Balears (Illes)             0002
+KIA                 El�ctrico              Canarias                    0001
+KIA                 El�ctrico              Catalu�a                    0014
+KIA                 El�ctrico              Comunitat Valenciana        0001
+KIA                 El�ctrico              Galicia                     0002
+KIA                 El�ctrico              Madrid (Comunidad de)       0009
+KIA                 El�ctrico              Pa�s Vasco                  0001
+KIA                 Gasolina               Andaluc�a                   0624
+KIA                 Gasolina               Arag�n                      0192
+KIA                 Gasolina               Asturias (Principado de)    0077
+KIA                 Gasolina               Balears (Illes)             0217
+KIA                 Gasolina               Canarias                    0410
+KIA                 Gasolina               Cantabria                   0060
+KIA                 Gasolina               Castilla y Le�n             0189
+KIA                 Gasolina               Castilla-La Mancha          0148
+KIA                 Gasolina               Catalu�a                    1020
+KIA                 Gasolina               Ceuta                       0006
+KIA                 Gasolina               Comunitat Valenciana        1265
+KIA                 Gasolina               Extremadura                 0052
+KIA                 Gasolina               Galicia                     0204
+KIA                 Gasolina               Madrid (Comunidad de)       1238
+KIA                 Gasolina               Melilla                     0022
+KIA                 Gasolina               Murcia (Regi�n de)          0144
+KIA                 Gasolina               Navarra (Comunidad Foral de)0052
+KIA                 Gasolina               Pa�s Vasco                  0222
+KIA                 Gasolina               Rioja (La)                  0029
+KIAMOTORROK         Diesel                 Catalu�a                    0001
+KIAMOTORROK         Diesel                 Comunitat Valenciana        0001
+KIAMOTORROK         Diesel                 Madrid (Comunidad de)       0001
+KIAMOTORROK         Gasolina               Canarias                    0001
+LAMBORGHINI         Gasolina               Canarias                    0001
+LAMBORGHINI         Gasolina               Castilla-La Mancha          0001
+LAMBORGHINI         Gasolina               Catalu�a                    0001
+LAMBORGHINI         Gasolina               Madrid (Comunidad de)       0003
+LANCIA              Diesel                 Arag�n                      0001
+LANCIA              Diesel                 Canarias                    0003
+LANCIA              Diesel                 Castilla-La Mancha          0001
+LANCIA              Diesel                 Comunitat Valenciana        0003
+LANCIA              Diesel                 Extremadura                 0001
+LANCIA              Diesel                 Madrid (Comunidad de)       0006
+LANCIA              Diesel                 Murcia (Regi�n de)          0001
+LANCIA              Gasolina               Andaluc�a                   0009
+LANCIA              Gasolina               Arag�n                      0037
+LANCIA              Gasolina               Asturias (Principado de)    0001
+LANCIA              Gasolina               Balears (Illes)             0001
+LANCIA              Gasolina               Canarias                    0004
+LANCIA              Gasolina               Castilla-La Mancha          0002
+LANCIA              Gasolina               Catalu�a                    0007
+LANCIA              Gasolina               Comunitat Valenciana        0005
+LANCIA              Gasolina               Galicia                     0002
+LANCIA              Gasolina               Madrid (Comunidad de)       0040
+LANCIA              Gasolina               Murcia (Regi�n de)          0004
+LANCIA              Gasolina               Pa�s Vasco                  0001
+LANDROVER           Diesel                 Andaluc�a                   0099
+LANDROVER           Diesel                 Arag�n                      0012
+LANDROVER           Diesel                 Asturias (Principado de)    0005
+LANDROVER           Diesel                 Balears (Illes)             0027
+LANDROVER           Diesel                 Canarias                    0024
+LANDROVER           Diesel                 Cantabria                   0002
+LANDROVER           Diesel                 Castilla y Le�n             0007
+LANDROVER           Diesel                 Castilla-La Mancha          0021
+LANDROVER           Diesel                 Catalu�a                    0108
+LANDROVER           Diesel                 Ceuta                       0002
+LANDROVER           Diesel                 Comunitat Valenciana        0075
+LANDROVER           Diesel                 Extremadura                 0011
+LANDROVER           Diesel                 Galicia                     0017
+LANDROVER           Diesel                 Madrid (Comunidad de)       0198
+LANDROVER           Diesel                 Melilla                     0002
+LANDROVER           Diesel                 Murcia (Regi�n de)          0017
+LANDROVER           Diesel                 Navarra (Comunidad Foral de)0005
+LANDROVER           Diesel                 Pa�s Vasco                  0016
+LANDROVER           Diesel                 Rioja (La)                  0001
+LANDROVER           Gasolina               Andaluc�a                   0001
+LANDROVER           Gasolina               Balears (Illes)             0001
+LANDROVER           Gasolina               Canarias                    0002
+LEXUS               Diesel                 Andaluc�a                   0001
+LEXUS               Gasolina               Andaluc�a                   0114
+LEXUS               Gasolina               Arag�n                      0031
+LEXUS               Gasolina               Asturias (Principado de)    0022
+LEXUS               Gasolina               Balears (Illes)             0026
+LEXUS               Gasolina               Canarias                    0022
+LEXUS               Gasolina               Cantabria                   0020
+LEXUS               Gasolina               Castilla y Le�n             0036
+LEXUS               Gasolina               Castilla-La Mancha          0023
+LEXUS               Gasolina               Catalu�a                    0298
+LEXUS               Gasolina               Comunitat Valenciana        0147
+LEXUS               Gasolina               Extremadura                 0005
+LEXUS               Gasolina               Galicia                     0060
+LEXUS               Gasolina               Madrid (Comunidad de)       0451
+LEXUS               Gasolina               Murcia (Regi�n de)          0046
+LEXUS               Gasolina               Navarra (Comunidad Foral de)0012
+LEXUS               Gasolina               Pa�s Vasco                  0052
+LEXUS               Gasolina               Rioja (La)                  0016
+LINCOLN             Gasolina               Andaluc�a                   0001
+LINCOLN             Gasolina               Madrid (Comunidad de)       0001
+LONDONTAXISINTERNAT Diesel                 Balears (Illes)             0001
+LOTUS               Gasolina               Balears (Illes)             0001
+LOTUS               Gasolina               Catalu�a                    0002
+LOTUS               Gasolina               Murcia (Regi�n de)          0001
+LOTUSCARSLTD        Gasolina               Catalu�a                    0001
+MAHINDRA            Diesel                 Andaluc�a                   0005
+MAHINDRA            Diesel                 Arag�n                      0001
+MAHINDRA            Diesel                 Castilla y Le�n             0002
+MAHINDRA            Diesel                 Catalu�a                    0011
+MAHINDRA            Diesel                 Comunitat Valenciana        0001
+MASERATI            Diesel                 Andaluc�a                   0007
+MASERATI            Diesel                 Arag�n                      0003
+MASERATI            Diesel                 Balears (Illes)             0001
+MASERATI            Diesel                 Castilla-La Mancha          0001
+MASERATI            Diesel                 Catalu�a                    0008
+MASERATI            Diesel                 Comunitat Valenciana        0001
+MASERATI            Diesel                 Galicia                     0002
+MASERATI            Diesel                 Madrid (Comunidad de)       0003
+MASERATI            Diesel                 Murcia (Regi�n de)          0001
+MASERATI            Diesel                 Pa�s Vasco                  0003
+MASERATI            Gasolina               Andaluc�a                   0004
+MASERATI            Gasolina               Arag�n                      0002
+MASERATI            Gasolina               Canarias                    0001
+MASERATI            Gasolina               Castilla y Le�n             0001
+MASERATI            Gasolina               Catalu�a                    0005
+MASERATI            Gasolina               Ceuta                       0001
+MASERATI            Gasolina               Comunitat Valenciana        0002
+MASERATI            Gasolina               Galicia                     0001
+MASERATI            Gasolina               Madrid (Comunidad de)       0010
+MASERATI            Gasolina               Pa�s Vasco                  0002
+MAZDA               Diesel                 Andaluc�a                   0232
+MAZDA               Diesel                 Arag�n                      0090
+MAZDA               Diesel                 Asturias (Principado de)    0036
+MAZDA               Diesel                 Balears (Illes)             0072
+MAZDA               Diesel                 Canarias                    0038
+MAZDA               Diesel                 Cantabria                   0039
+MAZDA               Diesel                 Castilla y Le�n             0097
+MAZDA               Diesel                 Castilla-La Mancha          0072
+MAZDA               Diesel                 Catalu�a                    0482
+MAZDA               Diesel                 Ceuta                       0002
+MAZDA               Diesel                 Comunitat Valenciana        0272
+MAZDA               Diesel                 Extremadura                 0016
+MAZDA               Diesel                 Galicia                     0168
+MAZDA               Diesel                 Madrid (Comunidad de)       0635
+MAZDA               Diesel                 Murcia (Regi�n de)          0052
+MAZDA               Diesel                 Navarra (Comunidad Foral de)0024
+MAZDA               Diesel                 Pa�s Vasco                  0150
+MAZDA               Diesel                 Rioja (La)                  0013
+MAZDA               Gasolina               Andaluc�a                   0227
+MAZDA               Gasolina               Arag�n                      0102
+MAZDA               Gasolina               Asturias (Principado de)    0029
+MAZDA               Gasolina               Balears (Illes)             0072
+MAZDA               Gasolina               Canarias                    0170
+MAZDA               Gasolina               Cantabria                   0020
+MAZDA               Gasolina               Castilla y Le�n             0096
+MAZDA               Gasolina               Castilla-La Mancha          0059
+MAZDA               Gasolina               Catalu�a                    0536
+MAZDA               Gasolina               Comunitat Valenciana        0290
+MAZDA               Gasolina               Extremadura                 0016
+MAZDA               Gasolina               Galicia                     0138
+MAZDA               Gasolina               Madrid (Comunidad de)       0562
+MAZDA               Gasolina               Murcia (Regi�n de)          0050
+MAZDA               Gasolina               Navarra (Comunidad Foral de)0058
+MAZDA               Gasolina               Pa�s Vasco                  0148
+MAZDA               Gasolina               Rioja (La)                  0024
+MCCSMART            Diesel                 Andaluc�a                   0001
+MCCSMART            Gasolina               Andaluc�a                   0001
+MCCSMART            Gasolina               Catalu�a                    0001
+MCLAREN             Gasolina               Andaluc�a                   0001
+MERCEDESAMG         Diesel                 Andaluc�a                   0002
+MERCEDESAMG         Diesel                 Canarias                    0001
+MERCEDESAMG         Diesel                 Comunitat Valenciana        0001
+MERCEDESAMG         Gasolina               Andaluc�a                   0003
+MERCEDESAMG         Gasolina               Arag�n                      0002
+MERCEDESAMG         Gasolina               Canarias                    0001
+MERCEDESAMG         Gasolina               Castilla y Le�n             0001
+MERCEDESAMG         Gasolina               Catalu�a                    0006
+MERCEDESAMG         Gasolina               Comunitat Valenciana        0002
+MERCEDESAMG         Gasolina               Madrid (Comunidad de)       0011
+MERCEDESBENZ        Diesel                 Andaluc�a                   1952
+MERCEDESBENZ        Diesel                 Arag�n                      0307
+MERCEDESBENZ        Diesel                 Asturias (Principado de)    0230
+MERCEDESBENZ        Diesel                 Balears (Illes)             0228
+MERCEDESBENZ        Diesel                 Canarias                    0235
+MERCEDESBENZ        Diesel                 Cantabria                   0142
+MERCEDESBENZ        Diesel                 Castilla y Le�n             0478
+MERCEDESBENZ        Diesel                 Castilla-La Mancha          0455
+MERCEDESBENZ        Diesel                 Catalu�a                    1860
+MERCEDESBENZ        Diesel                 Ceuta                       0032
+MERCEDESBENZ        Diesel                 Comunitat Valenciana        1630
+MERCEDESBENZ        Diesel                 Extremadura                 0150
+MERCEDESBENZ        Diesel                 Galicia                     0709
+MERCEDESBENZ        Diesel                 Madrid (Comunidad de)       4037
+MERCEDESBENZ        Diesel                 Melilla                     0065
+MERCEDESBENZ        Diesel                 Murcia (Regi�n de)          0456
+MERCEDESBENZ        Diesel                 Navarra (Comunidad Foral de)0124
+MERCEDESBENZ        Diesel                 Pa�s Vasco                  0418
+MERCEDESBENZ        Diesel                 Rioja (La)                  0044
+MERCEDESBENZ        El�ctrico              Balears (Illes)             0001
+MERCEDESBENZ        El�ctrico              Castilla-La Mancha          0001
+MERCEDESBENZ        El�ctrico              Catalu�a                    0004
+MERCEDESBENZ        El�ctrico              Madrid (Comunidad de)       0012
+MERCEDESBENZ        El�ctrico              Murcia (Regi�n de)          0001
+MERCEDESBENZ        El�ctrico              Navarra (Comunidad Foral de)0001
+MERCEDESBENZ        Gas Licuado de PetroleoBalears (Illes)             0001
+MERCEDESBENZ        Gas Natural Comprimido Andaluc�a                   0001
+MERCEDESBENZ        Gasolina               Andaluc�a                   0142
+MERCEDESBENZ        Gasolina               Arag�n                      0028
+MERCEDESBENZ        Gasolina               Asturias (Principado de)    0019
+MERCEDESBENZ        Gasolina               Balears (Illes)             0037
+MERCEDESBENZ        Gasolina               Canarias                    0095
+MERCEDESBENZ        Gasolina               Cantabria                   0013
+MERCEDESBENZ        Gasolina               Castilla y Le�n             0054
+MERCEDESBENZ        Gasolina               Castilla-La Mancha          0021
+MERCEDESBENZ        Gasolina               Catalu�a                    0191
+MERCEDESBENZ        Gasolina               Ceuta                       0005
+MERCEDESBENZ        Gasolina               Comunitat Valenciana        0143
+MERCEDESBENZ        Gasolina               Extremadura                 0008
+MERCEDESBENZ        Gasolina               Galicia                     0041
+MERCEDESBENZ        Gasolina               Madrid (Comunidad de)       0234
+MERCEDESBENZ        Gasolina               Melilla                     0010
+MERCEDESBENZ        Gasolina               Murcia (Regi�n de)          0018
+MERCEDESBENZ        Gasolina               Navarra (Comunidad Foral de)0011
+MERCEDESBENZ        Gasolina               Pa�s Vasco                  0045
+MERCEDESBENZ        Gasolina               Rioja (La)                  0007
+MERCEDESBENZ        Sin especificar        Ceuta                       0001
+MG                  Diesel                 Murcia (Regi�n de)          0001
+MG                  Gasolina               Andaluc�a                   0002
+MG                  Gasolina               Catalu�a                    0003
+MG                  Gasolina               Comunitat Valenciana        0002
+MG                  Gasolina               Galicia                     0002
+MG                  Gasolina               Madrid (Comunidad de)       0001
+MG                  Gasolina               Murcia (Regi�n de)          0002
+MICROCOMPACTCARSMARTDiesel                 Extremadura                 0001
+MICROCOMPACTCARSMARTDiesel                 Galicia                     0001
+MICROCOMPACTCARSMARTGasolina               Andaluc�a                   0001
+MICROCOMPACTCARSMARTGasolina               Madrid (Comunidad de)       0001
+MICROCOMPACTCARSMARTGasolina               Navarra (Comunidad Foral de)0001
+MINI                Diesel                 Andaluc�a                   0159
+MINI                Diesel                 Arag�n                      0011
+MINI                Diesel                 Asturias (Principado de)    0032
+MINI                Diesel                 Balears (Illes)             0086
+MINI                Diesel                 Canarias                    0023
+MINI                Diesel                 Cantabria                   0010
+MINI                Diesel                 Castilla y Le�n             0026
+MINI                Diesel                 Castilla-La Mancha          0025
+MINI                Diesel                 Catalu�a                    0309
+MINI                Diesel                 Comunitat Valenciana        0086
+MINI                Diesel                 Extremadura                 0008
+MINI                Diesel                 Galicia                     0044
+MINI                Diesel                 Madrid (Comunidad de)       1139
+MINI                Diesel                 Murcia (Regi�n de)          0021
+MINI                Diesel                 Navarra (Comunidad Foral de)0005
+MINI                Diesel                 Pa�s Vasco                  0028
+MINI                Diesel                 Rioja (La)                  0002
+MINI                Gasolina               Andaluc�a                   0096
+MINI                Gasolina               Arag�n                      0011
+MINI                Gasolina               Asturias (Principado de)    0013
+MINI                Gasolina               Balears (Illes)             0071
+MINI                Gasolina               Canarias                    0061
+MINI                Gasolina               Cantabria                   0008
+MINI                Gasolina               Castilla y Le�n             0028
+MINI                Gasolina               Castilla-La Mancha          0016
+MINI                Gasolina               Catalu�a                    0185
+MINI                Gasolina               Comunitat Valenciana        0091
+MINI                Gasolina               Extremadura                 0007
+MINI                Gasolina               Galicia                     0045
+MINI                Gasolina               Madrid (Comunidad de)       0361
+MINI                Gasolina               Melilla                     0002
+MINI                Gasolina               Murcia (Regi�n de)          0024
+MINI                Gasolina               Navarra (Comunidad Foral de)0008
+MINI                Gasolina               Pa�s Vasco                  0040
+MINI                Gasolina               Rioja (La)                  0004
+MITSUBISHI          Diesel                 Andaluc�a                   0237
+MITSUBISHI          Diesel                 Arag�n                      0032
+MITSUBISHI          Diesel                 Asturias (Principado de)    0015
+MITSUBISHI          Diesel                 Balears (Illes)             0027
+MITSUBISHI          Diesel                 Canarias                    0042
+MITSUBISHI          Diesel                 Cantabria                   0017
+MITSUBISHI          Diesel                 Castilla y Le�n             0063
+MITSUBISHI          Diesel                 Castilla-La Mancha          0096
+MITSUBISHI          Diesel                 Catalu�a                    0148
+MITSUBISHI          Diesel                 Ceuta                       0005
+MITSUBISHI          Diesel                 Comunitat Valenciana        0082
+MITSUBISHI          Diesel                 Extremadura                 0025
+MITSUBISHI          Diesel                 Galicia                     0022
+MITSUBISHI          Diesel                 Madrid (Comunidad de)       0186
+MITSUBISHI          Diesel                 Melilla                     0009
+MITSUBISHI          Diesel                 Murcia (Regi�n de)          0028
+MITSUBISHI          Diesel                 Navarra (Comunidad Foral de)0008
+MITSUBISHI          Diesel                 Pa�s Vasco                  0060
+MITSUBISHI          Diesel                 Rioja (La)                  0008
+MITSUBISHI          El�ctrico              Andaluc�a                   0011
+MITSUBISHI          El�ctrico              Arag�n                      0002
+MITSUBISHI          El�ctrico              Asturias (Principado de)    0001
+MITSUBISHI          El�ctrico              Canarias                    0002
+MITSUBISHI          El�ctrico              Castilla y Le�n             0005
+MITSUBISHI          El�ctrico              Castilla-La Mancha          0016
+MITSUBISHI          El�ctrico              Catalu�a                    0025
+MITSUBISHI          El�ctrico              Comunitat Valenciana        0011
+MITSUBISHI          El�ctrico              Galicia                     0001
+MITSUBISHI          El�ctrico              Madrid (Comunidad de)       0026
+MITSUBISHI          El�ctrico              Murcia (Regi�n de)          0009
+MITSUBISHI          El�ctrico              Navarra (Comunidad Foral de)0001
+MITSUBISHI          El�ctrico              Pa�s Vasco                  0007
+MITSUBISHI          Gasolina               Andaluc�a                   0123
+MITSUBISHI          Gasolina               Arag�n                      0018
+MITSUBISHI          Gasolina               Asturias (Principado de)    0007
+MITSUBISHI          Gasolina               Balears (Illes)             0032
+MITSUBISHI          Gasolina               Canarias                    0075
+MITSUBISHI          Gasolina               Cantabria                   0006
+MITSUBISHI          Gasolina               Castilla y Le�n             0031
+MITSUBISHI          Gasolina               Castilla-La Mancha          0036
+MITSUBISHI          Gasolina               Catalu�a                    0115
+MITSUBISHI          Gasolina               Ceuta                       0006
+MITSUBISHI          Gasolina               Comunitat Valenciana        0088
+MITSUBISHI          Gasolina               Extremadura                 0005
+MITSUBISHI          Gasolina               Galicia                     0007
+MITSUBISHI          Gasolina               Madrid (Comunidad de)       0102
+MITSUBISHI          Gasolina               Melilla                     0006
+MITSUBISHI          Gasolina               Murcia (Regi�n de)          0010
+MITSUBISHI          Gasolina               Navarra (Comunidad Foral de)0010
+MITSUBISHI          Gasolina               Pa�s Vasco                  0041
+MITSUBISHI          Gasolina               Rioja (La)                  0007
+MORGAN              Gasolina               Canarias                    0001
+MORGAN              Gasolina               Madrid (Comunidad de)       0002
+MORRIS              Gasolina               Comunitat Valenciana        0001
+NISSAN              Diesel                 Andaluc�a                   1029
+NISSAN              Diesel                 Arag�n                      0159
+NISSAN              Diesel                 Asturias (Principado de)    0169
+NISSAN              Diesel                 Balears (Illes)             0143
+NISSAN              Diesel                 Canarias                    0184
+NISSAN              Diesel                 Cantabria                   0055
+NISSAN              Diesel                 Castilla y Le�n             0227
+NISSAN              Diesel                 Castilla-La Mancha          0175
+NISSAN              Diesel                 Catalu�a                    1433
+NISSAN              Diesel                 Ceuta                       0010
+NISSAN              Diesel                 Comunitat Valenciana        1106
+NISSAN              Diesel                 Extremadura                 0108
+NISSAN              Diesel                 Galicia                     0285
+NISSAN              Diesel                 Madrid (Comunidad de)       3612
+NISSAN              Diesel                 Melilla                     0001
+NISSAN              Diesel                 Murcia (Regi�n de)          0201
+NISSAN              Diesel                 Navarra (Comunidad Foral de)0075
+NISSAN              Diesel                 Pa�s Vasco                  0255
+NISSAN              Diesel                 Rioja (La)                  0023
+NISSAN              El�ctrico              Andaluc�a                   0012
+NISSAN              El�ctrico              Arag�n                      0001
+NISSAN              El�ctrico              Asturias (Principado de)    0001
+NISSAN              El�ctrico              Balears (Illes)             0004
+NISSAN              El�ctrico              Canarias                    0006
+NISSAN              El�ctrico              Cantabria                   0003
+NISSAN              El�ctrico              Castilla y Le�n             0007
+NISSAN              El�ctrico              Castilla-La Mancha          0002
+NISSAN              El�ctrico              Catalu�a                    0131
+NISSAN              El�ctrico              Comunitat Valenciana        0012
+NISSAN              El�ctrico              Extremadura                 0001
+NISSAN              El�ctrico              Galicia                     0006
+NISSAN              El�ctrico              Madrid (Comunidad de)       0038
+NISSAN              El�ctrico              Murcia (Regi�n de)          0003
+NISSAN              El�ctrico              Navarra (Comunidad Foral de)0002
+NISSAN              El�ctrico              Pa�s Vasco                  0004
+NISSAN              Gasolina               Andaluc�a                   0576
+NISSAN              Gasolina               Arag�n                      0088
+NISSAN              Gasolina               Asturias (Principado de)    0082
+NISSAN              Gasolina               Balears (Illes)             0204
+NISSAN              Gasolina               Canarias                    0566
+NISSAN              Gasolina               Cantabria                   0051
+NISSAN              Gasolina               Castilla y Le�n             0139
+NISSAN              Gasolina               Castilla-La Mancha          0078
+NISSAN              Gasolina               Catalu�a                    0915
+NISSAN              Gasolina               Ceuta                       0011
+NISSAN              Gasolina               Comunitat Valenciana        0864
+NISSAN              Gasolina               Extremadura                 0053
+NISSAN              Gasolina               Galicia                     0122
+NISSAN              Gasolina               Madrid (Comunidad de)       1517
+NISSAN              Gasolina               Melilla                     0009
+NISSAN              Gasolina               Murcia (Regi�n de)          0079
+NISSAN              Gasolina               Navarra (Comunidad Foral de)0057
+NISSAN              Gasolina               Pa�s Vasco                  0208
+NISSAN              Gasolina               Rioja (La)                  0030
+OPEL                Diesel                 Andaluc�a                   1136
+OPEL                Diesel                 Arag�n                      0405
+OPEL                Diesel                 Asturias (Principado de)    0200
+OPEL                Diesel                 Balears (Illes)             0132
+OPEL                Diesel                 Canarias                    0189
+OPEL                Diesel                 Cantabria                   0089
+OPEL                Diesel                 Castilla y Le�n             0286
+OPEL                Diesel                 Castilla-La Mancha          0283
+OPEL                Diesel                 Catalu�a                    1015
+OPEL                Diesel                 Ceuta                       0008
+OPEL                Diesel                 Comunitat Valenciana        1367
+OPEL                Diesel                 Extremadura                 0216
+OPEL                Diesel                 Galicia                     0405
+OPEL                Diesel                 Madrid (Comunidad de)       3669
+OPEL                Diesel                 Melilla                     0004
+OPEL                Diesel                 Murcia (Regi�n de)          0218
+OPEL                Diesel                 Navarra (Comunidad Foral de)0086
+OPEL                Diesel                 Pa�s Vasco                  0437
+OPEL                Diesel                 Rioja (La)                  0064
+OPEL                El�ctrico              Cantabria                   0001
+OPEL                El�ctrico              Catalu�a                    0001
+OPEL                El�ctrico              Comunitat Valenciana        0001
+OPEL                El�ctrico              Madrid (Comunidad de)       0002
+OPEL                Gas Licuado de PetroleoAndaluc�a                   0010
+OPEL                Gas Licuado de PetroleoArag�n                      0003
+OPEL                Gas Licuado de PetroleoBalears (Illes)             0003
+OPEL                Gas Licuado de PetroleoCanarias                    0020
+OPEL                Gas Licuado de PetroleoCantabria                   0001
+OPEL                Gas Licuado de PetroleoCastilla y Le�n             0005
+OPEL                Gas Licuado de PetroleoCastilla-La Mancha          0002
+OPEL                Gas Licuado de PetroleoCatalu�a                    0017
+OPEL                Gas Licuado de PetroleoComunitat Valenciana        0052
+OPEL                Gas Licuado de PetroleoExtremadura                 0002
+OPEL                Gas Licuado de PetroleoGalicia                     0019
+OPEL                Gas Licuado de PetroleoMadrid (Comunidad de)       0039
+OPEL                Gas Licuado de PetroleoMurcia (Regi�n de)          0003
+OPEL                Gas Licuado de PetroleoNavarra (Comunidad Foral de)0003
+OPEL                Gas Licuado de PetroleoPa�s Vasco                  0003
+OPEL                Gas Licuado de PetroleoRioja (La)                  0001
+OPEL                Gas Natural Licuado    Andaluc�a                   0001
+OPEL                Gasolina               Andaluc�a                   0907
+OPEL                Gasolina               Arag�n                      0287
+OPEL                Gasolina               Asturias (Principado de)    0123
+OPEL                Gasolina               Balears (Illes)             0698
+OPEL                Gasolina               Canarias                    0848
+OPEL                Gasolina               Cantabria                   0086
+OPEL                Gasolina               Castilla y Le�n             0215
+OPEL                Gasolina               Castilla-La Mancha          0129
+OPEL                Gasolina               Catalu�a                    1157
+OPEL                Gasolina               Ceuta                       0016
+OPEL                Gasolina               Comunitat Valenciana        1916
+OPEL                Gasolina               Extremadura                 0078
+OPEL                Gasolina               Galicia                     0243
+OPEL                Gasolina               Madrid (Comunidad de)       7546
+OPEL                Gasolina               Melilla                     0013
+OPEL                Gasolina               Murcia (Regi�n de)          0156
+OPEL                Gasolina               Navarra (Comunidad Foral de)0124
+OPEL                Gasolina               Pa�s Vasco                  0377
+OPEL                Gasolina               Rioja (La)                  0047
+PEUGEOT             Diesel                 Andaluc�a                   1974
+PEUGEOT             Diesel                 Arag�n                      0382
+PEUGEOT             Diesel                 Asturias (Principado de)    0226
+PEUGEOT             Diesel                 Balears (Illes)             0313
+PEUGEOT             Diesel                 Canarias                    0118
+PEUGEOT             Diesel                 Cantabria                   0147
+PEUGEOT             Diesel                 Castilla y Le�n             0545
+PEUGEOT             Diesel                 Castilla-La Mancha          1178
+PEUGEOT             Diesel                 Catalu�a                    1983
+PEUGEOT             Diesel                 Ceuta                       0013
+PEUGEOT             Diesel                 Comunitat Valenciana        2673
+PEUGEOT             Diesel                 Extremadura                 0208
+PEUGEOT             Diesel                 Galicia                     0808
+PEUGEOT             Diesel                 Madrid (Comunidad de)       5022
+PEUGEOT             Diesel                 Melilla                     0007
+PEUGEOT             Diesel                 Murcia (Regi�n de)          0471
+PEUGEOT             Diesel                 Navarra (Comunidad Foral de)0245
+PEUGEOT             Diesel                 Pa�s Vasco                  0587
+PEUGEOT             Diesel                 Rioja (La)                  0083
+PEUGEOT             El�ctrico              Madrid (Comunidad de)       0001
+PEUGEOT             Gas Natural Licuado    Castilla y Le�n             0002
+PEUGEOT             Gas Natural Licuado    Catalu�a                    0001
+PEUGEOT             Gas Natural Licuado    Pa�s Vasco                  0001
+PEUGEOT             Gasolina               Andaluc�a                   0898
+PEUGEOT             Gasolina               Arag�n                      0285
+PEUGEOT             Gasolina               Asturias (Principado de)    0096
+PEUGEOT             Gasolina               Balears (Illes)             0485
+PEUGEOT             Gasolina               Canarias                    0375
+PEUGEOT             Gasolina               Cantabria                   0066
+PEUGEOT             Gasolina               Castilla y Le�n             0243
+PEUGEOT             Gasolina               Castilla-La Mancha          0521
+PEUGEOT             Gasolina               Catalu�a                    1484
+PEUGEOT             Gasolina               Ceuta                       0005
+PEUGEOT             Gasolina               Comunitat Valenciana        1054
+PEUGEOT             Gasolina               Extremadura                 0078
+PEUGEOT             Gasolina               Galicia                     0275
+PEUGEOT             Gasolina               Madrid (Comunidad de)       1948
+PEUGEOT             Gasolina               Melilla                     0011
+PEUGEOT             Gasolina               Murcia (Regi�n de)          0131
+PEUGEOT             Gasolina               Navarra (Comunidad Foral de)0140
+PEUGEOT             Gasolina               Pa�s Vasco                  0461
+PEUGEOT             Gasolina               Rioja (La)                  0054
+PLYMOUTH            Gasolina               Castilla-La Mancha          0001
+POESSL              Diesel                 Madrid (Comunidad de)       0002
+PONTIAC             Gasolina               Comunitat Valenciana        0002
+PONTIAC             Gasolina               Galicia                     0001
+PONTIAC             Gasolina               Madrid (Comunidad de)       0003
+PORSCHE             Diesel                 Andaluc�a                   0033
+PORSCHE             Diesel                 Arag�n                      0002
+PORSCHE             Diesel                 Asturias (Principado de)    0005
+PORSCHE             Diesel                 Balears (Illes)             0007
+PORSCHE             Diesel                 Canarias                    0003
+PORSCHE             Diesel                 Cantabria                   0001
+PORSCHE             Diesel                 Castilla y Le�n             0008
+PORSCHE             Diesel                 Castilla-La Mancha          0009
+PORSCHE             Diesel                 Catalu�a                    0050
+PORSCHE             Diesel                 Comunitat Valenciana        0018
+PORSCHE             Diesel                 Extremadura                 0003
+PORSCHE             Diesel                 Galicia                     0013
+PORSCHE             Diesel                 Madrid (Comunidad de)       0048
+PORSCHE             Diesel                 Murcia (Regi�n de)          0006
+PORSCHE             Diesel                 Navarra (Comunidad Foral de)0001
+PORSCHE             Diesel                 Pa�s Vasco                  0007
+PORSCHE             Diesel                 Rioja (La)                  0002
+PORSCHE             El�ctrico              Castilla-La Mancha          0001
+PORSCHE             El�ctrico              Madrid (Comunidad de)       0001
+PORSCHE             Gasolina               Andaluc�a                   0043
+PORSCHE             Gasolina               Arag�n                      0004
+PORSCHE             Gasolina               Asturias (Principado de)    0005
+PORSCHE             Gasolina               Balears (Illes)             0015
+PORSCHE             Gasolina               Canarias                    0013
+PORSCHE             Gasolina               Cantabria                   0006
+PORSCHE             Gasolina               Castilla y Le�n             0006
+PORSCHE             Gasolina               Castilla-La Mancha          0003
+PORSCHE             Gasolina               Catalu�a                    0047
+PORSCHE             Gasolina               Comunitat Valenciana        0021
+PORSCHE             Gasolina               Extremadura                 0001
+PORSCHE             Gasolina               Galicia                     0010
+PORSCHE             Gasolina               Madrid (Comunidad de)       0091
+PORSCHE             Gasolina               Murcia (Regi�n de)          0004
+PORSCHE             Gasolina               Navarra (Comunidad Foral de)0001
+PORSCHE             Gasolina               Pa�s Vasco                  0003
+PORSCHE             Gasolina               Rioja (La)                  0001
+RENAULT             Diesel                 Andaluc�a                   1316
+RENAULT             Diesel                 Arag�n                      0170
+RENAULT             Diesel                 Asturias (Principado de)    0180
+RENAULT             Diesel                 Balears (Illes)             0289
+RENAULT             Diesel                 Canarias                    0163
+RENAULT             Diesel                 Cantabria                   0116
+RENAULT             Diesel                 Castilla y Le�n             0705
+RENAULT             Diesel                 Castilla-La Mancha          0279
+RENAULT             Diesel                 Catalu�a                    1290
+RENAULT             Diesel                 Ceuta                       0021
+RENAULT             Diesel                 Comunitat Valenciana        1067
+RENAULT             Diesel                 Extremadura                 0152
+RENAULT             Diesel                 Galicia                     0447
+RENAULT             Diesel                 Madrid (Comunidad de)       5178
+RENAULT             Diesel                 Melilla                     0005
+RENAULT             Diesel                 Murcia (Regi�n de)          0254
+RENAULT             Diesel                 Navarra (Comunidad Foral de)0100
+RENAULT             Diesel                 Pa�s Vasco                  0349
+RENAULT             Diesel                 Rioja (La)                  0051
+RENAULT             El�ctrico              Andaluc�a                   0002
+RENAULT             El�ctrico              Balears (Illes)             0003
+RENAULT             El�ctrico              Canarias                    0002
+RENAULT             El�ctrico              Castilla y Le�n             0002
+RENAULT             El�ctrico              Castilla-La Mancha          0001
+RENAULT             El�ctrico              Catalu�a                    0016
+RENAULT             El�ctrico              Comunitat Valenciana        0005
+RENAULT             El�ctrico              Galicia                     0001
+RENAULT             El�ctrico              Madrid (Comunidad de)       0041
+RENAULT             El�ctrico              Murcia (Regi�n de)          0001
+RENAULT             El�ctrico              Pa�s Vasco                  0001
+RENAULT             Gasolina               Andaluc�a                   0628
+RENAULT             Gasolina               Arag�n                      0136
+RENAULT             Gasolina               Asturias (Principado de)    0117
+RENAULT             Gasolina               Balears (Illes)             0150
+RENAULT             Gasolina               Canarias                    0517
+RENAULT             Gasolina               Cantabria                   0071
+RENAULT             Gasolina               Castilla y Le�n             0394
+RENAULT             Gasolina               Castilla-La Mancha          0122
+RENAULT             Gasolina               Catalu�a                    1198
+RENAULT             Gasolina               Ceuta                       0013
+RENAULT             Gasolina               Comunitat Valenciana        0842
+RENAULT             Gasolina               Extremadura                 0064
+RENAULT             Gasolina               Galicia                     0219
+RENAULT             Gasolina               Madrid (Comunidad de)       1777
+RENAULT             Gasolina               Melilla                     0015
+RENAULT             Gasolina               Murcia (Regi�n de)          0106
+RENAULT             Gasolina               Navarra (Comunidad Foral de)0062
+RENAULT             Gasolina               Pa�s Vasco                  0268
+RENAULT             Gasolina               Rioja (La)                  0031
+RENAULTTECH         Diesel                 Arag�n                      0001
+RENAULTTECH         Diesel                 Castilla y Le�n             0001
+RENAULTTECH         Diesel                 Catalu�a                    0002
+RENAULTTECH         Diesel                 Comunitat Valenciana        0001
+RENAULTTECH         Diesel                 Extremadura                 0001
+RENAULTTECH         Diesel                 Galicia                     0001
+RENAULTTECH         Diesel                 Madrid (Comunidad de)       0004
+RENAULTTECH         Diesel                 Navarra (Comunidad Foral de)0001
+ROBINHOOD           Gasolina               Madrid (Comunidad de)       0001
+ROLLSROYCE          Gasolina               Andaluc�a                   0001
+ROLLSROYCE          Gasolina               Madrid (Comunidad de)       0001
+ROLLSROYCE          Gasolina               Murcia (Regi�n de)          0001
+ROVER               Diesel                 Andaluc�a                   0003
+ROVER               Diesel                 Arag�n                      0001
+ROVER               Diesel                 Catalu�a                    0001
+ROVER               Diesel                 Ceuta                       0001
+ROVER               Gasolina               Andaluc�a                   0001
+ROVER               Gasolina               Balears (Illes)             0001
+ROVER               Gasolina               Canarias                    0002
+ROVER               Gasolina               Catalu�a                    0001
+ROVER               Gasolina               Comunitat Valenciana        0001
+ROVER               Gasolina               Madrid (Comunidad de)       0002
+ROVER               Gasolina               Navarra (Comunidad Foral de)0001
+SAAB                Diesel                 Andaluc�a                   0005
+SAAB                Diesel                 Balears (Illes)             0001
+SAAB                Diesel                 Canarias                    0001
+SAAB                Diesel                 Catalu�a                    0004
+SAAB                Diesel                 Comunitat Valenciana        0001
+SAAB                Diesel                 Madrid (Comunidad de)       0001
+SAAB                Gasolina               Andaluc�a                   0004
+SAAB                Gasolina               Balears (Illes)             0001
+SAAB                Gasolina               Canarias                    0002
+SAAB                Gasolina               Catalu�a                    0002
+SAAB                Gasolina               Comunitat Valenciana        0005
+SAAB                Gasolina               Galicia                     0002
+SAAB                Gasolina               Madrid (Comunidad de)       0001
+SAAB                Gasolina               Navarra (Comunidad Foral de)0001
+SAAB                Gasolina               Pa�s Vasco                  0001
+SCION               Gasolina               Andaluc�a                   0001
+SEAT                Diesel                 Andaluc�a                   0827
+SEAT                Diesel                 Arag�n                      0102
+SEAT                Diesel                 Asturias (Principado de)    0113
+SEAT                Diesel                 Balears (Illes)             0064
+SEAT                Diesel                 Canarias                    0037
+SEAT                Diesel                 Cantabria                   0062
+SEAT                Diesel                 Castilla y Le�n             0209
+SEAT                Diesel                 Castilla-La Mancha          0243
+SEAT                Diesel                 Catalu�a                    1550
+SEAT                Diesel                 Ceuta                       0003
+SEAT                Diesel                 Comunitat Valenciana        0371
+SEAT                Diesel                 Extremadura                 0043
+SEAT                Diesel                 Galicia                     0306
+SEAT                Diesel                 Madrid (Comunidad de)       5259
+SEAT                Diesel                 Melilla                     0001
+SEAT                Diesel                 Murcia (Regi�n de)          0152
+SEAT                Diesel                 Navarra (Comunidad Foral de)0053
+SEAT                Diesel                 Pa�s Vasco                  0184
+SEAT                Diesel                 Rioja (La)                  0021
+SEAT                El�ctrico              Catalu�a                    0001
+SEAT                Gas Licuado de PetroleoAndaluc�a                   0001
+SEAT                Gas Licuado de PetroleoBalears (Illes)             0001
+SEAT                Gas Licuado de PetroleoMadrid (Comunidad de)       0018
+SEAT                Gas Natural Comprimido Balears (Illes)             0002
+SEAT                Gas Natural Comprimido Castilla-La Mancha          0002
+SEAT                Gas Natural Comprimido Catalu�a                    0050
+SEAT                Gas Natural Comprimido Comunitat Valenciana        0001
+SEAT                Gas Natural Comprimido Madrid (Comunidad de)       0030
+SEAT                Gas Natural Comprimido Murcia (Regi�n de)          0002
+SEAT                Gas Natural Comprimido Pa�s Vasco                  0003
+SEAT                Gasolina               Andaluc�a                   0807
+SEAT                Gasolina               Arag�n                      0136
+SEAT                Gasolina               Asturias (Principado de)    0074
+SEAT                Gasolina               Balears (Illes)             0310
+SEAT                Gasolina               Canarias                    0892
+SEAT                Gasolina               Cantabria                   0066
+SEAT                Gasolina               Castilla y Le�n             0268
+SEAT                Gasolina               Castilla-La Mancha          0191
+SEAT                Gasolina               Catalu�a                    1480
+SEAT                Gasolina               Ceuta                       0001
+SEAT                Gasolina               Comunitat Valenciana        0666
+SEAT                Gasolina               Extremadura                 0028
+SEAT                Gasolina               Galicia                     0251
+SEAT                Gasolina               Madrid (Comunidad de)       4678
+SEAT                Gasolina               Melilla                     0015
+SEAT                Gasolina               Murcia (Regi�n de)          0159
+SEAT                Gasolina               Navarra (Comunidad Foral de)0098
+SEAT                Gasolina               Pa�s Vasco                  0257
+SEAT                Gasolina               Rioja (La)                  0043
+SEAT                Sin especificar        Melilla                     0001
+SINMARCA            Gasolina               Andaluc�a                   0001
+SKODA               Diesel                 Andaluc�a                   0365
+SKODA               Diesel                 Arag�n                      0065
+SKODA               Diesel                 Asturias (Principado de)    0065
+SKODA               Diesel                 Balears (Illes)             0099
+SKODA               Diesel                 Canarias                    0022
+SKODA               Diesel                 Cantabria                   0014
+SKODA               Diesel                 Castilla y Le�n             0096
+SKODA               Diesel                 Castilla-La Mancha          0065
+SKODA               Diesel                 Catalu�a                    0435
+SKODA               Diesel                 Comunitat Valenciana        0116
+SKODA               Diesel                 Extremadura                 0068
+SKODA               Diesel                 Galicia                     0096
+SKODA               Diesel                 Madrid (Comunidad de)       1319
+SKODA               Diesel                 Murcia (Regi�n de)          0064
+SKODA               Diesel                 Navarra (Comunidad Foral de)0025
+SKODA               Diesel                 Pa�s Vasco                  0138
+SKODA               Diesel                 Rioja (La)                  0012
+SKODA               Gas Natural Comprimido Comunitat Valenciana        0001
+SKODA               Gas Natural Comprimido Madrid (Comunidad de)       0002
+SKODA               Gasolina               Andaluc�a                   0247
+SKODA               Gasolina               Arag�n                      0061
+SKODA               Gasolina               Asturias (Principado de)    0020
+SKODA               Gasolina               Balears (Illes)             0210
+SKODA               Gasolina               Canarias                    0160
+SKODA               Gasolina               Cantabria                   0016
+SKODA               Gasolina               Castilla y Le�n             0059
+SKODA               Gasolina               Castilla-La Mancha          0029
+SKODA               Gasolina               Catalu�a                    0265
+SKODA               Gasolina               Ceuta                       0001
+SKODA               Gasolina               Comunitat Valenciana        0182
+SKODA               Gasolina               Extremadura                 0028
+SKODA               Gasolina               Galicia                     0081
+SKODA               Gasolina               Madrid (Comunidad de)       1328
+SKODA               Gasolina               Melilla                     0002
+SKODA               Gasolina               Murcia (Regi�n de)          0050
+SKODA               Gasolina               Navarra (Comunidad Foral de)0020
+SKODA               Gasolina               Pa�s Vasco                  0073
+SKODA               Gasolina               Rioja (La)                  0006
+SMART               Diesel                                             0002
+SMART               Diesel                 Arag�n                      0001
+SMART               Diesel                 Comunitat Valenciana        0002
+SMART               Diesel                 Galicia                     0002
+SMART               El�ctrico              Madrid (Comunidad de)       0041
+SMART               Gasolina               Andaluc�a                   0116
+SMART               Gasolina               Arag�n                      0011
+SMART               Gasolina               Asturias (Principado de)    0014
+SMART               Gasolina               Balears (Illes)             0065
+SMART               Gasolina               Canarias                    0076
+SMART               Gasolina               Cantabria                   0006
+SMART               Gasolina               Castilla y Le�n             0010
+SMART               Gasolina               Castilla-La Mancha          0010
+SMART               Gasolina               Catalu�a                    0241
+SMART               Gasolina               Ceuta                       0001
+SMART               Gasolina               Comunitat Valenciana        0167
+SMART               Gasolina               Extremadura                 0001
+SMART               Gasolina               Galicia                     0028
+SMART               Gasolina               Madrid (Comunidad de)       0969
+SMART               Gasolina               Murcia (Regi�n de)          0052
+SMART               Gasolina               Navarra (Comunidad Foral de)0004
+SMART               Gasolina               Pa�s Vasco                  0012
+SMART               Gasolina               Rioja (La)                  0001
+SSANGYONG           Diesel                 Andaluc�a                   0109
+SSANGYONG           Diesel                 Arag�n                      0014
+SSANGYONG           Diesel                 Asturias (Principado de)    0005
+SSANGYONG           Diesel                 Balears (Illes)             0010
+SSANGYONG           Diesel                 Canarias                    0005
+SSANGYONG           Diesel                 Cantabria                   0007
+SSANGYONG           Diesel                 Castilla y Le�n             0035
+SSANGYONG           Diesel                 Castilla-La Mancha          0065
+SSANGYONG           Diesel                 Catalu�a                    0244
+SSANGYONG           Diesel                 Ceuta                       0008
+SSANGYONG           Diesel                 Comunitat Valenciana        0065
+SSANGYONG           Diesel                 Extremadura                 0013
+SSANGYONG           Diesel                 Galicia                     0026
+SSANGYONG           Diesel                 Madrid (Comunidad de)       0138
+SSANGYONG           Diesel                 Melilla                     0008
+SSANGYONG           Diesel                 Murcia (Regi�n de)          0025
+SSANGYONG           Diesel                 Navarra (Comunidad Foral de)0004
+SSANGYONG           Diesel                 Pa�s Vasco                  0026
+SSANGYONG           Gas Licuado de PetroleoAndaluc�a                   0001
+SSANGYONG           Gas Licuado de PetroleoArag�n                      0003
+SSANGYONG           Gas Licuado de PetroleoCatalu�a                    0003
+SSANGYONG           Gas Licuado de PetroleoComunitat Valenciana        0001
+SSANGYONG           Gas Licuado de PetroleoMadrid (Comunidad de)       0002
+SSANGYONG           Gas Licuado de PetroleoMurcia (Regi�n de)          0005
+SSANGYONG           Gas Licuado de PetroleoPa�s Vasco                  0002
+SSANGYONG           Gasolina               Andaluc�a                   0024
+SSANGYONG           Gasolina               Arag�n                      0003
+SSANGYONG           Gasolina               Asturias (Principado de)    0001
+SSANGYONG           Gasolina               Balears (Illes)             0004
+SSANGYONG           Gasolina               Canarias                    0007
+SSANGYONG           Gasolina               Cantabria                   0001
+SSANGYONG           Gasolina               Castilla y Le�n             0003
+SSANGYONG           Gasolina               Castilla-La Mancha          0008
+SSANGYONG           Gasolina               Catalu�a                    0022
+SSANGYONG           Gasolina               Comunitat Valenciana        0008
+SSANGYONG           Gasolina               Galicia                     0001
+SSANGYONG           Gasolina               Madrid (Comunidad de)       0059
+SSANGYONG           Gasolina               Melilla                     0002
+SSANGYONG           Gasolina               Navarra (Comunidad Foral de)0001
+SSANGYONG           Gasolina               Pa�s Vasco                  0003
+STUDEBAKER          Gasolina               Catalu�a                    0001
+SUBARU              Diesel                 Andaluc�a                   0020
+SUBARU              Diesel                 Arag�n                      0005
+SUBARU              Diesel                 Asturias (Principado de)    0007
+SUBARU              Diesel                 Canarias                    0004
+SUBARU              Diesel                 Cantabria                   0005
+SUBARU              Diesel                 Castilla y Le�n             0012
+SUBARU              Diesel                 Castilla-La Mancha          0049
+SUBARU              Diesel                 Catalu�a                    0063
+SUBARU              Diesel                 Comunitat Valenciana        0005
+SUBARU              Diesel                 Extremadura                 0002
+SUBARU              Diesel                 Galicia                     0007
+SUBARU              Diesel                 Madrid (Comunidad de)       0042
+SUBARU              Diesel                 Melilla                     0001
+SUBARU              Diesel                 Murcia (Regi�n de)          0001
+SUBARU              Diesel                 Navarra (Comunidad Foral de)0001
+SUBARU              Diesel                 Pa�s Vasco                  0018
+SUBARU              Diesel                 Rioja (La)                  0003
+SUBARU              Gasolina               Andaluc�a                   0017
+SUBARU              Gasolina               Arag�n                      0011
+SUBARU              Gasolina               Asturias (Principado de)    0007
+SUBARU              Gasolina               Balears (Illes)             0001
+SUBARU              Gasolina               Canarias                    0003
+SUBARU              Gasolina               Cantabria                   0004
+SUBARU              Gasolina               Castilla y Le�n             0010
+SUBARU              Gasolina               Castilla-La Mancha          0013
+SUBARU              Gasolina               Catalu�a                    0103
+SUBARU              Gasolina               Comunitat Valenciana        0008
+SUBARU              Gasolina               Extremadura                 0003
+SUBARU              Gasolina               Galicia                     0007
+SUBARU              Gasolina               Madrid (Comunidad de)       0040
+SUBARU              Gasolina               Melilla                     0001
+SUBARU              Gasolina               Murcia (Regi�n de)          0001
+SUBARU              Gasolina               Navarra (Comunidad Foral de)0003
+SUBARU              Gasolina               Pa�s Vasco                  0009
+SUZUKI              Diesel                 Andaluc�a                   0114
+SUZUKI              Diesel                 Arag�n                      0021
+SUZUKI              Diesel                 Asturias (Principado de)    0013
+SUZUKI              Diesel                 Balears (Illes)             0007
+SUZUKI              Diesel                 Canarias                    0002
+SUZUKI              Diesel                 Castilla y Le�n             0026
+SUZUKI              Diesel                 Castilla-La Mancha          0025
+SUZUKI              Diesel                 Catalu�a                    0043
+SUZUKI              Diesel                 Comunitat Valenciana        0042
+SUZUKI              Diesel                 Extremadura                 0001
+SUZUKI              Diesel                 Galicia                     0023
+SUZUKI              Diesel                 Madrid (Comunidad de)       0090
+SUZUKI              Diesel                 Murcia (Regi�n de)          0019
+SUZUKI              Diesel                 Navarra (Comunidad Foral de)0008
+SUZUKI              Diesel                 Pa�s Vasco                  0019
+SUZUKI              Diesel                 Rioja (La)                  0007
+SUZUKI              Gasolina               Andaluc�a                   0064
+SUZUKI              Gasolina               Arag�n                      0020
+SUZUKI              Gasolina               Asturias (Principado de)    0010
+SUZUKI              Gasolina               Balears (Illes)             0046
+SUZUKI              Gasolina               Canarias                    0045
+SUZUKI              Gasolina               Cantabria                   0005
+SUZUKI              Gasolina               Castilla y Le�n             0031
+SUZUKI              Gasolina               Castilla-La Mancha          0014
+SUZUKI              Gasolina               Catalu�a                    0156
+SUZUKI              Gasolina               Comunitat Valenciana        0067
+SUZUKI              Gasolina               Extremadura                 0001
+SUZUKI              Gasolina               Galicia                     0015
+SUZUKI              Gasolina               Madrid (Comunidad de)       0087
+SUZUKI              Gasolina               Melilla                     0002
+SUZUKI              Gasolina               Murcia (Regi�n de)          0017
+SUZUKI              Gasolina               Navarra (Comunidad Foral de)0008
+SUZUKI              Gasolina               Pa�s Vasco                  0016
+SUZUKI              Gasolina               Rioja (La)                  0018
+TESLA               El�ctrico              Andaluc�a                   0002
+TESLA               El�ctrico              Catalu�a                    0002
+TESLAMOTORS         El�ctrico              Andaluc�a                   0001
+TESLAMOTORS         El�ctrico              Catalu�a                    0003
+TESLAMOTORS         El�ctrico              Comunitat Valenciana        0002
+TESLAMOTORS         El�ctrico              Madrid (Comunidad de)       0001
+TOYOTA              Diesel                 Andaluc�a                   0657
+TOYOTA              Diesel                 Arag�n                      0078
+TOYOTA              Diesel                 Asturias (Principado de)    0059
+TOYOTA              Diesel                 Balears (Illes)             0044
+TOYOTA              Diesel                 Canarias                    0039
+TOYOTA              Diesel                 Cantabria                   0039
+TOYOTA              Diesel                 Castilla y Le�n             0156
+TOYOTA              Diesel                 Castilla-La Mancha          0120
+TOYOTA              Diesel                 Catalu�a                    0463
+TOYOTA              Diesel                 Ceuta                       0007
+TOYOTA              Diesel                 Comunitat Valenciana        0344
+TOYOTA              Diesel                 Extremadura                 0109
+TOYOTA              Diesel                 Galicia                     0169
+TOYOTA              Diesel                 Madrid (Comunidad de)       1239
+TOYOTA              Diesel                 Melilla                     0007
+TOYOTA              Diesel                 Murcia (Regi�n de)          0084
+TOYOTA              Diesel                 Navarra (Comunidad Foral de)0036
+TOYOTA              Diesel                 Pa�s Vasco                  0141
+TOYOTA              Diesel                 Rioja (La)                  0025
+TOYOTA              El�ctrico              Comunitat Valenciana        0001
+TOYOTA              El�ctrico              Madrid (Comunidad de)       0001
+TOYOTA              Gas Licuado de PetroleoMadrid (Comunidad de)       0001
+TOYOTA              Gasolina               Andaluc�a                   1161
+TOYOTA              Gasolina               Arag�n                      0200
+TOYOTA              Gasolina               Asturias (Principado de)    0130
+TOYOTA              Gasolina               Balears (Illes)             0389
+TOYOTA              Gasolina               Canarias                    0390
+TOYOTA              Gasolina               Cantabria                   0104
+TOYOTA              Gasolina               Castilla y Le�n             0313
+TOYOTA              Gasolina               Castilla-La Mancha          0200
+TOYOTA              Gasolina               Catalu�a                    1963
+TOYOTA              Gasolina               Ceuta                       0009
+TOYOTA              Gasolina               Comunitat Valenciana        0925
+TOYOTA              Gasolina               Extremadura                 0120
+TOYOTA              Gasolina               Galicia                     0384
+TOYOTA              Gasolina               Madrid (Comunidad de)       3402
+TOYOTA              Gasolina               Melilla                     0006
+TOYOTA              Gasolina               Murcia (Regi�n de)          0173
+TOYOTA              Gasolina               Navarra (Comunidad Foral de)0097
+TOYOTA              Gasolina               Pa�s Vasco                  0362
+TOYOTA              Gasolina               Rioja (La)                  0057
+TRIPOD                                     Comunitat Valenciana        0001
+TRIPOD              Diesel                 Extremadura                 0001
+TRIUMPH             Gasolina               Andaluc�a                   0001
+TRIUMPH             Gasolina               Catalu�a                    0002
+TRIUMPH             Gasolina               Comunitat Valenciana        0002
+TVR                 Gasolina               Canarias                    0001
+VAUXHALL            Diesel                 Comunitat Valenciana        0001
+VAUXHALL            Diesel                 Murcia (Regi�n de)          0001
+VAUXHALL            Gasolina               Andaluc�a                   0001
+VAUXHALL            Gasolina               Canarias                    0001
+VAUXHALL            Gasolina               Cantabria                   0001
+VAUXHALL            Gasolina               Comunitat Valenciana        0003
+VESPA               Gasolina               Catalu�a                    0001
+VOLKSWAGEN          Diesel                 Andaluc�a                   1860
+VOLKSWAGEN          Diesel                 Arag�n                      0260
+VOLKSWAGEN          Diesel                 Asturias (Principado de)    0258
+VOLKSWAGEN          Diesel                 Balears (Illes)             0227
+VOLKSWAGEN          Diesel                 Canarias                    0158
+VOLKSWAGEN          Diesel                 Cantabria                   0166
+VOLKSWAGEN          Diesel                 Castilla y Le�n             0490
+VOLKSWAGEN          Diesel                 Castilla-La Mancha          0389
+VOLKSWAGEN          Diesel                 Catalu�a                    2166
+VOLKSWAGEN          Diesel                 Ceuta                       0033
+VOLKSWAGEN          Diesel                 Comunitat Valenciana        1382
+VOLKSWAGEN          Diesel                 Extremadura                 0224
+VOLKSWAGEN          Diesel                 Galicia                     0651
+VOLKSWAGEN          Diesel                 Madrid (Comunidad de)       6502
+VOLKSWAGEN          Diesel                 Melilla                     0016
+VOLKSWAGEN          Diesel                 Murcia (Regi�n de)          0432
+VOLKSWAGEN          Diesel                 Navarra (Comunidad Foral de)0254
+VOLKSWAGEN          Diesel                 Pa�s Vasco                  0558
+VOLKSWAGEN          Diesel                 Rioja (La)                  0064
+VOLKSWAGEN          El�ctrico              Andaluc�a                   0011
+VOLKSWAGEN          El�ctrico              Arag�n                      0002
+VOLKSWAGEN          El�ctrico              Asturias (Principado de)    0003
+VOLKSWAGEN          El�ctrico              Balears (Illes)             0002
+VOLKSWAGEN          El�ctrico              Canarias                    0004
+VOLKSWAGEN          El�ctrico              Cantabria                   0001
+VOLKSWAGEN          El�ctrico              Castilla y Le�n             0005
+VOLKSWAGEN          El�ctrico              Castilla-La Mancha          0002
+VOLKSWAGEN          El�ctrico              Catalu�a                    0030
+VOLKSWAGEN          El�ctrico              Comunitat Valenciana        0004
+VOLKSWAGEN          El�ctrico              Galicia                     0004
+VOLKSWAGEN          El�ctrico              Madrid (Comunidad de)       0029
+VOLKSWAGEN          El�ctrico              Murcia (Regi�n de)          0001
+VOLKSWAGEN          El�ctrico              Navarra (Comunidad Foral de)0001
+VOLKSWAGEN          El�ctrico              Pa�s Vasco                  0006
+VOLKSWAGEN          El�ctrico              Rioja (La)                  0001
+VOLKSWAGEN          Gas Licuado de PetroleoMadrid (Comunidad de)       0001
+VOLKSWAGEN          Gas Natural Comprimido Catalu�a                    0004
+VOLKSWAGEN          Gas Natural Comprimido Pa�s Vasco                  0001
+VOLKSWAGEN          Gasolina               Andaluc�a                   0760
+VOLKSWAGEN          Gasolina               Arag�n                      0109
+VOLKSWAGEN          Gasolina               Asturias (Principado de)    0089
+VOLKSWAGEN          Gasolina               Balears (Illes)             0479
+VOLKSWAGEN          Gasolina               Canarias                    1019
+VOLKSWAGEN          Gasolina               Cantabria                   0060
+VOLKSWAGEN          Gasolina               Castilla y Le�n             0197
+VOLKSWAGEN          Gasolina               Castilla-La Mancha          0123
+VOLKSWAGEN          Gasolina               Catalu�a                    1168
+VOLKSWAGEN          Gasolina               Ceuta                       0011
+VOLKSWAGEN          Gasolina               Comunitat Valenciana        0585
+VOLKSWAGEN          Gasolina               Extremadura                 0046
+VOLKSWAGEN          Gasolina               Galicia                     0223
+VOLKSWAGEN          Gasolina               Madrid (Comunidad de)       3769
+VOLKSWAGEN          Gasolina               Melilla                     0016
+VOLKSWAGEN          Gasolina               Murcia (Regi�n de)          0093
+VOLKSWAGEN          Gasolina               Navarra (Comunidad Foral de)0095
+VOLKSWAGEN          Gasolina               Pa�s Vasco                  0231
+VOLKSWAGEN          Gasolina               Rioja (La)                  0028
+VOLKSWAGEN          Sin especificar        Andaluc�a                   0001
+VOLKSWAGENVW        Diesel                 Andaluc�a                   0001
+VOLKSWAGENVW        Diesel                 Castilla y Le�n             0002
+VOLKSWAGENVW        Diesel                 Catalu�a                    0001
+VOLKSWAGENVW        Diesel                 Comunitat Valenciana        0001
+VOLKSWAGENVW        Diesel                 Galicia                     0003
+VOLKSWAGENVW        Diesel                 Madrid (Comunidad de)       0001
+VOLKSWAGENVW        Diesel                 Murcia (Regi�n de)          0001
+VOLKSWAGENVW        Diesel                 Pa�s Vasco                  0001
+VOLKSWAGENVW        Gasolina               Andaluc�a                   0002
+VOLKSWAGENVW        Gasolina               Canarias                    0001
+VOLKSWAGENVW        Gasolina               Castilla y Le�n             0001
+VOLKSWAGENVW        Gasolina               Comunitat Valenciana        0001
+VOLVO               Butano                 Castilla y Le�n             0001
+VOLVO               Diesel                 Andaluc�a                   0289
+VOLVO               Diesel                 Arag�n                      0038
+VOLVO               Diesel                 Asturias (Principado de)    0031
+VOLVO               Diesel                 Balears (Illes)             0034
+VOLVO               Diesel                 Canarias                    0032
+VOLVO               Diesel                 Cantabria                   0023
+VOLVO               Diesel                 Castilla y Le�n             0088
+VOLVO               Diesel                 Castilla-La Mancha          0089
+VOLVO               Diesel                 Catalu�a                    0340
+VOLVO               Diesel                 Ceuta                       0002
+VOLVO               Diesel                 Comunitat Valenciana        0156
+VOLVO               Diesel                 Extremadura                 0049
+VOLVO               Diesel                 Galicia                     0076
+VOLVO               Diesel                 Madrid (Comunidad de)       1408
+VOLVO               Diesel                 Murcia (Regi�n de)          0048
+VOLVO               Diesel                 Navarra (Comunidad Foral de)0023
+VOLVO               Diesel                 Pa�s Vasco                  0111
+                    Diesel                 Rioja (La)                  0012
+VOLVO               Gasolina               Andaluc�a                   0023
+VOLVO               Gasolina               Arag�n                      0002
+VOLVO               Gasolina               Asturias (Principado de)    0002
+VOLVO               Gasolina               Balears (Illes)             0005
+VOLVO               Gasolina               Canarias                    0013
+VOLVO               Gasolina               Cantabria                   0001
+VOLVO               Gasolina               Castilla y Le�n             0004
+VOLVO               Gasolina               Castilla-La Mancha          0002
+VOLVO               Gasolina               Catalu�a                    0016
+VOLVO               Gasolina               Comunitat Valenciana        0019
+VOLVO               Gasolina               Galicia                     0007
+VOLVO               Gasolina               Madrid (Comunidad de)       0032
+VOLVO               Gasolina               Murcia (Regi�n de)          0002
+VOLVO               Gasolina               Navarra (Comunidad Foral de)0002
+VOLVO               Gasolina               Pa�s Vasco                  0006

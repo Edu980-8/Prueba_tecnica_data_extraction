@@ -1,0 +1,1658 @@
+consecutivo,Marca,Tipo,Ubicacion,Placa,fecha
+1,ADRIA,Diesel,Galicia,0001,06/07/2019
+2,ALFAROMEO,Diesel,Andaluc�a,0047,06/07/2019
+3,ALFAROMEO,Diesel,Arag�n,0041,06/07/2019
+4,ALFAROMEO,Diesel,Asturias (Principado de),0010,06/07/2019
+5,ALFAROMEO,Diesel,Balears (Illes),0006,06/07/2019
+6,ALFAROMEO,Diesel,Canarias,0019,06/07/2019
+7,ALFAROMEO,Diesel,Castilla y Le�n,0026,06/07/2019
+8,ALFAROMEO,Diesel,Castilla-La Mancha,0009,06/07/2019
+9,ALFAROMEO,Diesel,Catalu�a,0112,06/07/2019
+10,ALFAROMEO,Diesel,Ceuta,0001,06/07/2019
+11,ALFAROMEO,Diesel,Comunitat Valenciana,0192,06/07/2019
+12,ALFAROMEO,Diesel,Extremadura,0005,06/07/2019
+13,ALFAROMEO,Diesel,Galicia,0023,06/07/2019
+14,ALFAROMEO,Diesel,Madrid (Comunidad de),0162,06/07/2019
+15,ALFAROMEO,Diesel,Murcia (Regi�n de),0010,06/07/2019
+16,ALFAROMEO,Diesel,Navarra (Comunidad Foral de),0003,06/07/2019
+17,ALFAROMEO,Diesel,Pa�s Vasco,0007,06/07/2019
+18,ALFAROMEO,Gasolina,Andaluc�a,0014,06/07/2019
+19,ALFAROMEO,Gasolina,,0003,06/07/2019
+20,ALFAROMEO,Gasolina,Asturias (Principado de),0001,06/07/2019
+21,ALFAROMEO,Gasolina,Balears (Illes),0005,06/07/2019
+22,ALFAROMEO,Gasolina,Canarias,0025,06/07/2019
+23,ALFAROMEO,Gasolina,Cantabria,0001,06/07/2019
+24,ALFAROMEO,Gasolina,Castilla y Le�n,0002,06/07/2019
+25,ALFAROMEO,Gasolina,Castilla-La Mancha,0001,06/07/2019
+26,,Gasolina,Catalu�a,0013,06/07/2019
+27,ALFAROMEO,Gasolina,Comunitat Valenciana,0010,06/07/2019
+28,ALFAROMEO,Gasolina,Extremadura,0001,06/07/2019
+29,ALFAROMEO,Gasolina,Galicia,0011,06/07/2019
+30,ALFAROMEO,Gasolina,Madrid (Comunidad de),0014,06/07/2019
+31,ALFAROMEO,Gasolina,Pa�s Vasco,0002,06/07/2019
+32,ALLARD,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+33,AMGENERALCORP,Gasolina,Andaluc�a,0001,06/07/2019
+34,APICZ,Diesel,Catalu�a,0001,06/07/2019
+35,APICZ,Diesel,Comunitat Valenciana,0001,06/07/2019
+36,APICZ,Gasolina,Murcia (Regi�n de),0001,06/07/2019
+37,ASTONMARTIN,Gasolina,Andaluc�a,0004,06/07/2019
+38,ASTONMARTIN,Gasolina,Balears (Illes),0001,06/07/2019
+39,ASTONMARTIN,Gasolina,Castilla y Le�n,0001,06/07/2019
+40,ASTONMARTIN,Gasolina,Castilla-La Mancha,0001,06/07/2019
+41,ASTONMARTIN,Gasolina,Catalu�a,0004,06/07/2019
+42,ASTONMARTIN,Gasolina,Comunitat Valenciana,0001,06/07/2019
+43,ASTONMARTIN,Gasolina,Madrid (Comunidad de),0041,06/07/2019
+44,ASTONMARTIN,Gasolina,Murcia (Regi�n de),0002,06/07/2019
+45,AUDI,Diesel,Andaluc�a,1235,06/07/2019
+46,AUDI,Diesel,Arag�n,0186,06/07/2019
+47,AUDI,Diesel,Asturias (Principado de),0175,06/07/2019
+48,AUDI,Diesel,Balears (Illes),0155,06/07/2019
+49,AUDI,Diesel,Canarias,0057,06/07/2019
+50,AUDI,Diesel,Cantabria,0117,06/07/2019
+51,AUDI,Diesel,Castilla y Le�n,0405,06/07/2019
+52,AUDI,Diesel,Castilla-La Mancha,0346,06/07/2019
+53,AUDI,Diesel,Catalu�a,1774,06/07/2019
+54,AUDI,Diesel,Ceuta,0012,06/07/2019
+55,AUDI,Diesel,Comunitat Valenciana,0911,06/07/2019
+56,AUDI,Diesel,Extremadura,0158,06/07/2019
+57,AUDI,Diesel,Galicia,0567,06/07/2019
+58,AUDI,Diesel,Madrid (Comunidad de),0162,06/07/2019
+59,AUDI,Diesel,Melilla,0006,06/07/2019
+60,AUDI,Diesel,Murcia (Regi�n de),0337,06/07/2019
+61,AUDI,Diesel,Navarra (Comunidad Foral de),0105,06/07/2019
+62,AUDI,Diesel,Pa�s Vasco,0420,06/07/2019
+63,AUDI,Diesel,Rioja (La),0058,06/07/2019
+64,AUDI,El�ctrico,Andaluc�a,0002,06/07/2019
+65,AUDI,El�ctrico,Arag�n,0002,06/07/2019
+66,AUDI,El�ctrico,Balears (Illes),0001,06/07/2019
+67,AUDI,El�ctrico,Canarias,0002,06/07/2019
+68,AUDI,El�ctrico,Catalu�a,0001,06/07/2019
+69,AUDI,El�ctrico,Comunitat Valenciana,0001,06/07/2019
+70,AUDI,El�ctrico,Madrid (Comunidad de),0010,06/07/2019
+71,AUDI,Gas Licuado de Petroleo,Pa�s Vasco,0001,06/07/2019
+72,AUDI,Gasolina,Andaluc�a,0217,06/07/2019
+73,AUDI,Gasolina,Arag�n,0037,06/07/2019
+74,AUDI,Gasolina,Asturias (Principado de),0028,06/07/2019
+75,AUDI,Gasolina,Balears (Illes),0221,06/07/2019
+76,AUDI,Gasolina,Canarias,0155,06/07/2019
+77,AUDI,Gasolina,Cantabria,0036,06/07/2019
+78,AUDI,Gasolina,Castilla y Le�n,0116,06/07/2019
+79,AUDI,Gasolina,Castilla-La Mancha,0063,06/07/2019
+80,AUDI,Gasolina,Catalu�a,0589,06/07/2019
+81,AUDI,Gasolina,Ceuta,0006,06/07/2019
+82,AUDI,,Comunitat Valenciana,0431,06/07/2019
+83,AUDI,Gasolina,Extremadura,0026,06/07/2019
+84,AUDI,Gasolina,Galicia,0118,06/07/2019
+85,AUDI,Gasolina,Madrid (Comunidad de),0003,06/07/2019
+86,AUDI,Gasolina,Murcia (Regi�n de),0047,06/07/2019
+87,AUDI,Gasolina,Navarra (Comunidad Foral de),0022,06/07/2019
+88,AUDI,Gasolina,Pa�s Vasco,0150,06/07/2019
+89,AUDI,Gasolina,Rioja (La),0008,06/07/2019
+90,AUSTIN,Gasolina,Catalu�a,0001,06/07/2019
+91,AUSTIN,Gasolina,Galicia,0001,06/07/2019
+92,AUSTIN,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+93,AUSTINROVER,Gasolina,Andaluc�a,0001,06/07/2019
+94,BENTLEY,Gasolina,Andaluc�a,0015,06/07/2019
+95,BENTLEY,Gasolina,Balears (Illes),0001,06/07/2019
+96,BENTLEY,Gasolina,Canarias,0001,06/07/2019
+97,BENTLEY,Gasolina,Catalu�a,0004,06/07/2019
+98,BENTLEY,Gasolina,Comunitat Valenciana,0004,06/07/2019
+99,BENTLEY,Gasolina,Madrid (Comunidad de),0007,06/07/2019
+100,BIERMAN,Diesel,Extremadura,0001,06/07/2019
+101,BMW,Biometano,Navarra (Comunidad Foral de),0001,06/07/2019
+102,BMW,Diesel,Andaluc�a,1199,06/07/2019
+103,BMW,Diesel,Arag�n,0172,06/07/2019
+104,BMW,Diesel,Asturias (Principado de),0147,06/07/2019
+105,BMW,Diesel,Balears (Illes),0213,06/07/2019
+106,BMW,Diesel,Canarias,0201,06/07/2019
+107,BMW,Diesel,Cantabria,0103,06/07/2019
+108,BMW,Diesel,Castilla y Le�n,0338,06/07/2019
+109,BMW,Diesel,Castilla-La Mancha,0287,06/07/2019
+110,BMW,Diesel,Catalu�a,1328,06/07/2019
+111,BMW,Diesel,Ceuta,0004,06/07/2019
+112,BMW,Diesel,Comunitat Valenciana,0982,06/07/2019
+113,BMW,Diesel,Extremadura,0135,06/07/2019
+114,BMW,Diesel,,0344,06/07/2019
+115,BMW,Diesel,Madrid (Comunidad de),5990,06/07/2019
+116,BMW,Diesel,Melilla,0006,06/07/2019
+117,BMW,Diesel,Murcia (Regi�n de),0235,06/07/2019
+118,BMW,Diesel,Navarra (Comunidad Foral de),0079,06/07/2019
+119,BMW,Diesel,Pa�s Vasco,0275,06/07/2019
+120,BMW,Diesel,Rioja (La),0039,06/07/2019
+121,BMW,El�ctrico,Balears (Illes),0001,06/07/2019
+122,BMW,El�ctrico,Comunitat Valenciana,0003,06/07/2019
+123,BMW,El�ctrico,Madrid (Comunidad de),0017,06/07/2019
+124,BMW,El�ctrico,Pa�s Vasco,0002,06/07/2019
+125,BMW,Gasolina,Andaluc�a,0088,06/07/2019
+126,BMW,Gasolina,Arag�n,0014,06/07/2019
+127,BMW,Gasolina,Asturias (Principado de),0007,06/07/2019
+128,BMW,Gasolina,Balears (Illes),0031,06/07/2019
+129,BMW,Gasolina,Canarias,0045,06/07/2019
+130,BMW,Gasolina,Cantabria,0008,06/07/2019
+131,BMW,Gasolina,Castilla y Le�n,0033,06/07/2019
+132,BMW,Gasolina,Castilla-La Mancha,0018,06/07/2019
+133,BMW,Gasolina,Catalu�a,0153,06/07/2019
+134,BMW,Gasolina,Comunitat Valenciana,0124,06/07/2019
+135,BMW,Gasolina,Extremadura,0006,06/07/2019
+136,BMW,Gasolina,Galicia,0040,06/07/2019
+137,BMW,Gasolina,Madrid (Comunidad de),0272,06/07/2019
+138,BMW,Gasolina,Melilla,0001,06/07/2019
+139,BMW,Gasolina,Murcia (Regi�n de),0015,06/07/2019
+140,BMW,Gasolina,Navarra (Comunidad Foral de),0005,06/07/2019
+141,BMW,Gasolina,Pa�s Vasco,0045,06/07/2019
+142,BMW,Gasolina,Rioja (La),0001,06/07/2019
+143,BMWI,Diesel,Madrid (Comunidad de),0008,06/07/2019
+144,BMWI,El�ctrico,Andaluc�a,0001,06/07/2019
+145,,El�ctrico,Canarias,0001,06/07/2019
+146,BMWI,El�ctrico,Catalu�a,0013,06/07/2019
+147,BMWI,El�ctrico,Comunitat Valenciana,0001,06/07/2019
+148,BMWI,El�ctrico,Madrid (Comunidad de),0048,06/07/2019
+149,BMWI,Gasolina,Balears (Illes),0001,06/07/2019
+150,BMWI,Gasolina,Castilla-La Mancha,0001,06/07/2019
+151,BMWI,,Catalu�a,0002,06/07/2019
+152,BMWI,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+153,BUGGY,Gasolina,Andaluc�a,0001,06/07/2019
+154,BUICK,Gasolina,Andaluc�a,0004,06/07/2019
+155,CADILLAC,Gasolina,Andaluc�a,0003,06/07/2019
+156,CADILLAC,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+157,CADILLAC,Sin especificar,Castilla y Le�n,0001,06/07/2019
+158,CARRUXO,Gasolina,Andaluc�a,0001,06/07/2019
+159,CHAUSSON,Diesel,Catalu�a,0001,06/07/2019
+160,CHEVROLET,Diesel,Andaluc�a,0002,06/07/2019
+161,CHEVROLET,Diesel,Balears (Illes),0002,06/07/2019
+162,CHEVROLET,Diesel,Castilla y Le�n,0001,06/07/2019
+163,CHEVROLET,Diesel,Castilla-La Mancha,0001,06/07/2019
+164,CHEVROLET,Diesel,Comunitat Valenciana,0003,06/07/2019
+165,CHEVROLET,Diesel,Madrid (Comunidad de),0003,06/07/2019
+166,CHEVROLET,Diesel,Murcia (Regi�n de),0001,06/07/2019
+167,CHEVROLET,Gasolina,Andaluc�a,0013,06/07/2019
+168,CHEVROLET,Gasolina,Balears (Illes),0006,06/07/2019
+169,CHEVROLET,Gasolina,Canarias,0003,06/07/2019
+170,CHEVROLET,Gasolina,Catalu�a,0001,06/07/2019
+171,CHEVROLET,Gasolina,Comunitat Valenciana,0006,06/07/2019
+172,CHEVROLET,Gasolina,Galicia,0001,06/07/2019
+173,CHEVROLET,Gasolina,Madrid (Comunidad de),0005,06/07/2019
+174,CHEVROLET,Gasolina,Murcia (Regi�n de),0004,06/07/2019
+175,CHEVROLET,Sin especificar,Asturias (Principado de),0001,06/07/2019
+176,CHRYSLER,Diesel,Andaluc�a,0007,06/07/2019
+177,CHRYSLER,Diesel,Arag�n,0002,06/07/2019
+178,CHRYSLER,Diesel,Asturias (Principado de),0002,06/07/2019
+179,CHRYSLER,Diesel,Balears (Illes),0001,06/07/2019
+180,CHRYSLER,Diesel,Canarias,0003,06/07/2019
+181,CHRYSLER,Diesel,Castilla y Le�n,0003,06/07/2019
+182,CHRYSLER,Diesel,Castilla-La Mancha,0001,06/07/2019
+183,CHRYSLER,Diesel,Catalu�a,0004,06/07/2019
+184,CHRYSLER,Diesel,Comunitat Valenciana,0004,06/07/2019
+185,CHRYSLER,Diesel,Extremadura,0001,06/07/2019
+186,CHRYSLER,Diesel,Galicia,0001,06/07/2019
+187,CHRYSLER,Diesel,Madrid (Comunidad de),0006,06/07/2019
+188,CHRYSLER,Diesel,Murcia (Regi�n de),0003,06/07/2019
+189,CHRYSLER,Gasolina,Andaluc�a,0007,06/07/2019
+190,CHRYSLER,Gasolina,Arag�n,0001,06/07/2019
+191,CHRYSLER,Gasolina,Balears (Illes),0003,06/07/2019
+192,CHRYSLER,Gasolina,Catalu�a,0003,06/07/2019
+193,CHRYSLER,Gasolina,Comunitat Valenciana,0009,06/07/2019
+194,CHRYSLER,Gasolina,Madrid (Comunidad de),0002,06/07/2019
+195,CHRYSLER,Gasolina,Murcia (Regi�n de),0005,06/07/2019
+196,CITROEN,Diesel,Andaluc�a,2064,06/07/2019
+197,CITROEN,Diesel,Arag�n,0229,06/07/2019
+198,CITROEN,Diesel,Asturias (Principado de),0181,06/07/2019
+199,CITROEN,Diesel,Balears (Illes),0447,06/07/2019
+200,CITROEN,Diesel,Canarias,0052,06/07/2019
+201,CITROEN,Diesel,Cantabria,0129,06/07/2019
+202,CITROEN,Diesel,Castilla y Le�n,0415,06/07/2019
+203,CITROEN,Diesel,Castilla-La Mancha,0975,06/07/2019
+204,CITROEN,Diesel,Catalu�a,1570,06/07/2019
+205,CITROEN,Diesel,Ceuta,0024,06/07/2019
+206,CITROEN,Diesel,Comunitat Valenciana,2204,06/07/2019
+207,CITROEN,Diesel,Extremadura,0257,06/07/2019
+208,CITROEN,Diesel,Galicia,0635,06/07/2019
+209,CITROEN,Diesel,Madrid (Comunidad de),3997,06/07/2019
+210,CITROEN,Diesel,Murcia (Regi�n de),0446,06/07/2019
+211,CITROEN,Diesel,Navarra (Comunidad Foral de),0133,06/07/2019
+212,CITROEN,Diesel,Pa�s Vasco,0379,06/07/2019
+213,CITROEN,Diesel,Rioja (La),0063,06/07/2019
+214,CITROEN,El�ctrico,Andaluc�a,0003,06/07/2019
+215,CITROEN,El�ctrico,Castilla-La Mancha,0003,06/07/2019
+216,CITROEN,El�ctrico,Catalu�a,0007,06/07/2019
+217,CITROEN,El�ctrico,Comunitat Valenciana,0001,06/07/2019
+218,CITROEN,El�ctrico,Madrid (Comunidad de),0007,06/07/2019
+219,CITROEN,El�ctrico,Navarra (Comunidad Foral de),0001,06/07/2019
+220,CITROEN,Gas Licuado de Petroleo,Andaluc�a,0001,06/07/2019
+221,CITROEN,Gas Licuado de Petroleo,Castilla y Le�n,0001,06/07/2019
+222,CITROEN,Gas Licuado de Petroleo,Catalu�a,0032,06/07/2019
+223,CITROEN,Gas Licuado de Petroleo,Madrid (Comunidad de),0009,06/07/2019
+224,CITROEN,Gasolina,Andaluc�a,0748,06/07/2019
+225,CITROEN,Gasolina,Arag�n,0141,06/07/2019
+226,CITROEN,Gasolina,Asturias (Principado de),0084,06/07/2019
+227,CITROEN,Gasolina,Balears (Illes),0205,06/07/2019
+228,CITROEN,Gasolina,Canarias,0399,06/07/2019
+229,CITROEN,Gasolina,Cantabria,0069,06/07/2019
+230,CITROEN,Gasolina,Castilla y Le�n,0213,06/07/2019
+231,CITROEN,Gasolina,Castilla-La Mancha,0282,06/07/2019
+232,CITROEN,Gasolina,Catalu�a,0943,06/07/2019
+233,CITROEN,Gasolina,Ceuta,0018,06/07/2019
+234,CITROEN,Gasolina,Comunitat Valenciana,0999,06/07/2019
+235,CITROEN,Gasolina,Extremadura,0112,06/07/2019
+236,CITROEN,Gasolina,Galicia,0171,06/07/2019
+237,CITROEN,Gasolina,Madrid (Comunidad de),1455,06/07/2019
+238,CITROEN,Gasolina,Melilla,0010,06/07/2019
+239,CITROEN,Gasolina,Murcia (Regi�n de),0115,06/07/2019
+240,CITROEN,Gasolina,Navarra (Comunidad Foral de),0072,06/07/2019
+241,CITROEN,Gasolina,Pa�s Vasco,0230,06/07/2019
+242,CITROEN,Gasolina,Rioja (La),0038,06/07/2019
+243,CITROEN,Hidr�geno,Comunitat Valenciana,0001,06/07/2019
+244,DACIA,Diesel,Andaluc�a,1396,06/07/2019
+245,DACIA,Diesel,Arag�n,0165,06/07/2019
+246,DACIA,Diesel,Asturias (Principado de),0121,06/07/2019
+247,DACIA,Diesel,Balears (Illes),0197,06/07/2019
+248,DACIA,Diesel,Canarias,0355,06/07/2019
+249,DACIA,Diesel,Cantabria,0070,06/07/2019
+250,DACIA,Diesel,Castilla y Le�n,0273,06/07/2019
+251,DACIA,Diesel,Castilla-La Mancha,0280,06/07/2019
+252,DACIA,Diesel,Catalu�a,0843,06/07/2019
+253,DACIA,Diesel,Ceuta,0004,06/07/2019
+254,DACIA,Diesel,Comunitat Valenciana,0714,06/07/2019
+255,DACIA,Diesel,Extremadura,0209,06/07/2019
+256,DACIA,Diesel,Galicia,0303,06/07/2019
+257,DACIA,Diesel,Madrid (Comunidad de),0804,06/07/2019
+258,DACIA,Diesel,Murcia (Regi�n de),0274,06/07/2019
+259,DACIA,Diesel,Navarra (Comunidad Foral de),0080,06/07/2019
+260,DACIA,Diesel,Pa�s Vasco,0276,06/07/2019
+261,DACIA,Diesel,Rioja (La),0046,06/07/2019
+262,DACIA,Gas Licuado de Petroleo,Andaluc�a,0004,06/07/2019
+263,DACIA,Gas Licuado de Petroleo,Arag�n,0001,06/07/2019
+264,DACIA,Gas Licuado de Petroleo,Canarias,0008,06/07/2019
+265,DACIA,Gas Licuado de Petroleo,Castilla-La Mancha,0001,06/07/2019
+266,DACIA,Gas Licuado de Petroleo,Catalu�a,0003,06/07/2019
+267,DACIA,Gas Licuado de Petroleo,Extremadura,0001,06/07/2019
+268,DACIA,Gas Licuado de Petroleo,Madrid (Comunidad de),0003,06/07/2019
+269,DACIA,Gasolina,Andaluc�a,0586,06/07/2019
+270,DACIA,Gasolina,Arag�n,0096,06/07/2019
+271,DACIA,Gasolina,Asturias (Principado de),0069,06/07/2019
+272,DACIA,Gasolina,Balears (Illes),0133,06/07/2019
+273,DACIA,Gasolina,Canarias,0634,06/07/2019
+274,DACIA,Gasolina,Cantabria,0039,06/07/2019
+275,DACIA,Gasolina,Castilla y Le�n,0162,06/07/2019
+276,DACIA,Gasolina,Castilla-La Mancha,0102,06/07/2019
+277,DACIA,Gasolina,Catalu�a,0775,06/07/2019
+278,DACIA,Gasolina,Ceuta,0007,06/07/2019
+279,DACIA,Gasolina,Comunitat Valenciana,0589,06/07/2019
+280,DACIA,Gasolina,Extremadura,0052,06/07/2019
+281,DACIA,Gasolina,Galicia,0160,06/07/2019
+282,DACIA,Gasolina,Madrid (Comunidad de),0467,06/07/2019
+283,DACIA,Gasolina,Melilla,0009,06/07/2019
+284,DACIA,Gasolina,Murcia (Regi�n de),0111,06/07/2019
+285,DACIA,Gasolina,Navarra (Comunidad Foral de),0051,06/07/2019
+286,DACIA,Gasolina,Pa�s Vasco,0171,06/07/2019
+287,DACIA,Gasolina,Rioja (La),0030,06/07/2019
+288,DAEWOO,Diesel,Andaluc�a,0001,06/07/2019
+289,DAEWOO,Gasolina,Andaluc�a,0001,06/07/2019
+290,DAEWOO,Gasolina,Arag�n,0001,06/07/2019
+291,DAEWOO,Gasolina,Castilla y Le�n,0001,06/07/2019
+292,DAEWOO,Gasolina,Catalu�a,0001,06/07/2019
+293,DAEWOO,Gasolina,Comunitat Valenciana,0003,06/07/2019
+294,DAF,Gasolina,Andaluc�a,0001,06/07/2019
+295,DAIHATSU,Gasolina,Andaluc�a,0001,06/07/2019
+296,DAIHATSU,Gasolina,Balears (Illes),0002,06/07/2019
+297,DAIHATSU,Gasolina,Canarias,0001,06/07/2019
+298,DAIHATSU,Gasolina,Catalu�a,0001,06/07/2019
+299,DAIHATSU,Gasolina,Comunitat Valenciana,0003,06/07/2019
+300,DAIMLER,Diesel,Balears (Illes),0001,06/07/2019
+301,DAIMLER,Diesel,Catalu�a,0001,06/07/2019
+302,DAIMLER,Diesel,Madrid (Comunidad de),0002,06/07/2019
+303,DAIMLER,Gasolina,Castilla y Le�n,0001,06/07/2019
+304,DAIMLERAG,Gasolina,Comunitat Valenciana,0001,06/07/2019
+305,DAIMLERCHRYSLER,Diesel,Andaluc�a,0003,06/07/2019
+306,DAIMLERCHRYSLER,Diesel,Balears (Illes),0001,06/07/2019
+307,DAIMLERCHRYSLER,Diesel,Castilla-La Mancha,0001,06/07/2019
+308,DAIMLERCHRYSLER,Diesel,Catalu�a,0002,06/07/2019
+309,DAIMLERCHRYSLER,Diesel,Comunitat Valenciana,0002,06/07/2019
+310,DAIMLERCHRYSLER,Diesel,Galicia,0001,06/07/2019
+311,DAIMLERCHRYSLER,Gasolina,Balears (Illes),0001,06/07/2019
+312,DESOTO,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+313,DODGE,Gasolina,Andaluc�a,0001,06/07/2019
+314,DODGE,Gasolina,Catalu�a,0001,06/07/2019
+315,DODGE,Gasolina,Comunitat Valenciana,0002,06/07/2019
+316,DS,Diesel,Andaluc�a,0053,06/07/2019
+317,DS,Diesel,Arag�n,0005,06/07/2019
+318,DS,Diesel,Asturias (Principado de),0006,06/07/2019
+319,DS,Diesel,Balears (Illes),0024,06/07/2019
+320,DS,Diesel,Canarias,0003,06/07/2019
+321,DS,Diesel,Cantabria,0013,06/07/2019
+322,DS,Diesel,Castilla y Le�n,0023,06/07/2019
+323,DS,Diesel,Castilla-La Mancha,0077,06/07/2019
+324,DS,Diesel,Catalu�a,0052,06/07/2019
+325,DS,Diesel,Ceuta,0001,06/07/2019
+326,DS,Diesel,Comunitat Valenciana,0029,06/07/2019
+327,DS,Diesel,Extremadura,0008,06/07/2019
+328,DS,Diesel,Galicia,0037,06/07/2019
+329,DS,Diesel,Madrid (Comunidad de),0252,06/07/2019
+330,DS,Diesel,Murcia (Regi�n de),0013,06/07/2019
+331,DS,Diesel,Navarra (Comunidad Foral de),0003,06/07/2019
+332,DS,Diesel,Pa�s Vasco,0017,06/07/2019
+333,DS,Diesel,Rioja (La),0004,06/07/2019
+334,DS,Gasolina,Andaluc�a,0025,06/07/2019
+335,DS,Gasolina,Arag�n,0005,06/07/2019
+336,DS,Gasolina,Asturias (Principado de),0004,06/07/2019
+337,DS,Gasolina,Balears (Illes),0025,06/07/2019
+338,DS,Gasolina,Canarias,0008,06/07/2019
+339,DS,Gasolina,Cantabria,0005,06/07/2019
+340,DS,Gasolina,Castilla y Le�n,0014,06/07/2019
+341,DS,Gasolina,Castilla-La Mancha,0035,06/07/2019
+342,DS,Gasolina,Catalu�a,0046,06/07/2019
+343,DS,Gasolina,Comunitat Valenciana,0024,06/07/2019
+344,DS,Gasolina,Extremadura,0006,06/07/2019
+345,DS,Gasolina,Galicia,0010,06/07/2019
+346,DS,Gasolina,Madrid (Comunidad de),0036,06/07/2019
+347,DS,Gasolina,Murcia (Regi�n de),0005,06/07/2019
+348,DS,Gasolina,Navarra (Comunidad Foral de),0006,06/07/2019
+349,DS,Gasolina,Pa�s Vasco,0012,06/07/2019
+350,DS,Gasolina,Rioja (La),0002,06/07/2019
+351,EXCALIBUR,Gasolina,Comunitat Valenciana,0001,06/07/2019
+352,FERRARI,Gasolina,Andaluc�a,0008,06/07/2019
+353,FERRARI,Gasolina,Asturias (Principado de),0002,06/07/2019
+354,FERRARI,Gasolina,Balears (Illes),0003,06/07/2019
+355,FERRARI,Gasolina,Canarias,0001,06/07/2019
+356,FERRARI,Gasolina,Castilla y Le�n,0001,06/07/2019
+357,FERRARI,Gasolina,Catalu�a,0005,06/07/2019
+358,FERRARI,Gasolina,Comunitat Valenciana,0003,06/07/2019
+359,FERRARI,Gasolina,Extremadura,0001,06/07/2019
+360,FERRARI,Gasolina,Galicia,0002,06/07/2019
+361,FERRARI,Gasolina,Madrid (Comunidad de),0005,06/07/2019
+362,FERRARI,Gasolina,Murcia (Regi�n de),0001,06/07/2019
+363,FERRARI,Gasolina,Navarra (Comunidad Foral de),0001,06/07/2019
+364,FERRARI,Gasolina,Pa�s Vasco,0001,06/07/2019
+365,FERROSITE,Gas Licuado de Petroleo,Madrid (Comunidad de),0004,06/07/2019
+366,FIAT,Diesel,Andaluc�a,0380,06/07/2019
+367,FIAT,Diesel,Arag�n,0226,06/07/2019
+368,FIAT,Diesel,Asturias (Principado de),0063,06/07/2019
+369,FIAT,Diesel,Balears (Illes),0080,06/07/2019
+370,FIAT,Diesel,Canarias,0041,06/07/2019
+371,FIAT,Diesel,Cantabria,0022,06/07/2019
+372,FIAT,Diesel,Castilla y Le�n,0070,06/07/2019
+373,FIAT,Diesel,Castilla-La Mancha,0069,06/07/2019
+374,FIAT,Diesel,Catalu�a,1020,06/07/2019
+375,FIAT,Diesel,Ceuta,0004,06/07/2019
+376,FIAT,Diesel,Comunitat Valenciana,0484,06/07/2019
+377,FIAT,Diesel,Extremadura,0022,06/07/2019
+378,FIAT,Diesel,Galicia,0098,06/07/2019
+379,FIAT,Diesel,Madrid (Comunidad de),1927,06/07/2019
+380,FIAT,Diesel,Melilla,0003,06/07/2019
+381,FIAT,Diesel,Murcia (Regi�n de),0036,06/07/2019
+382,FIAT,Diesel,Navarra (Comunidad Foral de),0007,06/07/2019
+383,FIAT,Diesel,Pa�s Vasco,0082,06/07/2019
+384,FIAT,Diesel,Rioja (La),0006,06/07/2019
+385,FIAT,Gas Licuado de Petroleo,Arag�n,0001,06/07/2019
+386,FIAT,Gas Licuado de Petroleo,Canarias,0004,06/07/2019
+387,FIAT,Gas Licuado de Petroleo,Cantabria,0001,06/07/2019
+388,FIAT,Gas Licuado de Petroleo,Castilla y Le�n,0002,06/07/2019
+389,FIAT,Gas Licuado de Petroleo,Galicia,0002,06/07/2019
+390,FIAT,Gas Licuado de Petroleo,Madrid (Comunidad de),0006,06/07/2019
+391,FIAT,Gas Licuado de Petroleo,Navarra (Comunidad Foral de),0001,06/07/2019
+392,FIAT,Gas Licuado de Petroleo,Pa�s Vasco,0002,06/07/2019
+393,FIAT,Gas Natural Comprimido,Balears (Illes),0001,06/07/2019
+394,FIAT,Gas Natural Comprimido,Canarias,0001,06/07/2019
+395,FIAT,Gas Natural Comprimido,Madrid (Comunidad de),0001,06/07/2019
+396,FIAT,Gasolina,Andaluc�a,0606,06/07/2019
+397,FIAT,Gasolina,Arag�n,0054,06/07/2019
+398,FIAT,Gasolina,Asturias (Principado de),0030,06/07/2019
+399,FIAT,Gasolina,Balears (Illes),0263,06/07/2019
+400,FIAT,Gasolina,Canarias,0411,06/07/2019
+401,FIAT,Gasolina,Cantabria,0031,06/07/2019
+402,FIAT,Gasolina,Castilla y Le�n,0092,06/07/2019
+403,FIAT,Gasolina,Castilla-La Mancha,0077,06/07/2019
+404,FIAT,Gasolina,Catalu�a,0706,06/07/2019
+405,FIAT,Gasolina,Ceuta,0003,06/07/2019
+406,FIAT,Gasolina,Comunitat Valenciana,1856,06/07/2019
+407,FIAT,Gasolina,Extremadura,0014,06/07/2019
+408,FIAT,Gasolina,Galicia,0109,06/07/2019
+409,FIAT,Gasolina,Madrid (Comunidad de),2963,06/07/2019
+410,FIAT,Gasolina,Melilla,0011,06/07/2019
+411,FIAT,Gasolina,Murcia (Regi�n de),0078,06/07/2019
+412,FIAT,Gasolina,Navarra (Comunidad Foral de),0011,06/07/2019
+413,FIAT,Gasolina,Pa�s Vasco,0081,06/07/2019
+414,FIAT,Gasolina,Rioja (La),0007,06/07/2019
+415,FISKERNIELSEN,Gasolina,Murcia (Regi�n de),0001,06/07/2019
+416,FORD,Diesel,Andaluc�a,0883,06/07/2019
+417,FORD,Diesel,Arag�n,0188,06/07/2019
+418,FORD,Diesel,Asturias (Principado de),0101,06/07/2019
+419,FORD,Diesel,Balears (Illes),0158,06/07/2019
+420,FORD,Diesel,Canarias,0120,06/07/2019
+421,FORD,Diesel,Cantabria,0050,06/07/2019
+422,FORD,Diesel,Castilla y Le�n,0195,06/07/2019
+423,FORD,Diesel,Castilla-La Mancha,0136,06/07/2019
+424,FORD,Diesel,Catalu�a,1300,06/07/2019
+425,FORD,Diesel,Ceuta,0009,06/07/2019
+426,FORD,Diesel,Comunitat Valenciana,1855,06/07/2019
+427,FORD,Diesel,Extremadura,0128,06/07/2019
+428,FORD,Diesel,Galicia,0285,06/07/2019
+429,FORD,Diesel,Madrid (Comunidad de),2001,06/07/2019
+430,FORD,Diesel,Murcia (Regi�n de),0266,06/07/2019
+431,FORD,Diesel,Navarra (Comunidad Foral de),0116,06/07/2019
+432,FORD,Diesel,Pa�s Vasco,0394,06/07/2019
+433,FORD,Diesel,Rioja (La),0035,06/07/2019
+434,FORD,Gas Licuado de Petroleo,Balears (Illes),0001,06/07/2019
+435,FORD,Gas Licuado de Petroleo,Canarias,0001,06/07/2019
+436,FORD,Gas Licuado de Petroleo,Castilla-La Mancha,0001,06/07/2019
+437,FORD,Gas Licuado de Petroleo,Madrid (Comunidad de),0003,06/07/2019
+438,FORD,Gasolina,Andaluc�a,0691,06/07/2019
+439,FORD,Gasolina,Arag�n,0119,06/07/2019
+440,FORD,Gasolina,Asturias (Principado de),0070,06/07/2019
+441,FORD,Gasolina,Balears (Illes),0646,06/07/2019
+442,FORD,Gasolina,Canarias,0419,06/07/2019
+443,FORD,Gasolina,Cantabria,0063,06/07/2019
+444,FORD,Gasolina,Castilla y Le�n,0195,06/07/2019
+445,FORD,Gasolina,Castilla-La Mancha,0104,06/07/2019
+446,FORD,Gasolina,Catalu�a,1179,06/07/2019
+447,FORD,Gasolina,Ceuta,0006,06/07/2019
+448,FORD,Gasolina,Comunitat Valenciana,2881,06/07/2019
+449,FORD,Gasolina,Extremadura,0073,06/07/2019
+450,FORD,Gasolina,Galicia,0190,06/07/2019
+451,FORD,Gasolina,Madrid (Comunidad de),1044,06/07/2019
+452,FORD,Gasolina,Melilla,0001,06/07/2019
+453,FORD,Gasolina,Murcia (Regi�n de),0156,06/07/2019
+454,FORD,Gasolina,Navarra (Comunidad Foral de),0095,06/07/2019
+455,FORD,Gasolina,Pa�s Vasco,0329,06/07/2019
+456,FORD,Gasolina,Rioja (La),0045,06/07/2019
+457,FORD,Sin especificar,Balears (Illes),0001,06/07/2019
+458,FORDCNGTECHNIK,El�ctrico,Comunitat Valenciana,0001,06/07/2019
+459,FORDCNGTECHNIK,Gasolina,Comunitat Valenciana,0008,06/07/2019
+460,FORDCNGTECHNIK,Gasolina,Madrid (Comunidad de),0003,06/07/2019
+461,GATSBY,Gasolina,Andaluc�a,0001,06/07/2019
+462,GLAS,Gasolina,Catalu�a,0001,06/07/2019
+463,GMC,Gasolina,Andaluc�a,0002,06/07/2019
+464,HONDA,Diesel,Andaluc�a,0334,06/07/2019
+465,HONDA,Diesel,Arag�n,0054,06/07/2019
+466,HONDA,Diesel,Asturias (Principado de),0056,06/07/2019
+467,HONDA,Diesel,Balears (Illes),0026,06/07/2019
+468,HONDA,Diesel,Canarias,0023,06/07/2019
+469,HONDA,Diesel,Cantabria,0024,06/07/2019
+470,HONDA,Diesel,Castilla y Le�n,0074,06/07/2019
+471,HONDA,Diesel,Castilla-La Mancha,0053,06/07/2019
+472,HONDA,Diesel,Catalu�a,0515,06/07/2019
+473,HONDA,Diesel,Ceuta,0001,06/07/2019
+474,HONDA,Diesel,Comunitat Valenciana,0160,06/07/2019
+475,HONDA,Diesel,Extremadura,0026,06/07/2019
+476,HONDA,Diesel,Galicia,0088,06/07/2019
+477,HONDA,Diesel,Madrid (Comunidad de),0407,06/07/2019
+478,HONDA,Diesel,Murcia (Regi�n de),0043,06/07/2019
+479,HONDA,Diesel,Navarra (Comunidad Foral de),0025,06/07/2019
+480,HONDA,Diesel,Pa�s Vasco,0126,06/07/2019
+481,HONDA,Diesel,Rioja (La),0020,06/07/2019
+482,HONDA,Gasolina,Andaluc�a,0056,06/07/2019
+483,HONDA,Gasolina,Arag�n,0021,06/07/2019
+484,HONDA,Gasolina,Asturias (Principado de),0015,06/07/2019
+485,HONDA,Gasolina,Balears (Illes),0025,06/07/2019
+486,HONDA,Gasolina,Canarias,0082,06/07/2019
+487,HONDA,Gasolina,Cantabria,0009,06/07/2019
+488,HONDA,Gasolina,Castilla y Le�n,0017,06/07/2019
+489,HONDA,Gasolina,Castilla-La Mancha,0010,06/07/2019
+490,HONDA,Gasolina,Catalu�a,0139,06/07/2019
+491,HONDA,Gasolina,Ceuta,0002,06/07/2019
+492,HONDA,Gasolina,Comunitat Valenciana,0065,06/07/2019
+493,HONDA,Gasolina,Extremadura,0003,06/07/2019
+494,HONDA,Gasolina,Galicia,0033,06/07/2019
+495,HONDA,Gasolina,Madrid (Comunidad de),0107,06/07/2019
+496,HONDA,Gasolina,Melilla,0002,06/07/2019
+497,HONDA,Gasolina,Murcia (Regi�n de),0012,06/07/2019
+498,HONDA,Gasolina,Navarra (Comunidad Foral de),0007,06/07/2019
+499,HONDA,Gasolina,Pa�s Vasco,0033,06/07/2019
+500,HONDA,Gasolina,Rioja (La),0005,06/07/2019
+501,HONDA,Sin especificar,Ceuta,0002,06/07/2019
+502,HUMMER,Gasolina,Comunitat Valenciana,0001,06/07/2019
+503,HYUNDAI,Diesel,Andaluc�a,0736,06/07/2019
+504,HYUNDAI,Diesel,Arag�n,0098,06/07/2019
+505,HYUNDAI,Diesel,Asturias (Principado de),0050,06/07/2019
+506,HYUNDAI,Diesel,Balears (Illes),0526,06/07/2019
+507,HYUNDAI,Diesel,Canarias,0124,06/07/2019
+508,HYUNDAI,Diesel,Cantabria,0034,06/07/2019
+509,HYUNDAI,Diesel,Castilla y Le�n,0162,06/07/2019
+510,HYUNDAI,Diesel,Castilla-La Mancha,0239,06/07/2019
+511,HYUNDAI,Diesel,Catalu�a,0662,06/07/2019
+512,HYUNDAI,Diesel,Ceuta,0013,06/07/2019
+513,HYUNDAI,Diesel,Comunitat Valenciana,0745,06/07/2019
+514,HYUNDAI,Diesel,Extremadura,0116,06/07/2019
+515,HYUNDAI,Diesel,Galicia,0179,06/07/2019
+516,HYUNDAI,Diesel,Madrid (Comunidad de),1524,06/07/2019
+517,HYUNDAI,Diesel,Melilla,0006,06/07/2019
+518,HYUNDAI,Diesel,Murcia (Regi�n de),0182,06/07/2019
+519,HYUNDAI,Diesel,Navarra (Comunidad Foral de),0045,06/07/2019
+520,HYUNDAI,Diesel,Pa�s Vasco,0209,06/07/2019
+521,HYUNDAI,Diesel,Rioja (La),0026,06/07/2019
+522,HYUNDAI,Gasolina,Andaluc�a,0621,06/07/2019
+523,HYUNDAI,Gasolina,Arag�n,0090,06/07/2019
+524,HYUNDAI,Gasolina,Asturias (Principado de),0049,06/07/2019
+525,HYUNDAI,Gasolina,Balears (Illes),0440,06/07/2019
+526,HYUNDAI,Gasolina,Canarias,0488,06/07/2019
+527,HYUNDAI,Gasolina,Cantabria,0034,06/07/2019
+528,HYUNDAI,Gasolina,Castilla y Le�n,0148,06/07/2019
+529,HYUNDAI,Gasolina,Castilla-La Mancha,0113,06/07/2019
+530,HYUNDAI,Gasolina,Catalu�a,0849,06/07/2019
+531,HYUNDAI,Gasolina,Ceuta,0013,06/07/2019
+532,HYUNDAI,Gasolina,Comunitat Valenciana,0780,06/07/2019
+533,HYUNDAI,Gasolina,Extremadura,0082,06/07/2019
+534,HYUNDAI,Gasolina,Galicia,0118,06/07/2019
+535,HYUNDAI,Gasolina,Madrid (Comunidad de),1404,06/07/2019
+536,HYUNDAI,Gasolina,Melilla,0016,06/07/2019
+537,HYUNDAI,Gasolina,Murcia (Regi�n de),0105,06/07/2019
+538,HYUNDAI,Gasolina,Navarra (Comunidad Foral de),0047,06/07/2019
+539,HYUNDAI,Gasolina,Pa�s Vasco,0227,06/07/2019
+540,HYUNDAI,Gasolina,Rioja (La),0025,06/07/2019
+541,INFINITI,Diesel,Andaluc�a,0009,06/07/2019
+542,INFINITI,Diesel,Arag�n,0001,06/07/2019
+543,INFINITI,Diesel,Asturias (Principado de),0006,06/07/2019
+544,INFINITI,Diesel,Balears (Illes),0002,06/07/2019
+545,INFINITI,Diesel,Canarias,0005,06/07/2019
+546,INFINITI,Diesel,Cantabria,0003,06/07/2019
+547,INFINITI,Diesel,Castilla y Le�n,0007,06/07/2019
+548,INFINITI,Diesel,Castilla-La Mancha,0016,06/07/2019
+549,INFINITI,Diesel,Catalu�a,0019,06/07/2019
+550,INFINITI,Diesel,Comunitat Valenciana,0010,06/07/2019
+551,INFINITI,Diesel,Galicia,0005,06/07/2019
+552,INFINITI,Diesel,Madrid (Comunidad de),0018,06/07/2019
+553,INFINITI,Diesel,Murcia (Regi�n de),0003,06/07/2019
+554,INFINITI,Diesel,Navarra (Comunidad Foral de),0001,06/07/2019
+555,INFINITI,Diesel,Pa�s Vasco,0004,06/07/2019
+556,INFINITI,Diesel,Rioja (La),0001,06/07/2019
+557,INFINITI,Gasolina,Castilla y Le�n,0001,06/07/2019
+558,INFINITI,Gasolina,Castilla-La Mancha,0001,06/07/2019
+559,INFINITI,Gasolina,Catalu�a,0007,06/07/2019
+560,INFINITI,Gasolina,Madrid (Comunidad de),0006,06/07/2019
+561,ISO,Gasolina,Catalu�a,0001,06/07/2019
+562,JAGUAR,Diesel,Andaluc�a,0023,06/07/2019
+563,JAGUAR,Diesel,Arag�n,0002,06/07/2019
+564,JAGUAR,Diesel,Asturias (Principado de),0002,06/07/2019
+565,JAGUAR,Diesel,Balears (Illes),0002,06/07/2019
+566,JAGUAR,Diesel,Canarias,0008,06/07/2019
+567,JAGUAR,Diesel,Castilla y Le�n,0007,06/07/2019
+568,JAGUAR,Diesel,Castilla-La Mancha,0006,06/07/2019
+569,JAGUAR,Diesel,Catalu�a,0066,06/07/2019
+570,JAGUAR,Diesel,Comunitat Valenciana,0031,06/07/2019
+571,JAGUAR,Diesel,Extremadura,0003,06/07/2019
+572,JAGUAR,Diesel,Galicia,0005,06/07/2019
+573,JAGUAR,Diesel,Madrid (Comunidad de),0089,06/07/2019
+574,JAGUAR,Diesel,Murcia (Regi�n de),0016,06/07/2019
+575,JAGUAR,Diesel,Navarra (Comunidad Foral de),0007,06/07/2019
+576,JAGUAR,Diesel,Pa�s Vasco,0010,06/07/2019
+577,JAGUAR,Diesel,Rioja (La),0002,06/07/2019
+578,JAGUAR,Gasolina,Andaluc�a,0015,06/07/2019
+579,JAGUAR,Gasolina,Asturias (Principado de),0002,06/07/2019
+580,JAGUAR,Gasolina,Balears (Illes),0004,06/07/2019
+581,JAGUAR,Gasolina,Canarias,0004,06/07/2019
+582,JAGUAR,Gasolina,Cantabria,0002,06/07/2019
+583,JAGUAR,Gasolina,Castilla y Le�n,0002,06/07/2019
+584,JAGUAR,Gasolina,Castilla-La Mancha,0001,06/07/2019
+585,JAGUAR,Gasolina,Catalu�a,0014,06/07/2019
+586,JAGUAR,Gasolina,Comunitat Valenciana,0012,06/07/2019
+587,JAGUAR,Gasolina,Galicia,0003,06/07/2019
+588,JAGUAR,Gasolina,Madrid (Comunidad de),0019,06/07/2019
+589,JAGUAR,Gasolina,Melilla,0001,06/07/2019
+590,JAGUAR,Gasolina,Murcia (Regi�n de),0001,06/07/2019
+591,JAGUAR,Gasolina,Navarra (Comunidad Foral de),0002,06/07/2019
+592,JAGUAR,Gasolina,Pa�s Vasco,0002,06/07/2019
+593,JAGUARLANDROVERLIMIT,Diesel,Andaluc�a,0036,06/07/2019
+594,JAGUARLANDROVERLIMIT,Diesel,Arag�n,0005,06/07/2019
+595,JAGUARLANDROVERLIMIT,Diesel,Asturias (Principado de),0005,06/07/2019
+596,JAGUARLANDROVERLIMIT,Diesel,Balears (Illes),0001,06/07/2019
+597,JAGUARLANDROVERLIMIT,Diesel,Canarias,0010,06/07/2019
+598,JAGUARLANDROVERLIMIT,Diesel,Cantabria,0001,06/07/2019
+599,JAGUARLANDROVERLIMIT,Diesel,Castilla y Le�n,0006,06/07/2019
+600,JAGUARLANDROVERLIMIT,Diesel,Castilla-La Mancha,0005,06/07/2019
+601,JAGUARLANDROVERLIMIT,Diesel,Catalu�a,0039,06/07/2019
+602,JAGUARLANDROVERLIMIT,Diesel,Comunitat Valenciana,0017,06/07/2019
+603,JAGUARLANDROVERLIMIT,Diesel,Extremadura,0006,06/07/2019
+604,JAGUARLANDROVERLIMIT,Diesel,Galicia,0010,06/07/2019
+605,JAGUARLANDROVERLIMIT,Diesel,Madrid (Comunidad de),0050,06/07/2019
+606,JAGUARLANDROVERLIMIT,Diesel,Murcia (Regi�n de),0012,06/07/2019
+607,JAGUARLANDROVERLIMIT,Diesel,Navarra (Comunidad Foral de),0007,06/07/2019
+608,JAGUARLANDROVERLIMIT,Diesel,Pa�s Vasco,0006,06/07/2019
+609,JAGUARLANDROVERLIMIT,Diesel,Rioja (La),0001,06/07/2019
+610,JAGUARLANDROVERLIMIT,Gasolina,Andaluc�a,0004,06/07/2019
+611,JAGUARLANDROVERLIMIT,Gasolina,Canarias,0003,06/07/2019
+612,JAGUARLANDROVERLIMIT,Gasolina,Catalu�a,0003,06/07/2019
+613,JAGUARLANDROVERLIMIT,Gasolina,Comunitat Valenciana,0002,06/07/2019
+614,JAGUARLANDROVERLIMIT,Gasolina,Galicia,0001,06/07/2019
+615,JAGUARLANDROVERLIMIT,Gasolina,Madrid (Comunidad de),0002,06/07/2019
+616,JEEP,Diesel,Andaluc�a,0084,06/07/2019
+617,JEEP,Diesel,Arag�n,0080,06/07/2019
+618,JEEP,Diesel,Asturias (Principado de),0022,06/07/2019
+619,JEEP,Diesel,Balears (Illes),0040,06/07/2019
+620,JEEP,Diesel,Canarias,0045,06/07/2019
+621,JEEP,Diesel,Cantabria,0005,06/07/2019
+622,JEEP,Diesel,Castilla y Le�n,0031,06/07/2019
+623,JEEP,Diesel,Castilla-La Mancha,0016,06/07/2019
+624,JEEP,Diesel,Catalu�a,0259,06/07/2019
+625,JEEP,Diesel,Ceuta,0001,06/07/2019
+626,JEEP,Diesel,Comunitat Valenciana,0074,06/07/2019
+627,JEEP,Diesel,Extremadura,0001,06/07/2019
+628,JEEP,Diesel,Galicia,0018,06/07/2019
+629,JEEP,Diesel,Madrid (Comunidad de),0520,06/07/2019
+630,JEEP,Diesel,Melilla,0001,06/07/2019
+631,JEEP,Diesel,Murcia (Regi�n de),0022,06/07/2019
+632,JEEP,Diesel,Pa�s Vasco,0014,06/07/2019
+633,JEEP,Diesel,Rioja (La),0001,06/07/2019
+634,JEEP,Gasolina,Andaluc�a,0013,06/07/2019
+635,JEEP,Gasolina,Arag�n,0001,06/07/2019
+636,JEEP,Gasolina,Asturias (Principado de),0001,06/07/2019
+637,JEEP,Gasolina,Balears (Illes),0005,06/07/2019
+638,JEEP,Gasolina,Canarias,0010,06/07/2019
+639,JEEP,Gasolina,Cantabria,0001,06/07/2019
+640,JEEP,Gasolina,Castilla-La Mancha,0002,06/07/2019
+641,JEEP,Gasolina,Catalu�a,0019,06/07/2019
+642,JEEP,Gasolina,Comunitat Valenciana,0009,06/07/2019
+643,JEEP,Gasolina,Galicia,0004,06/07/2019
+644,JEEP,Gasolina,Madrid (Comunidad de),0072,06/07/2019
+645,JEEP,Gasolina,Murcia (Regi�n de),0001,06/07/2019
+646,JEEP,Gasolina,Pa�s Vasco,0004,06/07/2019
+647,KIA,Diesel,Andaluc�a,0999,06/07/2019
+648,KIA,Diesel,Arag�n,0164,06/07/2019
+649,KIA,Diesel,Asturias (Principado de),0131,06/07/2019
+650,KIA,Diesel,Balears (Illes),0102,06/07/2019
+651,KIA,Diesel,Canarias,0073,06/07/2019
+652,KIA,Diesel,Cantabria,0121,06/07/2019
+653,KIA,Diesel,Castilla y Le�n,0302,06/07/2019
+654,KIA,Diesel,Castilla-La Mancha,0264,06/07/2019
+655,KIA,Diesel,Catalu�a,0919,06/07/2019
+656,KIA,Diesel,Ceuta,0001,06/07/2019
+657,KIA,Diesel,Comunitat Valenciana,1385,06/07/2019
+658,KIA,Diesel,Extremadura,0135,06/07/2019
+659,KIA,Diesel,Galicia,0400,06/07/2019
+660,KIA,Diesel,Madrid (Comunidad de),1990,06/07/2019
+661,KIA,Diesel,Melilla,0001,06/07/2019
+662,KIA,Diesel,Murcia (Regi�n de),0243,06/07/2019
+663,KIA,Diesel,Navarra (Comunidad Foral de),0080,06/07/2019
+664,KIA,Diesel,Pa�s Vasco,0213,06/07/2019
+665,KIA,Diesel,Rioja (La),0041,06/07/2019
+666,KIA,El�ctrico,Andaluc�a,0001,06/07/2019
+667,KIA,El�ctrico,Balears (Illes),0002,06/07/2019
+668,KIA,El�ctrico,Canarias,0001,06/07/2019
+669,KIA,El�ctrico,Catalu�a,0014,06/07/2019
+670,KIA,El�ctrico,Comunitat Valenciana,0001,06/07/2019
+671,KIA,El�ctrico,Galicia,0002,06/07/2019
+672,KIA,El�ctrico,Madrid (Comunidad de),0009,06/07/2019
+673,KIA,El�ctrico,Pa�s Vasco,0001,06/07/2019
+674,KIA,Gasolina,Andaluc�a,0624,06/07/2019
+675,KIA,Gasolina,Arag�n,0192,06/07/2019
+676,KIA,Gasolina,Asturias (Principado de),0077,06/07/2019
+677,KIA,Gasolina,Balears (Illes),0217,06/07/2019
+678,KIA,Gasolina,Canarias,0410,06/07/2019
+679,KIA,Gasolina,Cantabria,0060,06/07/2019
+680,KIA,Gasolina,Castilla y Le�n,0189,06/07/2019
+681,KIA,Gasolina,Castilla-La Mancha,0148,06/07/2019
+682,KIA,Gasolina,Catalu�a,1020,06/07/2019
+683,KIA,Gasolina,Ceuta,0006,06/07/2019
+684,KIA,Gasolina,Comunitat Valenciana,1265,06/07/2019
+685,KIA,Gasolina,Extremadura,0052,06/07/2019
+686,KIA,Gasolina,Galicia,0204,06/07/2019
+687,KIA,Gasolina,Madrid (Comunidad de),1238,06/07/2019
+688,KIA,Gasolina,Melilla,0022,06/07/2019
+689,KIA,Gasolina,Murcia (Regi�n de),0144,06/07/2019
+690,KIA,Gasolina,Navarra (Comunidad Foral de),0052,06/07/2019
+691,KIA,Gasolina,Pa�s Vasco,0222,06/07/2019
+692,KIA,Gasolina,Rioja (La),0029,06/07/2019
+693,KIAMOTORROK,Diesel,Catalu�a,0001,06/07/2019
+694,KIAMOTORROK,Diesel,Comunitat Valenciana,0001,06/07/2019
+695,KIAMOTORROK,Diesel,Madrid (Comunidad de),0001,06/07/2019
+696,KIAMOTORROK,Gasolina,Canarias,0001,06/07/2019
+697,LAMBORGHINI,Gasolina,Canarias,0001,06/07/2019
+698,LAMBORGHINI,Gasolina,Castilla-La Mancha,0001,06/07/2019
+699,LAMBORGHINI,Gasolina,Catalu�a,0001,06/07/2019
+700,LAMBORGHINI,Gasolina,Madrid (Comunidad de),0003,06/07/2019
+701,LANCIA,Diesel,Arag�n,0001,06/07/2019
+702,LANCIA,Diesel,Canarias,0003,06/07/2019
+703,LANCIA,Diesel,Castilla-La Mancha,0001,06/07/2019
+704,LANCIA,Diesel,Comunitat Valenciana,0003,06/07/2019
+705,LANCIA,Diesel,Extremadura,0001,06/07/2019
+706,LANCIA,Diesel,Madrid (Comunidad de),0006,06/07/2019
+707,LANCIA,Diesel,Murcia (Regi�n de),0001,06/07/2019
+708,LANCIA,Gasolina,Andaluc�a,0009,06/07/2019
+709,LANCIA,Gasolina,Arag�n,0037,06/07/2019
+710,LANCIA,Gasolina,Asturias (Principado de),0001,06/07/2019
+711,LANCIA,Gasolina,Balears (Illes),0001,06/07/2019
+712,LANCIA,Gasolina,Canarias,0004,06/07/2019
+713,LANCIA,Gasolina,Castilla-La Mancha,0002,06/07/2019
+714,LANCIA,Gasolina,Catalu�a,0007,06/07/2019
+715,LANCIA,Gasolina,Comunitat Valenciana,0005,06/07/2019
+716,LANCIA,Gasolina,Galicia,0002,06/07/2019
+717,LANCIA,Gasolina,Madrid (Comunidad de),0040,06/07/2019
+718,LANCIA,Gasolina,Murcia (Regi�n de),0004,06/07/2019
+719,LANCIA,Gasolina,Pa�s Vasco,0001,06/07/2019
+720,LANDROVER,Diesel,Andaluc�a,0099,06/07/2019
+721,LANDROVER,Diesel,Arag�n,0012,06/07/2019
+722,LANDROVER,Diesel,Asturias (Principado de),0005,06/07/2019
+723,LANDROVER,Diesel,Balears (Illes),0027,06/07/2019
+724,LANDROVER,Diesel,Canarias,0024,06/07/2019
+725,LANDROVER,Diesel,Cantabria,0002,06/07/2019
+726,LANDROVER,Diesel,Castilla y Le�n,0007,06/07/2019
+727,LANDROVER,Diesel,Castilla-La Mancha,0021,06/07/2019
+728,LANDROVER,Diesel,Catalu�a,0108,06/07/2019
+729,LANDROVER,Diesel,Ceuta,0002,06/07/2019
+730,LANDROVER,Diesel,Comunitat Valenciana,0075,06/07/2019
+731,LANDROVER,Diesel,Extremadura,0011,06/07/2019
+732,LANDROVER,Diesel,Galicia,0017,06/07/2019
+733,LANDROVER,Diesel,Madrid (Comunidad de),0198,06/07/2019
+734,LANDROVER,Diesel,Melilla,0002,06/07/2019
+735,LANDROVER,Diesel,Murcia (Regi�n de),0017,06/07/2019
+736,LANDROVER,Diesel,Navarra (Comunidad Foral de),0005,06/07/2019
+737,LANDROVER,Diesel,Pa�s Vasco,0016,06/07/2019
+738,LANDROVER,Diesel,Rioja (La),0001,06/07/2019
+739,LANDROVER,Gasolina,Andaluc�a,0001,06/07/2019
+740,LANDROVER,Gasolina,Balears (Illes),0001,06/07/2019
+741,LANDROVER,Gasolina,Canarias,0002,06/07/2019
+742,LEXUS,Diesel,Andaluc�a,0001,06/07/2019
+743,LEXUS,Gasolina,Andaluc�a,0114,06/07/2019
+744,LEXUS,Gasolina,Arag�n,0031,06/07/2019
+745,LEXUS,Gasolina,Asturias (Principado de),0022,06/07/2019
+746,LEXUS,Gasolina,Balears (Illes),0026,06/07/2019
+747,LEXUS,Gasolina,Canarias,0022,06/07/2019
+748,LEXUS,Gasolina,Cantabria,0020,06/07/2019
+749,LEXUS,Gasolina,Castilla y Le�n,0036,06/07/2019
+750,LEXUS,Gasolina,Castilla-La Mancha,0023,06/07/2019
+751,LEXUS,Gasolina,Catalu�a,0298,06/07/2019
+752,LEXUS,Gasolina,Comunitat Valenciana,0147,06/07/2019
+753,LEXUS,Gasolina,Extremadura,0005,06/07/2019
+754,LEXUS,Gasolina,Galicia,0060,06/07/2019
+755,LEXUS,Gasolina,Madrid (Comunidad de),0451,06/07/2019
+756,LEXUS,Gasolina,Murcia (Regi�n de),0046,06/07/2019
+757,LEXUS,Gasolina,Navarra (Comunidad Foral de),0012,06/07/2019
+758,LEXUS,Gasolina,Pa�s Vasco,0052,06/07/2019
+759,LEXUS,Gasolina,Rioja (La),0016,06/07/2019
+760,LINCOLN,Gasolina,Andaluc�a,0001,06/07/2019
+761,LINCOLN,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+762,LONDONTAXISINTERNAT,Diesel,Balears (Illes),0001,06/07/2019
+763,LOTUS,Gasolina,Balears (Illes),0001,06/07/2019
+764,LOTUS,Gasolina,Catalu�a,0002,06/07/2019
+765,LOTUS,Gasolina,Murcia (Regi�n de),0001,06/07/2019
+766,LOTUSCARSLTD,Gasolina,Catalu�a,0001,06/07/2019
+767,MAHINDRA,Diesel,Andaluc�a,0005,06/07/2019
+768,MAHINDRA,Diesel,Arag�n,0001,06/07/2019
+769,MAHINDRA,Diesel,Castilla y Le�n,0002,06/07/2019
+770,MAHINDRA,Diesel,Catalu�a,0011,06/07/2019
+771,MAHINDRA,Diesel,Comunitat Valenciana,0001,06/07/2019
+772,MASERATI,Diesel,Andaluc�a,0007,06/07/2019
+773,MASERATI,Diesel,Arag�n,0003,06/07/2019
+774,MASERATI,Diesel,Balears (Illes),0001,06/07/2019
+775,MASERATI,Diesel,Castilla-La Mancha,0001,06/07/2019
+776,MASERATI,Diesel,Catalu�a,0008,06/07/2019
+777,MASERATI,Diesel,Comunitat Valenciana,0001,06/07/2019
+778,MASERATI,Diesel,Galicia,0002,06/07/2019
+779,MASERATI,Diesel,Madrid (Comunidad de),0003,06/07/2019
+780,MASERATI,Diesel,Murcia (Regi�n de),0001,06/07/2019
+781,MASERATI,Diesel,Pa�s Vasco,0003,06/07/2019
+782,MASERATI,Gasolina,Andaluc�a,0004,06/07/2019
+783,MASERATI,Gasolina,Arag�n,0002,06/07/2019
+784,MASERATI,Gasolina,Canarias,0001,06/07/2019
+785,MASERATI,Gasolina,Castilla y Le�n,0001,06/07/2019
+786,MASERATI,Gasolina,Catalu�a,0005,06/07/2019
+787,MASERATI,Gasolina,Ceuta,0001,06/07/2019
+788,MASERATI,Gasolina,Comunitat Valenciana,0002,06/07/2019
+789,MASERATI,Gasolina,Galicia,0001,06/07/2019
+790,MASERATI,Gasolina,Madrid (Comunidad de),0010,06/07/2019
+791,MASERATI,Gasolina,Pa�s Vasco,0002,06/07/2019
+792,MAZDA,Diesel,Andaluc�a,0232,06/07/2019
+793,MAZDA,Diesel,Arag�n,0090,06/07/2019
+794,MAZDA,Diesel,Asturias (Principado de),0036,06/07/2019
+795,MAZDA,Diesel,Balears (Illes),0072,06/07/2019
+796,MAZDA,Diesel,Canarias,0038,06/07/2019
+797,MAZDA,Diesel,Cantabria,0039,06/07/2019
+798,MAZDA,Diesel,Castilla y Le�n,0097,06/07/2019
+799,MAZDA,Diesel,Castilla-La Mancha,0072,06/07/2019
+800,MAZDA,Diesel,Catalu�a,0482,06/07/2019
+801,MAZDA,Diesel,Ceuta,0002,06/07/2019
+802,MAZDA,Diesel,Comunitat Valenciana,0272,06/07/2019
+803,MAZDA,Diesel,Extremadura,0016,06/07/2019
+804,MAZDA,Diesel,Galicia,0168,06/07/2019
+805,MAZDA,Diesel,Madrid (Comunidad de),0635,06/07/2019
+806,MAZDA,Diesel,Murcia (Regi�n de),0052,06/07/2019
+807,MAZDA,Diesel,Navarra (Comunidad Foral de),0024,06/07/2019
+808,MAZDA,Diesel,Pa�s Vasco,0150,06/07/2019
+809,MAZDA,Diesel,Rioja (La),0013,06/07/2019
+810,MAZDA,Gasolina,Andaluc�a,0227,06/07/2019
+811,MAZDA,Gasolina,Arag�n,0102,06/07/2019
+812,MAZDA,Gasolina,Asturias (Principado de),0029,06/07/2019
+813,MAZDA,Gasolina,Balears (Illes),0072,06/07/2019
+814,MAZDA,Gasolina,Canarias,0170,06/07/2019
+815,MAZDA,Gasolina,Cantabria,0020,06/07/2019
+816,MAZDA,Gasolina,Castilla y Le�n,0096,06/07/2019
+817,MAZDA,Gasolina,Castilla-La Mancha,0059,06/07/2019
+818,MAZDA,Gasolina,Catalu�a,0536,06/07/2019
+819,MAZDA,Gasolina,Comunitat Valenciana,0290,06/07/2019
+820,MAZDA,Gasolina,Extremadura,0016,06/07/2019
+821,MAZDA,Gasolina,Galicia,0138,06/07/2019
+822,MAZDA,Gasolina,Madrid (Comunidad de),0562,06/07/2019
+823,MAZDA,Gasolina,Murcia (Regi�n de),0050,06/07/2019
+824,MAZDA,Gasolina,Navarra (Comunidad Foral de),0058,06/07/2019
+825,MAZDA,Gasolina,Pa�s Vasco,0148,06/07/2019
+826,MAZDA,Gasolina,Rioja (La),0024,06/07/2019
+827,MCCSMART,Diesel,Andaluc�a,0001,06/07/2019
+828,MCCSMART,Gasolina,Andaluc�a,0001,06/07/2019
+829,MCCSMART,Gasolina,Catalu�a,0001,06/07/2019
+830,MCLAREN,Gasolina,Andaluc�a,0001,06/07/2019
+831,MERCEDESAMG,Diesel,Andaluc�a,0002,06/07/2019
+832,MERCEDESAMG,Diesel,Canarias,0001,06/07/2019
+833,MERCEDESAMG,Diesel,Comunitat Valenciana,0001,06/07/2019
+834,MERCEDESAMG,Gasolina,Andaluc�a,0003,06/07/2019
+835,MERCEDESAMG,Gasolina,Arag�n,0002,06/07/2019
+836,MERCEDESAMG,Gasolina,Canarias,0001,06/07/2019
+837,MERCEDESAMG,Gasolina,Castilla y Le�n,0001,06/07/2019
+838,MERCEDESAMG,Gasolina,Catalu�a,0006,06/07/2019
+839,MERCEDESAMG,Gasolina,Comunitat Valenciana,0002,06/07/2019
+840,MERCEDESAMG,Gasolina,Madrid (Comunidad de),0011,06/07/2019
+841,MERCEDESBENZ,Diesel,Andaluc�a,1952,06/07/2019
+842,MERCEDESBENZ,Diesel,Arag�n,0307,06/07/2019
+843,MERCEDESBENZ,Diesel,Asturias (Principado de),0230,06/07/2019
+844,MERCEDESBENZ,Diesel,Balears (Illes),0228,06/07/2019
+845,MERCEDESBENZ,Diesel,Canarias,0235,06/07/2019
+846,MERCEDESBENZ,Diesel,Cantabria,0142,06/07/2019
+847,MERCEDESBENZ,Diesel,Castilla y Le�n,0478,06/07/2019
+848,MERCEDESBENZ,Diesel,Castilla-La Mancha,0455,06/07/2019
+849,MERCEDESBENZ,Diesel,Catalu�a,1860,06/07/2019
+850,MERCEDESBENZ,Diesel,Ceuta,0032,06/07/2019
+851,MERCEDESBENZ,Diesel,Comunitat Valenciana,1630,06/07/2019
+852,MERCEDESBENZ,Diesel,Extremadura,0150,06/07/2019
+853,MERCEDESBENZ,Diesel,Galicia,0709,06/07/2019
+854,MERCEDESBENZ,Diesel,Madrid (Comunidad de),4037,06/07/2019
+855,MERCEDESBENZ,Diesel,Melilla,0065,06/07/2019
+856,MERCEDESBENZ,Diesel,Murcia (Regi�n de),0456,06/07/2019
+857,MERCEDESBENZ,Diesel,Navarra (Comunidad Foral de),0124,06/07/2019
+858,MERCEDESBENZ,Diesel,Pa�s Vasco,0418,06/07/2019
+859,MERCEDESBENZ,Diesel,Rioja (La),0044,06/07/2019
+860,MERCEDESBENZ,El�ctrico,Balears (Illes),0001,06/07/2019
+861,MERCEDESBENZ,El�ctrico,Castilla-La Mancha,0001,06/07/2019
+862,MERCEDESBENZ,El�ctrico,Catalu�a,0004,06/07/2019
+863,MERCEDESBENZ,El�ctrico,Madrid (Comunidad de),0012,06/07/2019
+864,MERCEDESBENZ,El�ctrico,Murcia (Regi�n de),0001,06/07/2019
+865,MERCEDESBENZ,El�ctrico,Navarra (Comunidad Foral de),0001,06/07/2019
+866,MERCEDESBENZ,Gas Licuado de Petroleo,Balears (Illes),0001,06/07/2019
+867,MERCEDESBENZ,Gas Natural Comprimido,Andaluc�a,0001,06/07/2019
+868,MERCEDESBENZ,Gasolina,Andaluc�a,0142,06/07/2019
+869,MERCEDESBENZ,Gasolina,Arag�n,0028,06/07/2019
+870,MERCEDESBENZ,Gasolina,Asturias (Principado de),0019,06/07/2019
+871,MERCEDESBENZ,Gasolina,Balears (Illes),0037,06/07/2019
+872,MERCEDESBENZ,Gasolina,Canarias,0095,06/07/2019
+873,MERCEDESBENZ,Gasolina,Cantabria,0013,06/07/2019
+874,MERCEDESBENZ,Gasolina,Castilla y Le�n,0054,06/07/2019
+875,MERCEDESBENZ,Gasolina,Castilla-La Mancha,0021,06/07/2019
+876,MERCEDESBENZ,Gasolina,Catalu�a,0191,06/07/2019
+877,MERCEDESBENZ,Gasolina,Ceuta,0005,06/07/2019
+878,MERCEDESBENZ,Gasolina,Comunitat Valenciana,0143,06/07/2019
+879,MERCEDESBENZ,Gasolina,Extremadura,0008,06/07/2019
+880,MERCEDESBENZ,Gasolina,Galicia,0041,06/07/2019
+881,MERCEDESBENZ,Gasolina,Madrid (Comunidad de),0234,06/07/2019
+882,MERCEDESBENZ,Gasolina,Melilla,0010,06/07/2019
+883,MERCEDESBENZ,Gasolina,Murcia (Regi�n de),0018,06/07/2019
+884,MERCEDESBENZ,Gasolina,Navarra (Comunidad Foral de),0011,06/07/2019
+885,MERCEDESBENZ,Gasolina,Pa�s Vasco,0045,06/07/2019
+886,MERCEDESBENZ,Gasolina,Rioja (La),0007,06/07/2019
+887,MERCEDESBENZ,Sin especificar,Ceuta,0001,06/07/2019
+888,MG,Diesel,Murcia (Regi�n de),0001,06/07/2019
+889,MG,Gasolina,Andaluc�a,0002,06/07/2019
+890,MG,Gasolina,Catalu�a,0003,06/07/2019
+891,MG,Gasolina,Comunitat Valenciana,0002,06/07/2019
+892,MG,Gasolina,Galicia,0002,06/07/2019
+893,MG,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+894,MG,Gasolina,Murcia (Regi�n de),0002,06/07/2019
+895,MICROCOMPACTCARSMART,Diesel,Extremadura,0001,06/07/2019
+896,MICROCOMPACTCARSMART,Diesel,Galicia,0001,06/07/2019
+897,MICROCOMPACTCARSMART,Gasolina,Andaluc�a,0001,06/07/2019
+898,MICROCOMPACTCARSMART,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+899,MICROCOMPACTCARSMART,Gasolina,Navarra (Comunidad Foral de),0001,06/07/2019
+900,MINI,Diesel,Andaluc�a,0159,06/07/2019
+901,MINI,Diesel,Arag�n,0011,06/07/2019
+902,MINI,Diesel,Asturias (Principado de),0032,06/07/2019
+903,MINI,Diesel,Balears (Illes),0086,06/07/2019
+904,MINI,Diesel,Canarias,0023,06/07/2019
+905,MINI,Diesel,Cantabria,0010,06/07/2019
+906,MINI,Diesel,Castilla y Le�n,0026,06/07/2019
+907,MINI,Diesel,Castilla-La Mancha,0025,06/07/2019
+908,MINI,Diesel,Catalu�a,0309,06/07/2019
+909,MINI,Diesel,Comunitat Valenciana,0086,06/07/2019
+910,MINI,Diesel,Extremadura,0008,06/07/2019
+911,MINI,Diesel,Galicia,0044,06/07/2019
+912,MINI,Diesel,Madrid (Comunidad de),1139,06/07/2019
+913,MINI,Diesel,Murcia (Regi�n de),0021,06/07/2019
+914,MINI,Diesel,Navarra (Comunidad Foral de),0005,06/07/2019
+915,MINI,Diesel,Pa�s Vasco,0028,06/07/2019
+916,MINI,Diesel,Rioja (La),0002,06/07/2019
+917,MINI,Gasolina,Andaluc�a,0096,06/07/2019
+918,MINI,Gasolina,Arag�n,0011,06/07/2019
+919,MINI,Gasolina,Asturias (Principado de),0013,06/07/2019
+920,MINI,Gasolina,Balears (Illes),0071,06/07/2019
+921,MINI,Gasolina,Canarias,0061,06/07/2019
+922,MINI,Gasolina,Cantabria,0008,06/07/2019
+923,MINI,Gasolina,Castilla y Le�n,0028,06/07/2019
+924,MINI,Gasolina,Castilla-La Mancha,0016,06/07/2019
+925,MINI,Gasolina,Catalu�a,0185,06/07/2019
+926,MINI,Gasolina,Comunitat Valenciana,0091,06/07/2019
+927,MINI,Gasolina,Extremadura,0007,06/07/2019
+928,MINI,Gasolina,Galicia,0045,06/07/2019
+929,MINI,Gasolina,Madrid (Comunidad de),0361,06/07/2019
+930,MINI,Gasolina,Melilla,0002,06/07/2019
+931,MINI,Gasolina,Murcia (Regi�n de),0024,06/07/2019
+932,MINI,Gasolina,Navarra (Comunidad Foral de),0008,06/07/2019
+933,MINI,Gasolina,Pa�s Vasco,0040,06/07/2019
+934,MINI,Gasolina,Rioja (La),0004,06/07/2019
+935,MITSUBISHI,Diesel,Andaluc�a,0237,06/07/2019
+936,MITSUBISHI,Diesel,Arag�n,0032,06/07/2019
+937,MITSUBISHI,Diesel,Asturias (Principado de),0015,06/07/2019
+938,MITSUBISHI,Diesel,Balears (Illes),0027,06/07/2019
+939,MITSUBISHI,Diesel,Canarias,0042,06/07/2019
+940,MITSUBISHI,Diesel,Cantabria,0017,06/07/2019
+941,MITSUBISHI,Diesel,Castilla y Le�n,0063,06/07/2019
+942,MITSUBISHI,Diesel,Castilla-La Mancha,0096,06/07/2019
+943,MITSUBISHI,Diesel,Catalu�a,0148,06/07/2019
+944,MITSUBISHI,Diesel,Ceuta,0005,06/07/2019
+945,MITSUBISHI,Diesel,Comunitat Valenciana,0082,06/07/2019
+946,MITSUBISHI,Diesel,Extremadura,0025,06/07/2019
+947,MITSUBISHI,Diesel,Galicia,0022,06/07/2019
+948,MITSUBISHI,Diesel,Madrid (Comunidad de),0186,06/07/2019
+949,MITSUBISHI,Diesel,Melilla,0009,06/07/2019
+950,MITSUBISHI,Diesel,Murcia (Regi�n de),0028,06/07/2019
+951,MITSUBISHI,Diesel,Navarra (Comunidad Foral de),0008,06/07/2019
+952,MITSUBISHI,Diesel,Pa�s Vasco,0060,06/07/2019
+953,MITSUBISHI,Diesel,Rioja (La),0008,06/07/2019
+954,MITSUBISHI,El�ctrico,Andaluc�a,0011,06/07/2019
+955,MITSUBISHI,El�ctrico,Arag�n,0002,06/07/2019
+956,MITSUBISHI,El�ctrico,Asturias (Principado de),0001,06/07/2019
+957,MITSUBISHI,El�ctrico,Canarias,0002,06/07/2019
+958,MITSUBISHI,El�ctrico,Castilla y Le�n,0005,06/07/2019
+959,MITSUBISHI,El�ctrico,Castilla-La Mancha,0016,06/07/2019
+960,MITSUBISHI,El�ctrico,Catalu�a,0025,06/07/2019
+961,MITSUBISHI,El�ctrico,Comunitat Valenciana,0011,06/07/2019
+962,MITSUBISHI,El�ctrico,Galicia,0001,06/07/2019
+963,MITSUBISHI,El�ctrico,Madrid (Comunidad de),0026,06/07/2019
+964,MITSUBISHI,El�ctrico,Murcia (Regi�n de),0009,06/07/2019
+965,MITSUBISHI,El�ctrico,Navarra (Comunidad Foral de),0001,06/07/2019
+966,MITSUBISHI,El�ctrico,Pa�s Vasco,0007,06/07/2019
+967,MITSUBISHI,Gasolina,Andaluc�a,0123,06/07/2019
+968,MITSUBISHI,Gasolina,Arag�n,0018,06/07/2019
+969,MITSUBISHI,Gasolina,Asturias (Principado de),0007,06/07/2019
+970,MITSUBISHI,Gasolina,Balears (Illes),0032,06/07/2019
+971,MITSUBISHI,Gasolina,Canarias,0075,06/07/2019
+972,MITSUBISHI,Gasolina,Cantabria,0006,06/07/2019
+973,MITSUBISHI,Gasolina,Castilla y Le�n,0031,06/07/2019
+974,MITSUBISHI,Gasolina,Castilla-La Mancha,0036,06/07/2019
+975,MITSUBISHI,Gasolina,Catalu�a,0115,06/07/2019
+976,MITSUBISHI,Gasolina,Ceuta,0006,06/07/2019
+977,MITSUBISHI,Gasolina,Comunitat Valenciana,0088,06/07/2019
+978,MITSUBISHI,Gasolina,Extremadura,0005,06/07/2019
+979,MITSUBISHI,Gasolina,Galicia,0007,06/07/2019
+980,MITSUBISHI,Gasolina,Madrid (Comunidad de),0102,06/07/2019
+981,MITSUBISHI,Gasolina,Melilla,0006,06/07/2019
+982,MITSUBISHI,Gasolina,Murcia (Regi�n de),0010,06/07/2019
+983,MITSUBISHI,Gasolina,Navarra (Comunidad Foral de),0010,06/07/2019
+984,MITSUBISHI,Gasolina,Pa�s Vasco,0041,06/07/2019
+985,MITSUBISHI,Gasolina,Rioja (La),0007,06/07/2019
+986,MORGAN,Gasolina,Canarias,0001,06/07/2019
+987,MORGAN,Gasolina,Madrid (Comunidad de),0002,06/07/2019
+988,MORRIS,Gasolina,Comunitat Valenciana,0001,06/07/2019
+989,NISSAN,Diesel,Andaluc�a,1029,06/07/2019
+990,NISSAN,Diesel,Arag�n,0159,06/07/2019
+991,NISSAN,Diesel,Asturias (Principado de),0169,06/07/2019
+992,NISSAN,Diesel,Balears (Illes),0143,06/07/2019
+993,NISSAN,Diesel,Canarias,0184,06/07/2019
+994,NISSAN,Diesel,Cantabria,0055,06/07/2019
+995,NISSAN,Diesel,Castilla y Le�n,0227,06/07/2019
+996,NISSAN,Diesel,Castilla-La Mancha,0175,06/07/2019
+997,NISSAN,Diesel,Catalu�a,1433,06/07/2019
+998,NISSAN,Diesel,Ceuta,0010,06/07/2019
+999,NISSAN,Diesel,Comunitat Valenciana,1106,06/07/2019
+1000,NISSAN,Diesel,Extremadura,0108,06/07/2019
+1001,NISSAN,Diesel,Galicia,0285,06/07/2019
+1002,NISSAN,Diesel,Madrid (Comunidad de),3612,06/07/2019
+1003,NISSAN,Diesel,Melilla,0001,06/07/2019
+1004,NISSAN,Diesel,Murcia (Regi�n de),0201,06/07/2019
+1005,NISSAN,Diesel,Navarra (Comunidad Foral de),0075,06/07/2019
+1006,NISSAN,Diesel,Pa�s Vasco,0255,06/07/2019
+1007,NISSAN,Diesel,Rioja (La),0023,06/07/2019
+1008,NISSAN,El�ctrico,Andaluc�a,0012,06/07/2019
+1009,NISSAN,El�ctrico,Arag�n,0001,06/07/2019
+1010,NISSAN,El�ctrico,Asturias (Principado de),0001,06/07/2019
+1011,NISSAN,El�ctrico,Balears (Illes),0004,06/07/2019
+1012,NISSAN,El�ctrico,Canarias,0006,06/07/2019
+1013,NISSAN,El�ctrico,Cantabria,0003,06/07/2019
+1014,NISSAN,El�ctrico,Castilla y Le�n,0007,06/07/2019
+1015,NISSAN,El�ctrico,Castilla-La Mancha,0002,06/07/2019
+1016,NISSAN,El�ctrico,Catalu�a,0131,06/07/2019
+1017,NISSAN,El�ctrico,Comunitat Valenciana,0012,06/07/2019
+1018,NISSAN,El�ctrico,Extremadura,0001,06/07/2019
+1019,NISSAN,El�ctrico,Galicia,0006,06/07/2019
+1020,NISSAN,El�ctrico,Madrid (Comunidad de),0038,06/07/2019
+1021,NISSAN,El�ctrico,Murcia (Regi�n de),0003,06/07/2019
+1022,NISSAN,El�ctrico,Navarra (Comunidad Foral de),0002,06/07/2019
+1023,NISSAN,El�ctrico,Pa�s Vasco,0004,06/07/2019
+1024,NISSAN,Gasolina,Andaluc�a,0576,06/07/2019
+1025,NISSAN,Gasolina,Arag�n,0088,06/07/2019
+1026,NISSAN,Gasolina,Asturias (Principado de),0082,06/07/2019
+1027,NISSAN,Gasolina,Balears (Illes),0204,06/07/2019
+1028,NISSAN,Gasolina,Canarias,0566,06/07/2019
+1029,NISSAN,Gasolina,Cantabria,0051,06/07/2019
+1030,NISSAN,Gasolina,Castilla y Le�n,0139,06/07/2019
+1031,NISSAN,Gasolina,Castilla-La Mancha,0078,06/07/2019
+1032,NISSAN,Gasolina,Catalu�a,0915,06/07/2019
+1033,NISSAN,Gasolina,Ceuta,0011,06/07/2019
+1034,NISSAN,Gasolina,Comunitat Valenciana,0864,06/07/2019
+1035,NISSAN,Gasolina,Extremadura,0053,06/07/2019
+1036,NISSAN,Gasolina,Galicia,0122,06/07/2019
+1037,NISSAN,Gasolina,Madrid (Comunidad de),1517,06/07/2019
+1038,NISSAN,Gasolina,Melilla,0009,06/07/2019
+1039,NISSAN,Gasolina,Murcia (Regi�n de),0079,06/07/2019
+1040,NISSAN,Gasolina,Navarra (Comunidad Foral de),0057,06/07/2019
+1041,NISSAN,Gasolina,Pa�s Vasco,0208,06/07/2019
+1042,NISSAN,Gasolina,Rioja (La),0030,06/07/2019
+1043,OPEL,Diesel,Andaluc�a,1136,06/07/2019
+1044,OPEL,Diesel,Arag�n,0405,06/07/2019
+1045,OPEL,Diesel,Asturias (Principado de),0200,06/07/2019
+1046,OPEL,Diesel,Balears (Illes),0132,06/07/2019
+1047,OPEL,Diesel,Canarias,0189,06/07/2019
+1048,OPEL,Diesel,Cantabria,0089,06/07/2019
+1049,OPEL,Diesel,Castilla y Le�n,0286,06/07/2019
+1050,OPEL,Diesel,Castilla-La Mancha,0283,06/07/2019
+1051,OPEL,Diesel,Catalu�a,1015,06/07/2019
+1052,OPEL,Diesel,Ceuta,0008,06/07/2019
+1053,OPEL,Diesel,Comunitat Valenciana,1367,06/07/2019
+1054,OPEL,Diesel,Extremadura,0216,06/07/2019
+1055,OPEL,Diesel,Galicia,0405,06/07/2019
+1056,OPEL,Diesel,Madrid (Comunidad de),3669,06/07/2019
+1057,OPEL,Diesel,Melilla,0004,06/07/2019
+1058,OPEL,Diesel,Murcia (Regi�n de),0218,06/07/2019
+1059,OPEL,Diesel,Navarra (Comunidad Foral de),0086,06/07/2019
+1060,OPEL,Diesel,Pa�s Vasco,0437,06/07/2019
+1061,OPEL,Diesel,Rioja (La),0064,06/07/2019
+1062,OPEL,El�ctrico,Cantabria,0001,06/07/2019
+1063,OPEL,El�ctrico,Catalu�a,0001,06/07/2019
+1064,OPEL,El�ctrico,Comunitat Valenciana,0001,06/07/2019
+1065,OPEL,El�ctrico,Madrid (Comunidad de),0002,06/07/2019
+1066,OPEL,Gas Licuado de Petroleo,Andaluc�a,0010,06/07/2019
+1067,OPEL,Gas Licuado de Petroleo,Arag�n,0003,06/07/2019
+1068,OPEL,Gas Licuado de Petroleo,Balears (Illes),0003,06/07/2019
+1069,OPEL,Gas Licuado de Petroleo,Canarias,0020,06/07/2019
+1070,OPEL,Gas Licuado de Petroleo,Cantabria,0001,06/07/2019
+1071,OPEL,Gas Licuado de Petroleo,Castilla y Le�n,0005,06/07/2019
+1072,OPEL,Gas Licuado de Petroleo,Castilla-La Mancha,0002,06/07/2019
+1073,OPEL,Gas Licuado de Petroleo,Catalu�a,0017,06/07/2019
+1074,OPEL,Gas Licuado de Petroleo,Comunitat Valenciana,0052,06/07/2019
+1075,OPEL,Gas Licuado de Petroleo,Extremadura,0002,06/07/2019
+1076,OPEL,Gas Licuado de Petroleo,Galicia,0019,06/07/2019
+1077,OPEL,Gas Licuado de Petroleo,Madrid (Comunidad de),0039,06/07/2019
+1078,OPEL,Gas Licuado de Petroleo,Murcia (Regi�n de),0003,06/07/2019
+1079,OPEL,Gas Licuado de Petroleo,Navarra (Comunidad Foral de),0003,06/07/2019
+1080,OPEL,Gas Licuado de Petroleo,Pa�s Vasco,0003,06/07/2019
+1081,OPEL,Gas Licuado de Petroleo,Rioja (La),0001,06/07/2019
+1082,OPEL,Gas Natural Licuado,Andaluc�a,0001,06/07/2019
+1083,OPEL,Gasolina,Andaluc�a,0907,06/07/2019
+1084,OPEL,Gasolina,Arag�n,0287,06/07/2019
+1085,OPEL,Gasolina,Asturias (Principado de),0123,06/07/2019
+1086,OPEL,Gasolina,Balears (Illes),0698,06/07/2019
+1087,OPEL,Gasolina,Canarias,0848,06/07/2019
+1088,OPEL,Gasolina,Cantabria,0086,06/07/2019
+1089,OPEL,Gasolina,Castilla y Le�n,0215,06/07/2019
+1090,OPEL,Gasolina,Castilla-La Mancha,0129,06/07/2019
+1091,OPEL,Gasolina,Catalu�a,1157,06/07/2019
+1092,OPEL,Gasolina,Ceuta,0016,06/07/2019
+1093,OPEL,Gasolina,Comunitat Valenciana,1916,06/07/2019
+1094,OPEL,Gasolina,Extremadura,0078,06/07/2019
+1095,OPEL,Gasolina,Galicia,0243,06/07/2019
+1096,OPEL,Gasolina,Madrid (Comunidad de),7546,06/07/2019
+1097,OPEL,Gasolina,Melilla,0013,06/07/2019
+1098,OPEL,Gasolina,Murcia (Regi�n de),0156,06/07/2019
+1099,OPEL,Gasolina,Navarra (Comunidad Foral de),0124,06/07/2019
+1100,OPEL,Gasolina,Pa�s Vasco,0377,06/07/2019
+1101,OPEL,Gasolina,Rioja (La),0047,06/07/2019
+1102,PEUGEOT,Diesel,Andaluc�a,1974,06/07/2019
+1103,PEUGEOT,Diesel,Arag�n,0382,06/07/2019
+1104,PEUGEOT,Diesel,Asturias (Principado de),0226,06/07/2019
+1105,PEUGEOT,Diesel,Balears (Illes),0313,06/07/2019
+1106,PEUGEOT,Diesel,Canarias,0118,06/07/2019
+1107,PEUGEOT,Diesel,Cantabria,0147,06/07/2019
+1108,PEUGEOT,Diesel,Castilla y Le�n,0545,06/07/2019
+1109,PEUGEOT,Diesel,Castilla-La Mancha,1178,06/07/2019
+1110,PEUGEOT,Diesel,Catalu�a,1983,06/07/2019
+1111,PEUGEOT,Diesel,Ceuta,0013,06/07/2019
+1112,PEUGEOT,Diesel,Comunitat Valenciana,2673,06/07/2019
+1113,PEUGEOT,Diesel,Extremadura,0208,06/07/2019
+1114,PEUGEOT,Diesel,Galicia,0808,06/07/2019
+1115,PEUGEOT,Diesel,Madrid (Comunidad de),5022,06/07/2019
+1116,PEUGEOT,Diesel,Melilla,0007,06/07/2019
+1117,PEUGEOT,Diesel,Murcia (Regi�n de),0471,06/07/2019
+1118,PEUGEOT,Diesel,Navarra (Comunidad Foral de),0245,06/07/2019
+1119,PEUGEOT,Diesel,Pa�s Vasco,0587,06/07/2019
+1120,PEUGEOT,Diesel,Rioja (La),0083,06/07/2019
+1121,PEUGEOT,El�ctrico,Madrid (Comunidad de),0001,06/07/2019
+1122,PEUGEOT,Gas Natural Licuado,Castilla y Le�n,0002,06/07/2019
+1123,PEUGEOT,Gas Natural Licuado,Catalu�a,0001,06/07/2019
+1124,PEUGEOT,Gas Natural Licuado,Pa�s Vasco,0001,06/07/2019
+1125,PEUGEOT,Gasolina,Andaluc�a,0898,06/07/2019
+1126,PEUGEOT,Gasolina,Arag�n,0285,06/07/2019
+1127,PEUGEOT,Gasolina,Asturias (Principado de),0096,06/07/2019
+1128,PEUGEOT,Gasolina,Balears (Illes),0485,06/07/2019
+1129,PEUGEOT,Gasolina,Canarias,0375,06/07/2019
+1130,PEUGEOT,Gasolina,Cantabria,0066,06/07/2019
+1131,PEUGEOT,Gasolina,Castilla y Le�n,0243,06/07/2019
+1132,PEUGEOT,Gasolina,Castilla-La Mancha,0521,06/07/2019
+1133,PEUGEOT,Gasolina,Catalu�a,1484,06/07/2019
+1134,PEUGEOT,Gasolina,Ceuta,0005,06/07/2019
+1135,PEUGEOT,Gasolina,Comunitat Valenciana,1054,06/07/2019
+1136,PEUGEOT,Gasolina,Extremadura,0078,06/07/2019
+1137,PEUGEOT,Gasolina,Galicia,0275,06/07/2019
+1138,PEUGEOT,Gasolina,Madrid (Comunidad de),1948,06/07/2019
+1139,PEUGEOT,Gasolina,Melilla,0011,06/07/2019
+1140,PEUGEOT,Gasolina,Murcia (Regi�n de),0131,06/07/2019
+1141,PEUGEOT,Gasolina,Navarra (Comunidad Foral de),0140,06/07/2019
+1142,PEUGEOT,Gasolina,Pa�s Vasco,0461,06/07/2019
+1143,PEUGEOT,Gasolina,Rioja (La),0054,06/07/2019
+1144,PLYMOUTH,Gasolina,Castilla-La Mancha,0001,06/07/2019
+1145,POESSL,Diesel,Madrid (Comunidad de),0002,06/07/2019
+1146,PONTIAC,Gasolina,Comunitat Valenciana,0002,06/07/2019
+1147,PONTIAC,Gasolina,Galicia,0001,06/07/2019
+1148,PONTIAC,Gasolina,Madrid (Comunidad de),0003,06/07/2019
+1149,PORSCHE,Diesel,Andaluc�a,0033,06/07/2019
+1150,PORSCHE,Diesel,Arag�n,0002,06/07/2019
+1151,PORSCHE,Diesel,Asturias (Principado de),0005,06/07/2019
+1152,PORSCHE,Diesel,Balears (Illes),0007,06/07/2019
+1153,PORSCHE,Diesel,Canarias,0003,06/07/2019
+1154,PORSCHE,Diesel,Cantabria,0001,06/07/2019
+1155,PORSCHE,Diesel,Castilla y Le�n,0008,06/07/2019
+1156,PORSCHE,Diesel,Castilla-La Mancha,0009,06/07/2019
+1157,PORSCHE,Diesel,Catalu�a,0050,06/07/2019
+1158,PORSCHE,Diesel,Comunitat Valenciana,0018,06/07/2019
+1159,PORSCHE,Diesel,Extremadura,0003,06/07/2019
+1160,PORSCHE,Diesel,Galicia,0013,06/07/2019
+1161,PORSCHE,Diesel,Madrid (Comunidad de),0048,06/07/2019
+1162,PORSCHE,Diesel,Murcia (Regi�n de),0006,06/07/2019
+1163,PORSCHE,Diesel,Navarra (Comunidad Foral de),0001,06/07/2019
+1164,PORSCHE,Diesel,Pa�s Vasco,0007,06/07/2019
+1165,PORSCHE,Diesel,Rioja (La),0002,06/07/2019
+1166,PORSCHE,El�ctrico,Castilla-La Mancha,0001,06/07/2019
+1167,PORSCHE,El�ctrico,Madrid (Comunidad de),0001,06/07/2019
+1168,PORSCHE,Gasolina,Andaluc�a,0043,06/07/2019
+1169,PORSCHE,Gasolina,Arag�n,0004,06/07/2019
+1170,PORSCHE,Gasolina,Asturias (Principado de),0005,06/07/2019
+1171,PORSCHE,Gasolina,Balears (Illes),0015,06/07/2019
+1172,PORSCHE,Gasolina,Canarias,0013,06/07/2019
+1173,PORSCHE,Gasolina,Cantabria,0006,06/07/2019
+1174,PORSCHE,Gasolina,Castilla y Le�n,0006,06/07/2019
+1175,PORSCHE,Gasolina,Castilla-La Mancha,0003,06/07/2019
+1176,PORSCHE,Gasolina,Catalu�a,0047,06/07/2019
+1177,PORSCHE,Gasolina,Comunitat Valenciana,0021,06/07/2019
+1178,PORSCHE,Gasolina,Extremadura,0001,06/07/2019
+1179,PORSCHE,Gasolina,Galicia,0010,06/07/2019
+1180,PORSCHE,Gasolina,Madrid (Comunidad de),0091,06/07/2019
+1181,PORSCHE,Gasolina,Murcia (Regi�n de),0004,06/07/2019
+1182,PORSCHE,Gasolina,Navarra (Comunidad Foral de),0001,06/07/2019
+1183,PORSCHE,Gasolina,Pa�s Vasco,0003,06/07/2019
+1184,PORSCHE,Gasolina,Rioja (La),0001,06/07/2019
+1185,RENAULT,Diesel,Andaluc�a,1316,06/07/2019
+1186,RENAULT,Diesel,Arag�n,0170,06/07/2019
+1187,RENAULT,Diesel,Asturias (Principado de),0180,06/07/2019
+1188,RENAULT,Diesel,Balears (Illes),0289,06/07/2019
+1189,RENAULT,Diesel,Canarias,0163,06/07/2019
+1190,RENAULT,Diesel,Cantabria,0116,06/07/2019
+1191,RENAULT,Diesel,Castilla y Le�n,0705,06/07/2019
+1192,RENAULT,Diesel,Castilla-La Mancha,0279,06/07/2019
+1193,RENAULT,Diesel,Catalu�a,1290,06/07/2019
+1194,RENAULT,Diesel,Ceuta,0021,06/07/2019
+1195,RENAULT,Diesel,Comunitat Valenciana,1067,06/07/2019
+1196,RENAULT,Diesel,Extremadura,0152,06/07/2019
+1197,RENAULT,Diesel,Galicia,0447,06/07/2019
+1198,RENAULT,Diesel,Madrid (Comunidad de),5178,06/07/2019
+1199,RENAULT,Diesel,Melilla,0005,06/07/2019
+1200,RENAULT,Diesel,Murcia (Regi�n de),0254,06/07/2019
+1201,RENAULT,Diesel,Navarra (Comunidad Foral de),0100,06/07/2019
+1202,RENAULT,Diesel,Pa�s Vasco,0349,06/07/2019
+1203,RENAULT,Diesel,Rioja (La),0051,06/07/2019
+1204,RENAULT,El�ctrico,Andaluc�a,0002,06/07/2019
+1205,RENAULT,El�ctrico,Balears (Illes),0003,06/07/2019
+1206,RENAULT,El�ctrico,Canarias,0002,06/07/2019
+1207,RENAULT,El�ctrico,Castilla y Le�n,0002,06/07/2019
+1208,RENAULT,El�ctrico,Castilla-La Mancha,0001,06/07/2019
+1209,RENAULT,El�ctrico,Catalu�a,0016,06/07/2019
+1210,RENAULT,El�ctrico,Comunitat Valenciana,0005,06/07/2019
+1211,RENAULT,El�ctrico,Galicia,0001,06/07/2019
+1212,RENAULT,El�ctrico,Madrid (Comunidad de),0041,06/07/2019
+1213,RENAULT,El�ctrico,Murcia (Regi�n de),0001,06/07/2019
+1214,RENAULT,El�ctrico,Pa�s Vasco,0001,06/07/2019
+1215,RENAULT,Gasolina,Andaluc�a,0628,06/07/2019
+1216,RENAULT,Gasolina,Arag�n,0136,06/07/2019
+1217,RENAULT,Gasolina,Asturias (Principado de),0117,06/07/2019
+1218,RENAULT,Gasolina,Balears (Illes),0150,06/07/2019
+1219,RENAULT,Gasolina,Canarias,0517,06/07/2019
+1220,RENAULT,Gasolina,Cantabria,0071,06/07/2019
+1221,RENAULT,Gasolina,Castilla y Le�n,0394,06/07/2019
+1222,RENAULT,Gasolina,Castilla-La Mancha,0122,06/07/2019
+1223,RENAULT,Gasolina,Catalu�a,1198,06/07/2019
+1224,RENAULT,Gasolina,Ceuta,0013,06/07/2019
+1225,RENAULT,Gasolina,Comunitat Valenciana,0842,06/07/2019
+1226,RENAULT,Gasolina,Extremadura,0064,06/07/2019
+1227,RENAULT,Gasolina,Galicia,0219,06/07/2019
+1228,RENAULT,Gasolina,Madrid (Comunidad de),1777,06/07/2019
+1229,RENAULT,Gasolina,Melilla,0015,06/07/2019
+1230,RENAULT,Gasolina,Murcia (Regi�n de),0106,06/07/2019
+1231,RENAULT,Gasolina,Navarra (Comunidad Foral de),0062,06/07/2019
+1232,RENAULT,Gasolina,Pa�s Vasco,0268,06/07/2019
+1233,RENAULT,Gasolina,Rioja (La),0031,06/07/2019
+1234,RENAULTTECH,Diesel,Arag�n,0001,06/07/2019
+1235,RENAULTTECH,Diesel,Castilla y Le�n,0001,06/07/2019
+1236,RENAULTTECH,Diesel,Catalu�a,0002,06/07/2019
+1237,RENAULTTECH,Diesel,Comunitat Valenciana,0001,06/07/2019
+1238,RENAULTTECH,Diesel,Extremadura,0001,06/07/2019
+1239,RENAULTTECH,Diesel,Galicia,0001,06/07/2019
+1240,RENAULTTECH,Diesel,Madrid (Comunidad de),0004,06/07/2019
+1241,RENAULTTECH,Diesel,Navarra (Comunidad Foral de),0001,06/07/2019
+1242,ROBINHOOD,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+1243,ROLLSROYCE,Gasolina,Andaluc�a,0001,06/07/2019
+1244,ROLLSROYCE,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+1245,ROLLSROYCE,Gasolina,Murcia (Regi�n de),0001,06/07/2019
+1246,ROVER,Diesel,Andaluc�a,0003,06/07/2019
+1247,ROVER,Diesel,Arag�n,0001,06/07/2019
+1248,ROVER,Diesel,Catalu�a,0001,06/07/2019
+1249,ROVER,Diesel,Ceuta,0001,06/07/2019
+1250,ROVER,Gasolina,Andaluc�a,0001,06/07/2019
+1251,ROVER,Gasolina,Balears (Illes),0001,06/07/2019
+1252,ROVER,Gasolina,Canarias,0002,06/07/2019
+1253,ROVER,Gasolina,Catalu�a,0001,06/07/2019
+1254,ROVER,Gasolina,Comunitat Valenciana,0001,06/07/2019
+1255,ROVER,Gasolina,Madrid (Comunidad de),0002,06/07/2019
+1256,ROVER,Gasolina,Navarra (Comunidad Foral de),0001,06/07/2019
+1257,SAAB,Diesel,Andaluc�a,0005,06/07/2019
+1258,SAAB,Diesel,Balears (Illes),0001,06/07/2019
+1259,SAAB,Diesel,Canarias,0001,06/07/2019
+1260,SAAB,Diesel,Catalu�a,0004,06/07/2019
+1261,SAAB,Diesel,Comunitat Valenciana,0001,06/07/2019
+1262,SAAB,Diesel,Madrid (Comunidad de),0001,06/07/2019
+1263,SAAB,Gasolina,Andaluc�a,0004,06/07/2019
+1264,SAAB,Gasolina,Balears (Illes),0001,06/07/2019
+1265,SAAB,Gasolina,Canarias,0002,06/07/2019
+1266,SAAB,Gasolina,Catalu�a,0002,06/07/2019
+1267,SAAB,Gasolina,Comunitat Valenciana,0005,06/07/2019
+1268,SAAB,Gasolina,Galicia,0002,06/07/2019
+1269,SAAB,Gasolina,Madrid (Comunidad de),0001,06/07/2019
+1270,SAAB,Gasolina,Navarra (Comunidad Foral de),0001,06/07/2019
+1271,SAAB,Gasolina,Pa�s Vasco,0001,06/07/2019
+1272,SCION,Gasolina,Andaluc�a,0001,06/07/2019
+1273,SEAT,Diesel,Andaluc�a,0827,06/07/2019
+1274,SEAT,Diesel,Arag�n,0102,06/07/2019
+1275,SEAT,Diesel,Asturias (Principado de),0113,06/07/2019
+1276,SEAT,Diesel,Balears (Illes),0064,06/07/2019
+1277,SEAT,Diesel,Canarias,0037,06/07/2019
+1278,SEAT,Diesel,Cantabria,0062,06/07/2019
+1279,SEAT,Diesel,Castilla y Le�n,0209,06/07/2019
+1280,SEAT,Diesel,Castilla-La Mancha,0243,06/07/2019
+1281,SEAT,Diesel,Catalu�a,1550,06/07/2019
+1282,SEAT,Diesel,Ceuta,0003,06/07/2019
+1283,SEAT,Diesel,Comunitat Valenciana,0371,06/07/2019
+1284,SEAT,Diesel,Extremadura,0043,06/07/2019
+1285,SEAT,Diesel,Galicia,0306,06/07/2019
+1286,SEAT,Diesel,Madrid (Comunidad de),5259,06/07/2019
+1287,SEAT,Diesel,Melilla,0001,06/07/2019
+1288,SEAT,Diesel,Murcia (Regi�n de),0152,06/07/2019
+1289,SEAT,Diesel,Navarra (Comunidad Foral de),0053,06/07/2019
+1290,SEAT,Diesel,Pa�s Vasco,0184,06/07/2019
+1291,SEAT,Diesel,Rioja (La),0021,06/07/2019
+1292,SEAT,El�ctrico,Catalu�a,0001,06/07/2019
+1293,SEAT,Gas Licuado de Petroleo,Andaluc�a,0001,06/07/2019
+1294,SEAT,Gas Licuado de Petroleo,Balears (Illes),0001,06/07/2019
+1295,SEAT,Gas Licuado de Petroleo,Madrid (Comunidad de),0018,06/07/2019
+1296,SEAT,Gas Natural Comprimido,Balears (Illes),0002,06/07/2019
+1297,SEAT,Gas Natural Comprimido,Castilla-La Mancha,0002,06/07/2019
+1298,SEAT,Gas Natural Comprimido,Catalu�a,0050,06/07/2019
+1299,SEAT,Gas Natural Comprimido,Comunitat Valenciana,0001,06/07/2019
+1300,SEAT,Gas Natural Comprimido,Madrid (Comunidad de),0030,06/07/2019
+1301,SEAT,Gas Natural Comprimido,Murcia (Regi�n de),0002,06/07/2019
+1302,SEAT,Gas Natural Comprimido,Pa�s Vasco,0003,06/07/2019
+1303,SEAT,Gasolina,Andaluc�a,0807,06/07/2019
+1304,SEAT,Gasolina,Arag�n,0136,06/07/2019
+1305,SEAT,Gasolina,Asturias (Principado de),0074,06/07/2019
+1306,SEAT,Gasolina,Balears (Illes),0310,06/07/2019
+1307,SEAT,Gasolina,Canarias,0892,06/07/2019
+1308,SEAT,Gasolina,Cantabria,0066,06/07/2019
+1309,SEAT,Gasolina,Castilla y Le�n,0268,06/07/2019
+1310,SEAT,Gasolina,Castilla-La Mancha,0191,06/07/2019
+1311,SEAT,Gasolina,Catalu�a,1480,06/07/2019
+1312,SEAT,Gasolina,Ceuta,0001,06/07/2019
+1313,SEAT,Gasolina,Comunitat Valenciana,0666,06/07/2019
+1314,SEAT,Gasolina,Extremadura,0028,06/07/2019
+1315,SEAT,Gasolina,Galicia,0251,06/07/2019
+1316,SEAT,Gasolina,Madrid (Comunidad de),4678,06/07/2019
+1317,SEAT,Gasolina,Melilla,0015,06/07/2019
+1318,SEAT,Gasolina,Murcia (Regi�n de),0159,06/07/2019
+1319,SEAT,Gasolina,Navarra (Comunidad Foral de),0098,06/07/2019
+1320,SEAT,Gasolina,Pa�s Vasco,0257,06/07/2019
+1321,SEAT,Gasolina,Rioja (La),0043,06/07/2019
+1322,SEAT,Sin especificar,Melilla,0001,06/07/2019
+1323,SINMARCA,Gasolina,Andaluc�a,0001,06/07/2019
+1324,SKODA,Diesel,Andaluc�a,0365,06/07/2019
+1325,SKODA,Diesel,Arag�n,0065,06/07/2019
+1326,SKODA,Diesel,Asturias (Principado de),0065,06/07/2019
+1327,SKODA,Diesel,Balears (Illes),0099,06/07/2019
+1328,SKODA,Diesel,Canarias,0022,06/07/2019
+1329,SKODA,Diesel,Cantabria,0014,06/07/2019
+1330,SKODA,Diesel,Castilla y Le�n,0096,06/07/2019
+1331,SKODA,Diesel,Castilla-La Mancha,0065,06/07/2019
+1332,SKODA,Diesel,Catalu�a,0435,06/07/2019
+1333,SKODA,Diesel,Comunitat Valenciana,0116,06/07/2019
+1334,SKODA,Diesel,Extremadura,0068,06/07/2019
+1335,SKODA,Diesel,Galicia,0096,06/07/2019
+1336,SKODA,Diesel,Madrid (Comunidad de),1319,06/07/2019
+1337,SKODA,Diesel,Murcia (Regi�n de),0064,06/07/2019
+1338,SKODA,Diesel,Navarra (Comunidad Foral de),0025,06/07/2019
+1339,SKODA,Diesel,Pa�s Vasco,0138,06/07/2019
+1340,SKODA,Diesel,Rioja (La),0012,06/07/2019
+1341,SKODA,Gas Natural Comprimido,Comunitat Valenciana,0001,06/07/2019
+1342,SKODA,Gas Natural Comprimido,Madrid (Comunidad de),0002,06/07/2019
+1343,SKODA,Gasolina,Andaluc�a,0247,06/07/2019
+1344,SKODA,Gasolina,Arag�n,0061,06/07/2019
+1345,SKODA,Gasolina,Asturias (Principado de),0020,06/07/2019
+1346,SKODA,Gasolina,Balears (Illes),0210,06/07/2019
+1347,SKODA,Gasolina,Canarias,0160,06/07/2019
+1348,SKODA,Gasolina,Cantabria,0016,06/07/2019
+1349,SKODA,Gasolina,Castilla y Le�n,0059,06/07/2019
+1350,SKODA,Gasolina,Castilla-La Mancha,0029,06/07/2019
+1351,SKODA,Gasolina,Catalu�a,0265,06/07/2019
+1352,SKODA,Gasolina,Ceuta,0001,06/07/2019
+1353,SKODA,Gasolina,Comunitat Valenciana,0182,06/07/2019
+1354,SKODA,Gasolina,Extremadura,0028,06/07/2019
+1355,SKODA,Gasolina,Galicia,0081,06/07/2019
+1356,SKODA,Gasolina,Madrid (Comunidad de),1328,06/07/2019
+1357,SKODA,Gasolina,Melilla,0002,06/07/2019
+1358,SKODA,Gasolina,Murcia (Regi�n de),0050,06/07/2019
+1359,SKODA,Gasolina,Navarra (Comunidad Foral de),0020,06/07/2019
+1360,SKODA,Gasolina,Pa�s Vasco,0073,06/07/2019
+1361,SKODA,Gasolina,Rioja (La),0006,06/07/2019
+1362,SMART,Diesel,,0002,06/07/2019
+1363,SMART,Diesel,Arag�n,0001,06/07/2019
+1364,SMART,Diesel,Comunitat Valenciana,0002,06/07/2019
+1365,SMART,Diesel,Galicia,0002,06/07/2019
+1366,SMART,El�ctrico,Madrid (Comunidad de),0041,06/07/2019
+1367,SMART,Gasolina,Andaluc�a,0116,06/07/2019
+1368,SMART,Gasolina,Arag�n,0011,06/07/2019
+1369,SMART,Gasolina,Asturias (Principado de),0014,06/07/2019
+1370,SMART,Gasolina,Balears (Illes),0065,06/07/2019
+1371,SMART,Gasolina,Canarias,0076,06/07/2019
+1372,SMART,Gasolina,Cantabria,0006,06/07/2019
+1373,SMART,Gasolina,Castilla y Le�n,0010,06/07/2019
+1374,SMART,Gasolina,Castilla-La Mancha,0010,06/07/2019
+1375,SMART,Gasolina,Catalu�a,0241,06/07/2019
+1376,SMART,Gasolina,Ceuta,0001,06/07/2019
+1377,SMART,Gasolina,Comunitat Valenciana,0167,06/07/2019
+1378,SMART,Gasolina,Extremadura,0001,06/07/2019
+1379,SMART,Gasolina,Galicia,0028,06/07/2019
+1380,SMART,Gasolina,Madrid (Comunidad de),0969,06/07/2019
+1381,SMART,Gasolina,Murcia (Regi�n de),0052,06/07/2019
+1382,SMART,Gasolina,Navarra (Comunidad Foral de),0004,06/07/2019
+1383,SMART,Gasolina,Pa�s Vasco,0012,06/07/2019
+1384,SMART,Gasolina,Rioja (La),0001,06/07/2019
+1385,SSANGYONG,Diesel,Andaluc�a,0109,06/07/2019
+1386,SSANGYONG,Diesel,Arag�n,0014,06/07/2019
+1387,SSANGYONG,Diesel,Asturias (Principado de),0005,06/07/2019
+1388,SSANGYONG,Diesel,Balears (Illes),0010,06/07/2019
+1389,SSANGYONG,Diesel,Canarias,0005,06/07/2019
+1390,SSANGYONG,Diesel,Cantabria,0007,06/07/2019
+1391,SSANGYONG,Diesel,Castilla y Le�n,0035,06/07/2019
+1392,SSANGYONG,Diesel,Castilla-La Mancha,0065,06/07/2019
+1393,SSANGYONG,Diesel,Catalu�a,0244,06/07/2019
+1394,SSANGYONG,Diesel,Ceuta,0008,06/07/2019
+1395,SSANGYONG,Diesel,Comunitat Valenciana,0065,06/07/2019
+1396,SSANGYONG,Diesel,Extremadura,0013,06/07/2019
+1397,SSANGYONG,Diesel,Galicia,0026,06/07/2019
+1398,SSANGYONG,Diesel,Madrid (Comunidad de),0138,06/07/2019
+1399,SSANGYONG,Diesel,Melilla,0008,06/07/2019
+1400,SSANGYONG,Diesel,Murcia (Regi�n de),0025,06/07/2019
+1401,SSANGYONG,Diesel,Navarra (Comunidad Foral de),0004,06/07/2019
+1402,SSANGYONG,Diesel,Pa�s Vasco,0026,06/07/2019
+1403,SSANGYONG,Gas Licuado de Petroleo,Andaluc�a,0001,06/07/2019
+1404,SSANGYONG,Gas Licuado de Petroleo,Arag�n,0003,06/07/2019
+1405,SSANGYONG,Gas Licuado de Petroleo,Catalu�a,0003,06/07/2019
+1406,SSANGYONG,Gas Licuado de Petroleo,Comunitat Valenciana,0001,06/07/2019
+1407,SSANGYONG,Gas Licuado de Petroleo,Madrid (Comunidad de),0002,06/07/2019
+1408,SSANGYONG,Gas Licuado de Petroleo,Murcia (Regi�n de),0005,06/07/2019
+1409,SSANGYONG,Gas Licuado de Petroleo,Pa�s Vasco,0002,06/07/2019
+1410,SSANGYONG,Gasolina,Andaluc�a,0024,06/07/2019
+1411,SSANGYONG,Gasolina,Arag�n,0003,06/07/2019
+1412,SSANGYONG,Gasolina,Asturias (Principado de),0001,06/07/2019
+1413,SSANGYONG,Gasolina,Balears (Illes),0004,06/07/2019
+1414,SSANGYONG,Gasolina,Canarias,0007,06/07/2019
+1415,SSANGYONG,Gasolina,Cantabria,0001,06/07/2019
+1416,SSANGYONG,Gasolina,Castilla y Le�n,0003,06/07/2019
+1417,SSANGYONG,Gasolina,Castilla-La Mancha,0008,06/07/2019
+1418,SSANGYONG,Gasolina,Catalu�a,0022,06/07/2019
+1419,SSANGYONG,Gasolina,Comunitat Valenciana,0008,06/07/2019
+1420,SSANGYONG,Gasolina,Galicia,0001,06/07/2019
+1421,SSANGYONG,Gasolina,Madrid (Comunidad de),0059,06/07/2019
+1422,SSANGYONG,Gasolina,Melilla,0002,06/07/2019
+1423,SSANGYONG,Gasolina,Navarra (Comunidad Foral de),0001,06/07/2019
+1424,SSANGYONG,Gasolina,Pa�s Vasco,0003,06/07/2019
+1425,STUDEBAKER,Gasolina,Catalu�a,0001,06/07/2019
+1426,SUBARU,Diesel,Andaluc�a,0020,06/07/2019
+1427,SUBARU,Diesel,Arag�n,0005,06/07/2019
+1428,SUBARU,Diesel,Asturias (Principado de),0007,06/07/2019
+1429,SUBARU,Diesel,Canarias,0004,06/07/2019
+1430,SUBARU,Diesel,Cantabria,0005,06/07/2019
+1431,SUBARU,Diesel,Castilla y Le�n,0012,06/07/2019
+1432,SUBARU,Diesel,Castilla-La Mancha,0049,06/07/2019
+1433,SUBARU,Diesel,Catalu�a,0063,06/07/2019
+1434,SUBARU,Diesel,Comunitat Valenciana,0005,06/07/2019
+1435,SUBARU,Diesel,Extremadura,0002,06/07/2019
+1436,SUBARU,Diesel,Galicia,0007,06/07/2019
+1437,SUBARU,Diesel,Madrid (Comunidad de),0042,06/07/2019
+1438,SUBARU,Diesel,Melilla,0001,06/07/2019
+1439,SUBARU,Diesel,Murcia (Regi�n de),0001,06/07/2019
+1440,SUBARU,Diesel,Navarra (Comunidad Foral de),0001,06/07/2019
+1441,SUBARU,Diesel,Pa�s Vasco,0018,06/07/2019
+1442,SUBARU,Diesel,Rioja (La),0003,06/07/2019
+1443,SUBARU,Gasolina,Andaluc�a,0017,06/07/2019
+1444,SUBARU,Gasolina,Arag�n,0011,06/07/2019
+1445,SUBARU,Gasolina,Asturias (Principado de),0007,06/07/2019
+1446,SUBARU,Gasolina,Balears (Illes),0001,06/07/2019
+1447,SUBARU,Gasolina,Canarias,0003,06/07/2019
+1448,SUBARU,Gasolina,Cantabria,0004,06/07/2019
+1449,SUBARU,Gasolina,Castilla y Le�n,0010,06/07/2019
+1450,SUBARU,Gasolina,Castilla-La Mancha,0013,06/07/2019
+1451,SUBARU,Gasolina,Catalu�a,0103,06/07/2019
+1452,SUBARU,Gasolina,Comunitat Valenciana,0008,06/07/2019
+1453,SUBARU,Gasolina,Extremadura,0003,06/07/2019
+1454,SUBARU,Gasolina,Galicia,0007,06/07/2019
+1455,SUBARU,Gasolina,Madrid (Comunidad de),0040,06/07/2019
+1456,SUBARU,Gasolina,Melilla,0001,06/07/2019
+1457,SUBARU,Gasolina,Murcia (Regi�n de),0001,06/07/2019
+1458,SUBARU,Gasolina,Navarra (Comunidad Foral de),0003,06/07/2019
+1459,SUBARU,Gasolina,Pa�s Vasco,0009,06/07/2019
+1460,SUZUKI,Diesel,Andaluc�a,0114,06/07/2019
+1461,SUZUKI,Diesel,Arag�n,0021,06/07/2019
+1462,SUZUKI,Diesel,Asturias (Principado de),0013,06/07/2019
+1463,SUZUKI,Diesel,Balears (Illes),0007,06/07/2019
+1464,SUZUKI,Diesel,Canarias,0002,06/07/2019
+1465,SUZUKI,Diesel,Castilla y Le�n,0026,06/07/2019
+1466,SUZUKI,Diesel,Castilla-La Mancha,0025,06/07/2019
+1467,SUZUKI,Diesel,Catalu�a,0043,06/07/2019
+1468,SUZUKI,Diesel,Comunitat Valenciana,0042,06/07/2019
+1469,SUZUKI,Diesel,Extremadura,0001,06/07/2019
+1470,SUZUKI,Diesel,Galicia,0023,06/07/2019
+1471,SUZUKI,Diesel,Madrid (Comunidad de),0090,06/07/2019
+1472,SUZUKI,Diesel,Murcia (Regi�n de),0019,06/07/2019
+1473,SUZUKI,Diesel,Navarra (Comunidad Foral de),0008,06/07/2019
+1474,SUZUKI,Diesel,Pa�s Vasco,0019,06/07/2019
+1475,SUZUKI,Diesel,Rioja (La),0007,06/07/2019
+1476,SUZUKI,Gasolina,Andaluc�a,0064,06/07/2019
+1477,SUZUKI,Gasolina,Arag�n,0020,06/07/2019
+1478,SUZUKI,Gasolina,Asturias (Principado de),0010,06/07/2019
+1479,SUZUKI,Gasolina,Balears (Illes),0046,06/07/2019
+1480,SUZUKI,Gasolina,Canarias,0045,06/07/2019
+1481,SUZUKI,Gasolina,Cantabria,0005,06/07/2019
+1482,SUZUKI,Gasolina,Castilla y Le�n,0031,06/07/2019
+1483,SUZUKI,Gasolina,Castilla-La Mancha,0014,06/07/2019
+1484,SUZUKI,Gasolina,Catalu�a,0156,06/07/2019
+1485,SUZUKI,Gasolina,Comunitat Valenciana,0067,06/07/2019
+1486,SUZUKI,Gasolina,Extremadura,0001,06/07/2019
+1487,SUZUKI,Gasolina,Galicia,0015,06/07/2019
+1488,SUZUKI,Gasolina,Madrid (Comunidad de),0087,06/07/2019
+1489,SUZUKI,Gasolina,Melilla,0002,06/07/2019
+1490,SUZUKI,Gasolina,Murcia (Regi�n de),0017,06/07/2019
+1491,SUZUKI,Gasolina,Navarra (Comunidad Foral de),0008,06/07/2019
+1492,SUZUKI,Gasolina,Pa�s Vasco,0016,06/07/2019
+1493,SUZUKI,Gasolina,Rioja (La),0018,06/07/2019
+1494,TESLA,El�ctrico,Andaluc�a,0002,06/07/2019
+1495,TESLA,El�ctrico,Catalu�a,0002,06/07/2019
+1496,TESLAMOTORS,El�ctrico,Andaluc�a,0001,06/07/2019
+1497,TESLAMOTORS,El�ctrico,Catalu�a,0003,06/07/2019
+1498,TESLAMOTORS,El�ctrico,Comunitat Valenciana,0002,06/07/2019
+1499,TESLAMOTORS,El�ctrico,Madrid (Comunidad de),0001,06/07/2019
+1500,TOYOTA,Diesel,Andaluc�a,0657,06/07/2019
+1501,TOYOTA,Diesel,Arag�n,0078,06/07/2019
+1502,TOYOTA,Diesel,Asturias (Principado de),0059,06/07/2019
+1503,TOYOTA,Diesel,Balears (Illes),0044,06/07/2019
+1504,TOYOTA,Diesel,Canarias,0039,06/07/2019
+1505,TOYOTA,Diesel,Cantabria,0039,06/07/2019
+1506,TOYOTA,Diesel,Castilla y Le�n,0156,06/07/2019
+1507,TOYOTA,Diesel,Castilla-La Mancha,0120,06/07/2019
+1508,TOYOTA,Diesel,Catalu�a,0463,06/07/2019
+1509,TOYOTA,Diesel,Ceuta,0007,06/07/2019
+1510,TOYOTA,Diesel,Comunitat Valenciana,0344,06/07/2019
+1511,TOYOTA,Diesel,Extremadura,0109,06/07/2019
+1512,TOYOTA,Diesel,Galicia,0169,06/07/2019
+1513,TOYOTA,Diesel,Madrid (Comunidad de),1239,06/07/2019
+1514,TOYOTA,Diesel,Melilla,0007,06/07/2019
+1515,TOYOTA,Diesel,Murcia (Regi�n de),0084,06/07/2019
+1516,TOYOTA,Diesel,Navarra (Comunidad Foral de),0036,06/07/2019
+1517,TOYOTA,Diesel,Pa�s Vasco,0141,06/07/2019
+1518,TOYOTA,Diesel,Rioja (La),0025,06/07/2019
+1519,TOYOTA,El�ctrico,Comunitat Valenciana,0001,06/07/2019
+1520,TOYOTA,El�ctrico,Madrid (Comunidad de),0001,06/07/2019
+1521,TOYOTA,Gas Licuado de Petroleo,Madrid (Comunidad de),0001,06/07/2019
+1522,TOYOTA,Gasolina,Andaluc�a,1161,06/07/2019
+1523,TOYOTA,Gasolina,Arag�n,0200,06/07/2019
+1524,TOYOTA,Gasolina,Asturias (Principado de),0130,06/07/2019
+1525,TOYOTA,Gasolina,Balears (Illes),0389,06/07/2019
+1526,TOYOTA,Gasolina,Canarias,0390,06/07/2019
+1527,TOYOTA,Gasolina,Cantabria,0104,06/07/2019
+1528,TOYOTA,Gasolina,Castilla y Le�n,0313,06/07/2019
+1529,TOYOTA,Gasolina,Castilla-La Mancha,0200,06/07/2019
+1530,TOYOTA,Gasolina,Catalu�a,1963,06/07/2019
+1531,TOYOTA,Gasolina,Ceuta,0009,06/07/2019
+1532,TOYOTA,Gasolina,Comunitat Valenciana,0925,06/07/2019
+1533,TOYOTA,Gasolina,Extremadura,0120,06/07/2019
+1534,TOYOTA,Gasolina,Galicia,0384,06/07/2019
+1535,TOYOTA,Gasolina,Madrid (Comunidad de),3402,06/07/2019
+1536,TOYOTA,Gasolina,Melilla,0006,06/07/2019
+1537,TOYOTA,Gasolina,Murcia (Regi�n de),0173,06/07/2019
+1538,TOYOTA,Gasolina,Navarra (Comunidad Foral de),0097,06/07/2019
+1539,TOYOTA,Gasolina,Pa�s Vasco,0362,06/07/2019
+1540,TOYOTA,Gasolina,Rioja (La),0057,06/07/2019
+1541,TRIPOD,,Comunitat Valenciana,0001,06/07/2019
+1542,TRIPOD,Diesel,Extremadura,0001,06/07/2019
+1543,TRIUMPH,Gasolina,Andaluc�a,0001,06/07/2019
+1544,TRIUMPH,Gasolina,Catalu�a,0002,06/07/2019
+1545,TRIUMPH,Gasolina,Comunitat Valenciana,0002,06/07/2019
+1546,TVR,Gasolina,Canarias,0001,06/07/2019
+1547,VAUXHALL,Diesel,Comunitat Valenciana,0001,06/07/2019
+1548,VAUXHALL,Diesel,Murcia (Regi�n de),0001,06/07/2019
+1549,VAUXHALL,Gasolina,Andaluc�a,0001,06/07/2019
+1550,VAUXHALL,Gasolina,Canarias,0001,06/07/2019
+1551,VAUXHALL,Gasolina,Cantabria,0001,06/07/2019
+1552,VAUXHALL,Gasolina,Comunitat Valenciana,0003,06/07/2019
+1553,VESPA,Gasolina,Catalu�a,0001,06/07/2019
+1554,VOLKSWAGEN,Diesel,Andaluc�a,1860,06/07/2019
+1555,VOLKSWAGEN,Diesel,Arag�n,0260,06/07/2019
+1556,VOLKSWAGEN,Diesel,Asturias (Principado de),0258,06/07/2019
+1557,VOLKSWAGEN,Diesel,Balears (Illes),0227,06/07/2019
+1558,VOLKSWAGEN,Diesel,Canarias,0158,06/07/2019
+1559,VOLKSWAGEN,Diesel,Cantabria,0166,06/07/2019
+1560,VOLKSWAGEN,Diesel,Castilla y Le�n,0490,06/07/2019
+1561,VOLKSWAGEN,Diesel,Castilla-La Mancha,0389,06/07/2019
+1562,VOLKSWAGEN,Diesel,Catalu�a,2166,06/07/2019
+1563,VOLKSWAGEN,Diesel,Ceuta,0033,06/07/2019
+1564,VOLKSWAGEN,Diesel,Comunitat Valenciana,1382,06/07/2019
+1565,VOLKSWAGEN,Diesel,Extremadura,0224,06/07/2019
+1566,VOLKSWAGEN,Diesel,Galicia,0651,06/07/2019
+1567,VOLKSWAGEN,Diesel,Madrid (Comunidad de),6502,06/07/2019
+1568,VOLKSWAGEN,Diesel,Melilla,0016,06/07/2019
+1569,VOLKSWAGEN,Diesel,Murcia (Regi�n de),0432,06/07/2019
+1570,VOLKSWAGEN,Diesel,Navarra (Comunidad Foral de),0254,06/07/2019
+1571,VOLKSWAGEN,Diesel,Pa�s Vasco,0558,06/07/2019
+1572,VOLKSWAGEN,Diesel,Rioja (La),0064,06/07/2019
+1573,VOLKSWAGEN,El�ctrico,Andaluc�a,0011,06/07/2019
+1574,VOLKSWAGEN,El�ctrico,Arag�n,0002,06/07/2019
+1575,VOLKSWAGEN,El�ctrico,Asturias (Principado de),0003,06/07/2019
+1576,VOLKSWAGEN,El�ctrico,Balears (Illes),0002,06/07/2019
+1577,VOLKSWAGEN,El�ctrico,Canarias,0004,06/07/2019
+1578,VOLKSWAGEN,El�ctrico,Cantabria,0001,06/07/2019
+1579,VOLKSWAGEN,El�ctrico,Castilla y Le�n,0005,06/07/2019
+1580,VOLKSWAGEN,El�ctrico,Castilla-La Mancha,0002,06/07/2019
+1581,VOLKSWAGEN,El�ctrico,Catalu�a,0030,06/07/2019
+1582,VOLKSWAGEN,El�ctrico,Comunitat Valenciana,0004,06/07/2019
+1583,VOLKSWAGEN,El�ctrico,Galicia,0004,06/07/2019
+1584,VOLKSWAGEN,El�ctrico,Madrid (Comunidad de),0029,06/07/2019
+1585,VOLKSWAGEN,El�ctrico,Murcia (Regi�n de),0001,06/07/2019
+1586,VOLKSWAGEN,El�ctrico,Navarra (Comunidad Foral de),0001,06/07/2019
+1587,VOLKSWAGEN,El�ctrico,Pa�s Vasco,0006,06/07/2019
+1588,VOLKSWAGEN,El�ctrico,Rioja (La),0001,06/07/2019
+1589,VOLKSWAGEN,Gas Licuado de Petroleo,Madrid (Comunidad de),0001,06/07/2019
+1590,VOLKSWAGEN,Gas Natural Comprimido,Catalu�a,0004,06/07/2019
+1591,VOLKSWAGEN,Gas Natural Comprimido,Pa�s Vasco,0001,06/07/2019
+1592,VOLKSWAGEN,Gasolina,Andaluc�a,0760,06/07/2019
+1593,VOLKSWAGEN,Gasolina,Arag�n,0109,06/07/2019
+1594,VOLKSWAGEN,Gasolina,Asturias (Principado de),0089,06/07/2019
+1595,VOLKSWAGEN,Gasolina,Balears (Illes),0479,06/07/2019
+1596,VOLKSWAGEN,Gasolina,Canarias,1019,06/07/2019
+1597,VOLKSWAGEN,Gasolina,Cantabria,0060,06/07/2019
+1598,VOLKSWAGEN,Gasolina,Castilla y Le�n,0197,06/07/2019
+1599,VOLKSWAGEN,Gasolina,Castilla-La Mancha,0123,06/07/2019
+1600,VOLKSWAGEN,Gasolina,Catalu�a,1168,06/07/2019
+1601,VOLKSWAGEN,Gasolina,Ceuta,0011,06/07/2019
+1602,VOLKSWAGEN,Gasolina,Comunitat Valenciana,0585,06/07/2019
+1603,VOLKSWAGEN,Gasolina,Extremadura,0046,06/07/2019
+1604,VOLKSWAGEN,Gasolina,Galicia,0223,06/07/2019
+1605,VOLKSWAGEN,Gasolina,Madrid (Comunidad de),3769,06/07/2019
+1606,VOLKSWAGEN,Gasolina,Melilla,0016,06/07/2019
+1607,VOLKSWAGEN,Gasolina,Murcia (Regi�n de),0093,06/07/2019
+1608,VOLKSWAGEN,Gasolina,Navarra (Comunidad Foral de),0095,06/07/2019
+1609,VOLKSWAGEN,Gasolina,Pa�s Vasco,0231,06/07/2019
+1610,VOLKSWAGEN,Gasolina,Rioja (La),0028,06/07/2019
+1611,VOLKSWAGEN,Sin especificar,Andaluc�a,0001,06/07/2019
+1612,VOLKSWAGENVW,Diesel,Andaluc�a,0001,06/07/2019
+1613,VOLKSWAGENVW,Diesel,Castilla y Le�n,0002,06/07/2019
+1614,VOLKSWAGENVW,Diesel,Catalu�a,0001,06/07/2019
+1615,VOLKSWAGENVW,Diesel,Comunitat Valenciana,0001,06/07/2019
+1616,VOLKSWAGENVW,Diesel,Galicia,0003,06/07/2019
+1617,VOLKSWAGENVW,Diesel,Madrid (Comunidad de),0001,06/07/2019
+1618,VOLKSWAGENVW,Diesel,Murcia (Regi�n de),0001,06/07/2019
+1619,VOLKSWAGENVW,Diesel,Pa�s Vasco,0001,06/07/2019
+1620,VOLKSWAGENVW,Gasolina,Andaluc�a,0002,06/07/2019
+1621,VOLKSWAGENVW,Gasolina,Canarias,0001,06/07/2019
+1622,VOLKSWAGENVW,Gasolina,Castilla y Le�n,0001,06/07/2019
+1623,VOLKSWAGENVW,Gasolina,Comunitat Valenciana,0001,06/07/2019
+1624,VOLVO,Butano,Castilla y Le�n,0001,06/07/2019
+1625,VOLVO,Diesel,Andaluc�a,0289,06/07/2019
+1626,VOLVO,Diesel,Arag�n,0038,06/07/2019
+1627,VOLVO,Diesel,Asturias (Principado de),0031,06/07/2019
+1628,VOLVO,Diesel,Balears (Illes),0034,06/07/2019
+1629,VOLVO,Diesel,Canarias,0032,06/07/2019
+1630,VOLVO,Diesel,Cantabria,0023,06/07/2019
+1631,VOLVO,Diesel,Castilla y Le�n,0088,06/07/2019
+1632,VOLVO,Diesel,Castilla-La Mancha,0089,06/07/2019
+1633,VOLVO,Diesel,Catalu�a,0340,06/07/2019
+1634,VOLVO,Diesel,Ceuta,0002,06/07/2019
+1635,VOLVO,Diesel,Comunitat Valenciana,0156,06/07/2019
+1636,VOLVO,Diesel,Extremadura,0049,06/07/2019
+1637,VOLVO,Diesel,Galicia,0076,06/07/2019
+1638,VOLVO,Diesel,Madrid (Comunidad de),1408,06/07/2019
+1639,VOLVO,Diesel,Murcia (Regi�n de),0048,06/07/2019
+1640,VOLVO,Diesel,Navarra (Comunidad Foral de),0023,06/07/2019
+1641,VOLVO,Diesel,Pa�s Vasco,0111,06/07/2019
+1642,,Diesel,Rioja (La),0012,06/07/2019
+1643,VOLVO,Gasolina,Andaluc�a,0023,06/07/2019
+1644,VOLVO,Gasolina,Arag�n,0002,06/07/2019
+1645,VOLVO,Gasolina,Asturias (Principado de),0002,06/07/2019
+1646,VOLVO,Gasolina,Balears (Illes),0005,06/07/2019
+1647,VOLVO,Gasolina,Canarias,0013,06/07/2019
+1648,VOLVO,Gasolina,Cantabria,0001,06/07/2019
+1649,VOLVO,Gasolina,Castilla y Le�n,0004,06/07/2019
+1650,VOLVO,Gasolina,Castilla-La Mancha,0002,06/07/2019
+1651,VOLVO,Gasolina,Catalu�a,0016,06/07/2019
+1652,VOLVO,Gasolina,Comunitat Valenciana,0019,06/07/2019
+1653,VOLVO,Gasolina,Galicia,0007,06/07/2019
+1654,VOLVO,Gasolina,Madrid (Comunidad de),0032,06/07/2019
+1655,VOLVO,Gasolina,Murcia (Regi�n de),0002,06/07/2019
+1656,VOLVO,Gasolina,Navarra (Comunidad Foral de),0002,06/07/2019
+1657,VOLVO,Gasolina,Pa�s Vasco,0006,06/07/2019
